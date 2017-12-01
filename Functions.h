@@ -192,15 +192,32 @@ void printDeficientClasses(){
     for (Student student : bbList){
         if ((student.shortOnSparring == true) || (student.shortOnRegular == true) || (student.shortOnSwat == true)){
             cout << student.name << endl;
-            cout << "\tSWAT:     " << student.swatCount;
-            cout << " *** " << (16 - student.swatCount) << " SWAT classes needed.";
-            cout << endl;
-            cout << "\tRegular:  " << student.regularClassCount;
-            cout << " *** " << (10 - student.regularClassCount) << " Regular classes needed.";
-            cout << endl;
-            cout << "\tSparring: " << student.sparringClassCount;
-            cout << " *** " << (10 - student.sparringClassCount) << " Sparring classes needed.";
-            cout << endl;
+            if (student.swatCount >= 16){
+                cout<<"\tSWAT:     "<<student.swatCount<<endl;
+            }
+            else{
+                cout << "\tSWAT:     " << student.swatCount;
+                cout << " *** " << (16 - student.swatCount) << " SWAT classes needed.";
+                cout << endl;
+            }
+            if (student.regularClassCount >= 10){
+                cout<<"\tRegular:  "<<student.regularClassCount;
+                cout<<endl;
+            }
+            else{
+                cout << "\tRegular:  " << student.regularClassCount;
+                cout << " *** " << (10 - student.regularClassCount) << " Regular classes needed.";
+                cout << endl;
+            }
+            if (student.sparringClassCount >= 10){
+                cout<<"\tSparring: "<<student.sparringClassCount;
+                cout<<endl;
+            }
+            else{
+                cout << "\tSparring: " << student.sparringClassCount;
+                cout << " *** " << (10 - student.sparringClassCount) << " Sparring classes needed.";
+                cout << endl;
+            }
         }
     }
 }

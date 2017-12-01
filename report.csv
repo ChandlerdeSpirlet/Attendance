@@ -1,12 +1,86 @@
 Client,Type
 "Brock, Tiberious",Basic
+"Colaizzi, Sabrina",Basic
+"Colobong, Xylah",Basic
+"Drexel-Risch, Mason",Basic
+"Fabrizio, Giana",Basic
+"Huang, Tracy",Basic
+"Ivanyan, Ash",Basic
+"LoSasso, Tayden",Basic
+"Malish, Jayden",Basic
+"McAlister, Caleb",Basic
+"McDow, Kristen",Basic
+"McDow, Lillian",Basic
+"McDow, Tiffany",Basic
+"Millikan, Kieran",Basic
+"Moore, Shyanne",Basic
+"Niosi, Cassidy",Basic
+"Shylkofski, Owen",Basic
+"Van Gelder, Peyton",Basic
+"Brock, Tiberious",Basic
+"Colaizzi, Sabrina",Basic
+"Fabrizio, Giana",Basic
+"Farish, Emma",Basic
+"Farish, Mackenzie",Basic
+"Gill, Austin",Basic
+"Huang, Tracy",Basic
+"Ivanyan, Ash",Basic
+"Jensen, Jack",Basic
+"LaValley, Meya",Basic
+"McAlister, Caleb",Basic
+"McDow, Kristen",Basic
+"McDow, Lillian",Basic
+"McDow, Tiffany",Basic
+"Millikan, Kieran",Basic
+"Moreno, Nicholas",Basic
+"Niosi, Cassidy",Basic
+"Powis, Alex",Basic
+"Scott, Austin",Basic
+"Scott, Madison",Basic
+"Shylkofski, Owen",Basic
+"Spence, Hayley",Basic
+"Sundberg, Michayla",Basic
+"Brock, Tiberious",Basic
+"Colaizzi, Sabrina",Basic
 "Davis, Bailey",Basic
 "Davis, Stacey",Basic
+"Davros, Quinn",Basic
+"Fabrizio, Giana",Basic
+"George, Jaylen",Basic
+"Huang, Tracy",Basic
+"Massey, Armaan",Basic
+"McDow, Lillian",Basic
+"McDow, Tiffany",Basic
+"McDow, Kristen",Basic
+"Millikan, Kieran",Basic
+"Moore, Shyanne",Basic
+"Schmitz, Tanner",Basic
+"Schmitz, Hunter",Basic
+"Towery, Toby",Basic
+"Van Gelder, Peyton",Basic
+"Brock, Tiberious",Basic
+"Farish, Emma",Basic
+"Farish, Mackenzie",Basic
+"Gill, Austin",Basic
+"Hill, Ashton",Basic
+"Hill, Fiona",Basic
+"Ivanyan, Ash",Basic
+"LaValley, Meya",Basic
+"Moreno, Nicholas",Basic
+"Munoz, Paul",Basic
+"Niosi, Cassidy",Basic
+"Powis, Alex",Basic
+"Schmitz, Hunter",Basic
+"Schmitz, Tanner",Basic
+"Shylkofski, Owen",Basic
+"Brock, Tiberious",Basic
+"Davis, Stacey",Basic
+"Davis, Bailey",Basic
 "Fabrizio, Giana",Basic
 "Huang, Tracy",Basic
 "McAlister, Caleb",Basic
-"McDow, Lillian",Basic
 "McDow, Tiffany",Basic
+"McDow, Lillian",Basic
 "Millikan, Kieran",Basic
 "Shylkofski, Owen",Basic
 "Towery, Toby",Basic
@@ -15,18 +89,18 @@ Client,Type
 "Farish, Emma",Basic
 "Farish, Mackenzie",Basic
 "Gill, Austin",Basic
-"Hill, Ashton",Basic
 "Hill, Fiona",Basic
+"Hill, Ashton",Basic
 "McAlister, Caleb",Basic
-"McDow, Kristen",Basic
 "McDow, Tiffany",Basic
+"McDow, Kristen",Basic
 "McDow, Lillian",Basic
 "Millikan, Kieran",Basic
 "Moore, Shyanne",Basic
 "Munoz, Paul",Basic
 "Powis, Alex",Basic
-"Schmitz, Hunter",Basic
 "Schmitz, Tanner",Basic
+"Schmitz, Hunter",Basic
 "Huang, Tracy",Basic
 "Jensen, Jack",Basic
 "Niosi, Cassidy",Basic
@@ -52,8 +126,8 @@ Client,Type
 "LaValley, Meya",Basic
 "LoSasso, Tayden",Basic
 "McAlister, Caleb",Basic
-"McDow, Kristen",Basic
 "McDow, Lillian",Basic
+"McDow, Kristen",Basic
 "McDow, Tiffany",Basic
 "Millikan, Kieran",Basic
 "Shylkofski, Owen",Basic
@@ -63,13 +137,13 @@ Client,Type
 "Duke, Brealynn",Basic
 "Farish, Mackenzie",Basic
 "Gill, Austin",Basic
-"Hill, Fiona",Basic
 "Hill, Ashton",Basic
+"Hill, Fiona",Basic
 "Huang, Tracy",Basic
 "Ivanyan, Ash",Basic
 "McAlister, Caleb",Basic
-"McDow, Lillian",Basic
 "McDow, Tiffany",Basic
+"McDow, Lillian",Basic
 "McElroy, Marisha",Basic
 "Millikan, Kieran",Basic
 "Moreno, Nicholas",Basic
@@ -87,8 +161,8 @@ Client,Type
 "Towery, Toby",Basic
 "Van Gelder, Peyton",Basic
 "Brock, Tiberious",Basic
-"Davis, Stacey",Basic
 "Davis, Bailey",Basic
+"Davis, Stacey",Basic
 "Fabrizio, Giana",Basic
 "Farish, Mackenzie",Basic
 "George, Jaylen",Basic
@@ -109,11 +183,11 @@ Client,Type
 "Powis, Alex",Basic
 "St. Arbor, Cameron",Basic
 "Chesley-Vogels, Chloe",Basic
-"Davis, Bailey",Basic
 "Davis, Stacey",Basic
+"Davis, Bailey",Basic
 "Duke, Brealynn",Basic
-"Farish, Emma",Basic
 "Farish, Mackenzie",Basic
+"Farish, Emma",Basic
 "Gill, Austin",Basic
 "Huang, Tracy",Basic
 "Ivanyan, Ash",Basic
@@ -140,8 +214,8 @@ Client,Type
 "Farish, Mackenzie",Basic
 "Ivanyan, Ash",Basic
 "McAlister, Caleb",Basic
-"McDow, Tiffany",Basic
 "McDow, Lillian",Basic
+"McDow, Tiffany",Basic
 "McDow, Kristen",Basic
 "McElroy, Marisha",Basic
 "Moreno, Nicholas",Basic
@@ -153,12 +227,12 @@ Client,Type
 "Starritt, Mason",Basic
 "Brock, Tiberious",Basic
 "Colaizzi, Sabrina",Basic
-"Davis, Stacey",Basic
 "Davis, Bailey",Basic
+"Davis, Stacey",Basic
 "LoSasso, Tayden",Basic
 "Massey, Armaan",Basic
-"McDow, Lillian",Basic
 "McDow, Kristen",Basic
+"McDow, Lillian",Basic
 "McElroy, Marisha",Basic
 "St. Arbor, Cameron",Basic
 "Towery, Toby",Basic
@@ -171,8 +245,8 @@ Client,Type
 "Gill, Austin",Basic
 "Moreno, Nicholas",Basic
 "Niosi, Cassidy",Basic
-"Schmitz, Hunter",Basic
 "Schmitz, Tanner",Basic
+"Schmitz, Hunter",Basic
 "Starritt, Mason",Basic
 "Watley, Ashton",Basic
 "Watley, Carmen",Basic
@@ -185,37 +259,37 @@ Client,Type
 "Van Gelder, Peyton",Basic
 "Brock, Tiberious",Basic
 "Colaizzi, Sabrina",Basic
-"Davis, Bailey",Basic
 "Davis, Stacey",Basic
+"Davis, Bailey",Basic
 "Fabrizio, Giana",Basic
 "Gill, Austin",Basic
 "Ivanyan, Ash",Basic
 "LoSasso, Tayden",Basic
 "Massey, Armaan",Basic
 "McAlister, Caleb",Basic
+"McDow, Tiffany",Basic
 "McDow, Kristen",Basic
 "McDow, Lillian",Basic
-"McDow, Tiffany",Basic
 "McElroy, Marisha",Basic
 "Moore, Shyanne",Basic
 "Moreno, Nicholas",Basic
-"Schmitz, Tanner",Basic
 "Schmitz, Hunter",Basic
+"Schmitz, Tanner",Basic
 "Starritt, Mason",Basic
 "Sundberg, Michayla",Basic
 "Brock, Tiberious",Basic
 "Gill, Austin",Basic
 "McAlister, Caleb",Basic
+"McDow, Lillian",Basic
 "McDow, Kristen",Basic
 "McDow, Tiffany",Basic
-"McDow, Lillian",Basic
 "Moreno, Nicholas",Basic
 "Niosi, Cassidy",Basic
 "Schmitz, Tanner",Basic
 "Shylkofski, Owen",Basic
 "Sundberg, Michayla",Basic
-"Davis, Stacey",Basic
 "Davis, Bailey",Basic
+"Davis, Stacey",Basic
 "Farish, Emma",Basic
 "Farish, Mackenzie",Basic
 "Gill, Austin",Basic
@@ -247,8 +321,8 @@ Client,Type
 "McElroy, Marisha",Basic
 "Moore, Shyanne",Basic
 "Powis, Alex",Basic
-"Schmitz, Hunter",Basic
 "Schmitz, Tanner",Basic
+"Schmitz, Hunter",Basic
 "St. Arbor, Cameron",Basic
 "Starritt, Mason",Basic
 "Brock, Tiberious",Basic
@@ -261,8 +335,8 @@ Client,Type
 "Moore, Shyanne",Basic
 "Moreno, Nicholas",Basic
 "Powis, Alex",Basic
-"Schmitz, Hunter",Basic
 "Schmitz, Tanner",Basic
+"Schmitz, Hunter",Basic
 "Shylkofski, Owen",Basic
 "Sundberg, Michayla",Basic
 "Brock, Tiberious",Basic
@@ -273,8 +347,8 @@ Client,Type
 "Ivanyan, Ash",Basic
 "LoSasso, Tayden",Basic
 "Moreno, Nicholas",Basic
-"Schmitz, Tanner",Basic
 "Schmitz, Hunter",Basic
+"Schmitz, Tanner",Basic
 "Sundberg, Michayla",Basic
 "Sundberg, Maddi",Basic
 "Van Gelder, Peyton",Basic
@@ -387,8 +461,8 @@ Client,Type
 "Raine, Breydon",Basic
 "Skillman, Liam",Basic
 "Dreiling, Jake",Basic
-"Ellison, Ethan",Basic
 "Ellison, Andrew",Basic
+"Ellison, Ethan",Basic
 "Ellison, Aaron",Basic
 "Gill, Austin",Basic
 "Kimball, Amy",Basic
@@ -406,8 +480,8 @@ Client,Type
 "Straley, Alison",Basic
 "Akerley, Emma",Basic
 "Brock, Tiberious",Basic
-"Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
+"Ellison, Andrew",Basic
 "Ellison, Aaron",Basic
 "Flynn, Aiden",Basic
 "Flynn, Jason",Basic
@@ -442,8 +516,8 @@ Client,Type
 "Raine, Breydon",Basic
 "Stebbins, Emma",Basic
 "Stebbins, Evelyn",Basic
-"Straley, Alison",Basic
 "Straley, Wyatt",Basic
+"Straley, Alison",Basic
 "Akerley, Emma",Basic
 "Brock, Tiberious",Basic
 "Chesley-Vogels, Chloe",Basic
@@ -460,36 +534,36 @@ Client,Type
 "Pierce, Gunner",Basic
 "Raine, Breydon",Basic
 "Skillman, Liam",Basic
-"Watley, Carmen",Basic
 "Watley, Ashton",Basic
+"Watley, Carmen",Basic
 "Brock, Tiberious",Basic
 "Dreiling, Jake",Basic
 "Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
 "Ellison, Aaron",Basic
-"Figueroa, Dylan",Basic
 "Figueroa, Alyssa",Basic
+"Figueroa, Dylan",Basic
 "Gill, Austin",Basic
-"Luong, Chloe",Basic
 "Luong, Ethan",Basic
+"Luong, Chloe",Basic
 "Mix, Autumn",Basic
 "Panic, Stefan",Basic
 "Pierce, Gunner",Basic
-"Straley, Wyatt",Basic
 "Straley, Alison",Basic
+"Straley, Wyatt",Basic
 "Algiere, Serenity",Basic
 "Brock, Tiberious",Basic
 "Dreiling, Jake",Basic
-"Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
+"Ellison, Andrew",Basic
 "Ellison, Aaron",Basic
 "Figueroa, Alyssa",Basic
 "Figueroa, Dylan",Basic
 "Flynn, Aiden",Basic
 "Flynn, Jason",Basic
 "Gill, Austin",Basic
-"Luong, Ethan",Basic
 "Luong, Chloe",Basic
+"Luong, Ethan",Basic
 "Massey, Armaan",Basic
 "Mix, Autumn",Basic
 "Pierce, Gunner",Basic
@@ -505,8 +579,8 @@ Client,Type
 "Pierce, Gunner",Basic
 "Raine, Breydon",Basic
 "Skillman, Liam",Basic
-"Watley, Ashton",Basic
 "Watley, Carmen",Basic
+"Watley, Ashton",Basic
 "Baker, Savannah",Basic
 "Brock, Tiberious",Basic
 "Figueroa, Dylan",Basic
@@ -521,8 +595,8 @@ Client,Type
 "Raine, Breydon",Basic
 "Stebbins, Emma",Basic
 "Stebbins, Evelyn",Basic
-"Straley, Alison",Basic
 "Straley, Wyatt",Basic
+"Straley, Alison",Basic
 "Akerley, Emma",Basic
 "Brock, Tiberious",Basic
 "Dobnak, Riane",Basic
@@ -535,8 +609,8 @@ Client,Type
 "Mix, Autumn",Basic
 "Moore, Shyanne",Basic
 "Pierce, Gunner",Basic
-"Watley, Carmen",Basic
 "Watley, Ashton",Basic
+"Watley, Carmen",Basic
 "Dreiling, Jake",Basic
 "Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
@@ -548,19 +622,19 @@ Client,Type
 "Pierce, Gunner",Basic
 "Stebbins, Evelyn",Basic
 "Stebbins, Emma",Basic
-"Straley, Wyatt",Basic
 "Straley, Alison",Basic
+"Straley, Wyatt",Basic
 "Luong, Ethan",Basic
 "Luong, Chloe",Basic
-"Straley, Alison",Basic
 "Straley, Wyatt",Basic
+"Straley, Alison",Basic
 "Akerley, Emma",Basic
 "Massey, Armaan",Basic
 "Mix, Autumn",Basic
 "Moore, Shyanne",Basic
 "Panic, Stefan",Basic
-"Straley, Wyatt",Basic
 "Straley, Alison",Basic
+"Straley, Wyatt",Basic
 "Chesley-Vogels, Chloe",Basic
 "Ellison, Ethan",Basic
 "Ellison, Andrew",Basic
@@ -586,16 +660,16 @@ Client,Type
 "Pierce, Gunner",Basic
 "Raine, Breydon",Basic
 "Skillman, Liam",Basic
-"Stebbins, Emma",Basic
 "Stebbins, Evelyn",Basic
+"Stebbins, Emma",Basic
 "Akerley, Emma",Basic
 "Baker, Savannah",Basic
 "Brock, Tiberious",Basic
 "Dobnak, Riane",Basic
 "Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
-"Figueroa, Dylan",Basic
 "Figueroa, Alyssa",Basic
+"Figueroa, Dylan",Basic
 "Flynn, Aiden",Basic
 "Massey, Armaan",Basic
 "Mix, Autumn",Basic
@@ -621,8 +695,8 @@ Client,Type
 "Massey, Armaan",Basic
 "Panic, Stefan",Basic
 "Raine, Breydon",Basic
-"Watley, Ashton",Basic
 "Watley, Carmen",Basic
+"Watley, Ashton",Basic
 "Baker, Savannah",Basic
 "Brock, Tiberious",Basic
 "Ellison, Andrew",Basic
@@ -633,8 +707,8 @@ Client,Type
 "Mix, Autumn",Basic
 "Pierce, Gunner",Basic
 "Skillman, Liam",Basic
-"Straley, Alison",Basic
 "Straley, Wyatt",Basic
+"Straley, Alison",Basic
 "Stebbins, Emma",Basic
 "Stebbins, Evelyn",Basic
 "Akerley, Emma",Basic
@@ -650,8 +724,8 @@ Client,Type
 "Pierce, Gunner",Basic
 "Akerley, Emma",Basic
 "Algiere, Serenity",Basic
-"Algiere, Samuel",Basic
 "Algiere, Elizabeth",Basic
+"Algiere, Samuel",Basic
 "Brock, Tiberious",Basic
 "Ellison, Andrew",Basic
 "Ellison, Ethan",Basic
@@ -677,15 +751,15 @@ Client,Type
 "Pierce, Gunner",Basic
 "Raine, Breydon",Basic
 "Skillman, Liam",Basic
-"Stebbins, Emma",Basic
 "Stebbins, Evelyn",Basic
+"Stebbins, Emma",Basic
 "Straley, Alison",Basic
 "Straley, Wyatt",Basic
 "Algiere, Serenity",Basic
 "Brock, Tiberious",Basic
 "Dobnak, Riane",Basic
-"Figueroa, Alyssa",Basic
 "Figueroa, Dylan",Basic
+"Figueroa, Alyssa",Basic
 "Flynn, Aiden",Basic
 "Mix, Autumn",Basic
 "Moore, Shyanne",Basic
@@ -706,21 +780,59 @@ Client,Type
 "Stebbins, Emma",Basic
 "Straley, Wyatt",Basic
 "Straley, Alison",Basic
+"Ambriz, Sofia",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"Byers, Jackson",Black Belt/2nd Degree
+"Byers, Dave",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Grant, Lexi",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
+"Mansanares, Nick",Black Belt/2nd Degree
+"Mestas, Jessica",Black Belt/2nd Degree
+"Nagel, Kurt",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Pas-Flythe, Bethany",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Hayley",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Grant, Lexi",Black Belt/2nd Degree
+"Harmon, Sierra",Black Belt/2nd Degree
+"Nagel, Kurt",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Pas-Flythe, Bethany",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Hayley",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Steyn, Eleanor",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
 "Braun, Gil",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
 "De Spirlet, Andre",Black Belt/2nd Degree
 "Grant, Lexi",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
-"Mansanares, Benjamin",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
 "Nagel, Kurt",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
@@ -761,8 +873,8 @@ Client,Type
 "Parker, William",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pidek, Aaron",Black Belt/2nd Degree
-"Steyn, Eleanor",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
+"Steyn, Eleanor",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
 "Braun, Gil",Black Belt/2nd Degree
 "Davis, Taylor",Black Belt/2nd Degree
@@ -770,12 +882,12 @@ Client,Type
 "Hoffman, Robert",Black Belt/2nd Degree
 "Hoffmann, Dave",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
-"Mansanares, Nick",Black Belt/2nd Degree
 "Mansanares, Benjamin",Black Belt/2nd Degree
+"Mansanares, Nick",Black Belt/2nd Degree
 "Panning, Jennifer",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
-"Pidek, Seanna",Black Belt/2nd Degree
 "Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
 "Pidek, Hayley",Black Belt/2nd Degree
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
@@ -805,8 +917,8 @@ Client,Type
 "Hoffmann, Dave",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
 "Kofal, Gillie",Black Belt/2nd Degree
-"Mansanares, Benjamin",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
 "Nagel, Kurt",Black Belt/2nd Degree
 "Parker, William",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
@@ -832,8 +944,8 @@ Client,Type
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pinkerton, Kyle",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
-"Steyn, Heather",Black Belt/2nd Degree
 "Steyn, Eleanor",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
 "Teff, Tanner",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
 "Byers, Jackson",Black Belt/2nd Degree
@@ -855,8 +967,8 @@ Client,Type
 "Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Kendra",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
-"Steyn, Eleanor",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
+"Steyn, Eleanor",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
 "De Spirlet, Andre",Black Belt/2nd Degree
@@ -873,8 +985,8 @@ Client,Type
 "Hoffmann, Dave",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
 "Kofal, Gillie",Black Belt/2nd Degree
-"Mansanares, Nick",Black Belt/2nd Degree
 "Mansanares, Benjamin",Black Belt/2nd Degree
+"Mansanares, Nick",Black Belt/2nd Degree
 "Parker, William",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pidek, Hayley",Black Belt/2nd Degree
@@ -882,8 +994,8 @@ Client,Type
 "Pratt, Emma",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
-"Steyn, Heather",Black Belt/2nd Degree
 "Steyn, Eleanor",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
 "Byers, Jackson",Black Belt/2nd Degree
 "Byers, Dave",Black Belt/2nd Degree
@@ -903,12 +1015,12 @@ Client,Type
 "Flythe, Kaylee",Black Belt/2nd Degree
 "Hoffmann, Dave",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
-"Mansanares, Benjamin",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
 "Panning, Jennifer",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
-"Pidek, Seanna",Black Belt/2nd Degree
 "Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
 "Pidek, Hayley",Black Belt/2nd Degree
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
@@ -926,8 +1038,8 @@ Client,Type
 "Harmon, Sierra",Black Belt/2nd Degree
 "Hoffman, Robert",Black Belt/2nd Degree
 "Nagel, Kurt",Black Belt/2nd Degree
-"Pidek, Aaron",Black Belt/2nd Degree
 "Pidek, Seanna",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
 "Pinkerton, Kyle",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
@@ -949,11 +1061,11 @@ Client,Type
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
-"Steyn, Eleanor",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
+"Steyn, Eleanor",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
 "Davis, Taylor",Black Belt/2nd Degree
 "Harmon, Sierra",Black Belt/2nd Degree
@@ -967,8 +1079,8 @@ Client,Type
 "Bauman, Suzanne",Black Belt/2nd Degree
 "Bauman, Peter",Black Belt/2nd Degree
 "Davis, Taylor",Black Belt/2nd Degree
-"De Spirlet, Andre",Black Belt/2nd Degree
 "De Spirlet, Sage",Black Belt/2nd Degree
+"De Spirlet, Andre",Black Belt/2nd Degree
 "Flythe, Kaylee",Black Belt/2nd Degree
 "Harker, Carson",Black Belt/2nd Degree
 "Hoffman, Robert",Black Belt/2nd Degree
@@ -981,13 +1093,13 @@ Client,Type
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
-"Rosene, Seth",Black Belt/2nd Degree
 "Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
 "Rosene, Kendra",Black Belt/2nd Degree
-"Steyn, Heather",Black Belt/2nd Degree
 "Steyn, Eleanor",Black Belt/2nd Degree
-"Augat, Jake",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
 "Augat, Brian",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
 "Byers, Dave",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
 "De Spirlet, Andre",Black Belt/2nd Degree
@@ -1004,8 +1116,8 @@ Client,Type
 "Augat, Brian",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
 "Berg, Noah",Black Belt/2nd Degree
-"Braun, Gil",Black Belt/2nd Degree
 "Braun, Tyler",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
 "Byers, Jackson",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
 "Davis, Taylor",Black Belt/2nd Degree
@@ -1015,8 +1127,8 @@ Client,Type
 "Hoffmann, Dave",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
 "Kofal, Gillie",Black Belt/2nd Degree
-"Mansanares, Benjamin",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
 "Panning, Jennifer",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pidek, Aaron",Black Belt/2nd Degree
@@ -1026,11 +1138,11 @@ Client,Type
 "Pratt, Emma",Black Belt/2nd Degree
 "Riotte, Tom",Black Belt/2nd Degree
 "Rosene, Kendra",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
-"Steyn, Eleanor",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
+"Steyn, Eleanor",Black Belt/2nd Degree
 "Zuver, Derek",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
 "Byers, Dave",Black Belt/2nd Degree
@@ -1043,8 +1155,8 @@ Client,Type
 "Ambriz, Sofia",Black Belt/2nd Degree
 "Augat, Brian",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
-"Bauman, Peter",Black Belt/2nd Degree
 "Bauman, Suzanne",Black Belt/2nd Degree
+"Bauman, Peter",Black Belt/2nd Degree
 "Berg, Noah",Black Belt/2nd Degree
 "Braun, Tyler",Black Belt/2nd Degree
 "Byers, Dave",Black Belt/2nd Degree
@@ -1061,14 +1173,14 @@ Client,Type
 "Panning, Jennifer",Black Belt/2nd Degree
 "Parker, William",Black Belt/2nd Degree
 "Pas-Flythe, Bethany",Black Belt/2nd Degree
-"Pidek, Aaron",Black Belt/2nd Degree
 "Pidek, Seanna",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
 "Pidek, Hayley",Black Belt/2nd Degree
 "Pinkerton, Kyle",Black Belt/2nd Degree
 "Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
-"Rosene, Seth",Black Belt/2nd Degree
 "Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
 "Rosene, Kendra",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
 "Teff, Tanner",Black Belt/2nd Degree
@@ -1082,19 +1194,19 @@ Client,Type
 "Pinkerton, Kyle",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
 "Rosene, Kendra",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
 "Skanderbeg, Tiana",Black Belt/2nd Degree
 "Young, Kaylee",Black Belt/2nd Degree
-"Bauman, Suzanne",Black Belt/2nd Degree
 "Bauman, Peter",Black Belt/2nd Degree
+"Bauman, Suzanne",Black Belt/2nd Degree
 "Mansanares, Benjamin",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
 "Nagel, Kurt",Black Belt/2nd Degree
 "Teff, Tanner",Black Belt/2nd Degree
 "Ambriz, Sofia",Black Belt/2nd Degree
-"Augat, Brian",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
+"Augat, Brian",Black Belt/2nd Degree
 "Braun, Jake",Black Belt/2nd Degree
 "Braun, Gil",Black Belt/2nd Degree
 "Byers, Jackson",Black Belt/2nd Degree
@@ -1123,6 +1235,15 @@ Client,Type
 "Steyn, Heather",Black Belt/2nd Degree
 "Steyn, Eleanor",Black Belt/2nd Degree
 "Teff, Tanner",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
+"Mansanares, Nick",Black Belt/2nd Degree Sparring
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
+"Mestas, Jessica",Black Belt/2nd Degree Sparring
+"Nagel, Kurt",Black Belt/2nd Degree Sparring
+"Pas-Flythe, Bethany",Black Belt/2nd Degree Sparring
+"Pidek, Aaron",Black Belt/2nd Degree Sparring
+"Pidek, Hayley",Black Belt/2nd Degree Sparring
 "Braun, Gil",Black Belt/2nd Degree Sparring
 "Byers, Dave",Black Belt/2nd Degree Sparring
 "Hoffmann, Dave",Black Belt/2nd Degree Sparring
@@ -1235,8 +1356,8 @@ Client,Type
 "Cooper, Lucas",Black Belt/2nd Degree Sparring
 "Herron, Jude",Black Belt/2nd Degree Sparring
 "Hoffmann, Dave",Black Belt/2nd Degree Sparring
-"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
 "Mansanares, Nick",Black Belt/2nd Degree Sparring
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
 "Mestas, Jessica",Black Belt/2nd Degree Sparring
 "Nagel, Kurt",Black Belt/2nd Degree Sparring
 "Nagel, Kurt",Black Belt/2nd Degree Sparring
@@ -1248,6 +1369,76 @@ Client,Type
 "Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
 "Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
 "Teff, Tanner",Black Belt/2nd Degree Sparring
+"Grant, Lexi",SWAT
+"Grant, Lexi",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Hayley",SWAT
+"Pidek, Hayley",SWAT
+"Pidek, Hayley",SWAT
+"Pidek, Hayley",SWAT
+"Guntermann, Aribella",SWAT
+"Guntermann, Aribella",SWAT
+"Guntermann, Aribella",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harmon, Sierra",SWAT
+"Harmon, James",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Pidek, Seanna",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Rodriguez, Kayla",SWAT
+"Rodriguez, Kayla",SWAT
+"Rodriguez, Jaelyn",SWAT
+"Rodriguez, Jaelyn",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
 "Harmon, Sierra",SWAT
 "Harmon, James",SWAT
 "Jantz, Evan",SWAT
@@ -1258,8 +1449,8 @@ Client,Type
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
-"Rosene, Seth",SWAT
 "Rosene, Robert",SWAT
+"Rosene, Seth",SWAT
 "Young, Kaylee",SWAT
 "Young, Kaylee",SWAT
 "Young, Kaylee",SWAT
@@ -1278,8 +1469,8 @@ Client,Type
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
-"Braun, Gil",SWAT
 "Braun, Kathi",SWAT
+"Braun, Gil",SWAT
 "Grant, Lexi",SWAT
 "Grant, Lexi",SWAT
 "Grant, Lexi",SWAT
@@ -1408,10 +1599,10 @@ Client,Type
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
 "Rodriguez, Kayla",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Robert",SWAT
 "Rosene, Seth",SWAT
 "Rosene, Seth",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
 "Harmon, Sierra",SWAT
 "Harmon, James",SWAT
 "Nagel, Kurt",SWAT
@@ -1487,10 +1678,10 @@ Client,Type
 "Augat, Jake",SWAT
 "Davis, Caleb",SWAT
 "Davis, Caleb",SWAT
-"Davis, Taylor",SWAT
-"Davis, Taylor",SWAT
 "Davis, Mike",SWAT
 "Davis, Mike",SWAT
+"Davis, Taylor",SWAT
+"Davis, Taylor",SWAT
 "Jantz, Evan",SWAT
 "Kofal, Gillie",SWAT
 "Pinsky, Eli",SWAT
@@ -1512,11 +1703,11 @@ Client,Type
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
 "Pidek, Seanna",SWAT
-"Pidek, Aaron",SWAT
-"Pidek, Aaron",SWAT
-"Pidek, Aaron",SWAT
-"Pidek, Aaron",SWAT
 "Pidek, Hayley",SWAT
 "Pidek, Hayley",SWAT
 "Pidek, Hayley",SWAT
@@ -1665,8 +1856,8 @@ Client,Type
 "Zuver, Derek",SWAT
 "Zuver, Derek",SWAT
 "Zuver, Derek",SWAT
-"Davis, Mike",SWAT
 "Davis, Taylor",SWAT
+"Davis, Mike",SWAT
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
@@ -1737,9 +1928,9 @@ Client,Type
 "Zuver, Derek",SWAT
 "Zuver, Derek",SWAT
 "Zuver, Derek",SWAT
-"Davis, Taylor",SWAT
 "Davis, Mike",SWAT
 "Davis, Caleb",SWAT
+"Davis, Taylor",SWAT
 "Harmon, Sierra",SWAT
 "Harmon, James",SWAT
 "Nagel, Kurt",SWAT
@@ -1813,8 +2004,8 @@ Client,Type
 "Pinkerton, Kyle",SWAT
 "Ambriz, Sofia",SWAT
 "Bauman, Suzanne",SWAT
-"Davis, Mike",SWAT
 "Davis, Caleb",SWAT
+"Davis, Mike",SWAT
 "Harmon, Sierra",SWAT
 "Harmon, James",SWAT
 "Kofal, Gillie",SWAT
@@ -1860,11 +2051,11 @@ Client,Type
 "Harker, Carson",SWAT
 "Kofal, Gillie",SWAT
 "Riotte, Tom",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
 "Steyn, Eleanor",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
 "Augat, Jake",SWAT
 "Augat, Brian",SWAT
 "Bauman, Suzanne",SWAT
@@ -1873,10 +2064,10 @@ Client,Type
 "Davis, Mike",SWAT
 "Davis, Caleb",SWAT
 "Davis, Caleb",SWAT
-"De Spirlet, Sage",SWAT
-"De Spirlet, Sage",SWAT
 "De Spirlet, Andre",SWAT
 "De Spirlet, Andre",SWAT
+"De Spirlet, Sage",SWAT
+"De Spirlet, Sage",SWAT
 "Kofal, Gillie",SWAT
 "Masche, Will",SWAT
 "Pidek, Seanna",SWAT
@@ -1885,12 +2076,12 @@ Client,Type
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
-"Zuver, Derek",SWAT
-"Zuver, Derek",SWAT
-"Zuver, Derek",SWAT
 "Zuver, Hunter",SWAT
 "Zuver, Hunter",SWAT
 "Zuver, Hunter",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
 "Cooper, Lucas",SWAT
 "Cooper, Lucas",SWAT
 "Cooper, Lucas",SWAT
@@ -1907,19 +2098,19 @@ Client,Type
 "Rosene, Robert",SWAT
 "Rosene, Kendra",SWAT
 "Rosene, Kendra",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
-"Braun, Kathi",SWAT
 "Braun, Gil",SWAT
+"Braun, Kathi",SWAT
 "Panning, Jennifer",SWAT
 "Panning, Jennifer",SWAT
 "Panning, Jennifer",SWAT
@@ -1931,10 +2122,10 @@ Client,Type
 "Cooper, Lucas",SWAT
 "Kofal, Gillie",SWAT
 "Pinsky, Eli",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
 "Flythe, Kaylee",SWAT
 "Flythe, Kaylee",SWAT
 "Flythe, Kaylee",SWAT
@@ -1967,13 +2158,13 @@ Client,Type
 "Harker, Carson",SWAT
 "Pinkerton, Kyle",SWAT
 "Pinkerton, Kyle",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
 "Bauman, Suzanne",SWAT
 "Bauman, Peter",SWAT
 "Guntermann, Aribella",SWAT
@@ -1992,13 +2183,13 @@ Client,Type
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
@@ -2014,10 +2205,10 @@ Client,Type
 "Parker, William",SWAT
 "Parker, William",SWAT
 "Parker, William",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
 "Berg, Noah",SWAT
 "Guntermann, Aribella",SWAT
 "Hoffmann, Dave",SWAT
@@ -2031,10 +2222,10 @@ Client,Type
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
-"Pidek, Aaron",SWAT
-"Pidek, Aaron",SWAT
-"Pidek, Aaron",SWAT
 "Pidek, Seanna",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
 "Pidek, Hayley",SWAT
 "Pidek, Hayley",SWAT
 "Pidek, Hayley",SWAT
@@ -2048,12 +2239,12 @@ Client,Type
 "Rosene, Robert",SWAT
 "Rosene, Seth",SWAT
 "Rosene, Seth",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
 "Steyn, Eleanor",SWAT
 "Steyn, Eleanor",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
-"Steyn, Heather",SWAT
 "Ambriz, Sofia",SWAT
 "Cooper, Lucas",SWAT
 "Harmon, Sierra",SWAT
@@ -2085,11 +2276,11 @@ Client,Type
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
 "Zuver, Hunter",SWAT
+"Braun, Tyler",SWAT
+"Braun, Tyler",SWAT
+"Braun, Tyler",SWAT
+"Braun, Tyler",SWAT
 "Braun, Gil",SWAT
-"Braun, Tyler",SWAT
-"Braun, Tyler",SWAT
-"Braun, Tyler",SWAT
-"Braun, Tyler",SWAT
 "De Spirlet, Andre",SWAT
 "De Spirlet, Andre",SWAT
 "Grant, Lexi",SWAT
@@ -2114,10 +2305,10 @@ Client,Type
 "De Spirlet, Sage",SWAT
 "Parker, William",SWAT
 "Parker, William",SWAT
-"Steyn, Eleanor",SWAT
-"Steyn, Eleanor",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
+"Steyn, Eleanor",SWAT
+"Steyn, Eleanor",SWAT
 "Berg, Noah",SWAT
 "Cooper, Lucas",SWAT
 "Flythe, Kaylee",SWAT
@@ -2157,14 +2348,14 @@ Client,Type
 "Bauman, Suzanne",SWAT
 "Berg, Noah",SWAT
 "Cooper, Lucas",SWAT
-"Davis, Caleb",SWAT
-"Davis, Caleb",SWAT
-"Davis, Caleb",SWAT
-"Davis, Caleb",SWAT
 "Davis, Mike",SWAT
 "Davis, Mike",SWAT
 "Davis, Taylor",SWAT
 "Davis, Taylor",SWAT
+"Davis, Caleb",SWAT
+"Davis, Caleb",SWAT
+"Davis, Caleb",SWAT
+"Davis, Caleb",SWAT
 "Hoffmann, Dave",SWAT
 "Kofal, Gillie",SWAT
 "Masche, Will",SWAT
@@ -2238,10 +2429,10 @@ Client,Type
 "Cooper, Lucas",SWAT
 "Lynch, Daniel",SWAT
 "Lynch, Daniel",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
 "Mansanares, Benjamin",SWAT
 "Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
 "Nagel, Kurt",SWAT
@@ -2365,14 +2556,22 @@ Client,Type
 "Teff, Tanner",SWAT
 "Teff, Tanner",SWAT
 "Panic, Stefan",Combination Review
+"Algiere, Samuel",Exclusive 1
+"Algiere, Serenity",Exclusive 1
+"Cooper, Everett",Exclusive 1
+"Figueroa, Alyssa",Exclusive 1
+"Figueroa, Dylan",Exclusive 1
+"Kimball, Amy",Exclusive 1
+"McNaughton, Vivian",Exclusive 1
+"Smith, Mason",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
 "Cooper, Everett",Exclusive 1
 "Russell, Payton",Exclusive 1
 "Smith, Mason",Exclusive 1
 "Algiere, Samuel",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
-"Figueroa, Alyssa",Exclusive 1
 "Figueroa, Dylan",Exclusive 1
+"Figueroa, Alyssa",Exclusive 1
 "Kimball, Amy",Exclusive 1
 "McNaughton, Vivian",Exclusive 1
 "Smith, Mason",Exclusive 1
@@ -2392,8 +2591,8 @@ Client,Type
 "Smith, Mason",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
 "Cooper, Everett",Exclusive 1
-"Russell, Jaymon",Exclusive 1
 "Russell, Payton",Exclusive 1
+"Russell, Jaymon",Exclusive 1
 "Smith, Mason",Exclusive 1
 "Algiere, Serenity",Exclusive 1
 "Algiere, Samuel",Exclusive 1
@@ -2418,24 +2617,24 @@ Client,Type
 "McNaughton, Vivian",Exclusive 1
 "Smith, Mason",Exclusive 1
 "Cooper, Everett",Exclusive 1
-"Russell, Jaymon",Exclusive 1
 "Russell, Payton",Exclusive 1
+"Russell, Jaymon",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
 "Eaton, Hunter",Exclusive 1
 "Figueroa, Alyssa",Exclusive 1
 "Figueroa, Dylan",Exclusive 1
 "McNaughton, Vivian",Exclusive 1
 "Smith, Mason",Exclusive 1
-"Alvarez, Xavier",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
+"Alvarez, Xavier",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
 "Borjas, Natalia",Exclusive 1
 "Cooper, Everett",Exclusive 1
 "Lindahl, Hayden",Exclusive 1
 "Maldonado, Taelynn",Exclusive 1
 "Rivera-Briones, Ariyon",Exclusive 1
-"Russell, Payton",Exclusive 1
 "Russell, Jaymon",Exclusive 1
+"Russell, Payton",Exclusive 1
 "Starns, William",Exclusive 1
 "Alvarez, Xavier",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
@@ -2454,8 +2653,8 @@ Client,Type
 "Russell, Payton",Exclusive 1
 "Smith, Mason",Exclusive 1
 "Starns, William",Exclusive 1
-"Alvarez, Elysia",Exclusive 1
 "Alvarez, Xavier",Exclusive 1
+"Alvarez, Elysia",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
 "Eaton, Hunter",Exclusive 1
 "Graves, Jackson",Exclusive 1
@@ -2469,8 +2668,8 @@ Client,Type
 "Flanders, Callen",Exclusive 1
 "Maldonado, Taelynn",Exclusive 1
 "Rivera-Briones, Ariyon",Exclusive 1
-"Russell, Payton",Exclusive 1
 "Russell, Jaymon",Exclusive 1
+"Russell, Payton",Exclusive 1
 "Stromberg, Soren",Exclusive 1
 "Alvarez, Xavier",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
@@ -2491,8 +2690,8 @@ Client,Type
 "Smith, Mason",Exclusive 1
 "Starns, William",Exclusive 1
 "Stromberg, Soren",Exclusive 1
-"Alvarez, Xavier",Exclusive 1
 "Alvarez, Elysia",Exclusive 1
+"Alvarez, Xavier",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
 "Borjas, Natalia",Exclusive 1
 "Cooper, Everett",Exclusive 1
@@ -2515,6 +2714,22 @@ Client,Type
 "Rivera-Briones, Ariyon",Exclusive 1
 "Smith, Mason",Exclusive 1
 "Starns, William",Exclusive 1
+"Binder, Hannah",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"Lindahl, Hayden",Exclusive 2/3
+"Lubbe, Brandi",Exclusive 2/3
+"Lynch, Brayden",Exclusive 2/3
+"McMillin, Lilly",Exclusive 2/3
+"Rivera-Briones, Ariyon",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Suazo, Quinn",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
+"Vigil, Jaelynn",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
 "Colaizzi, Domenic",Exclusive 2/3
@@ -2523,15 +2738,15 @@ Client,Type
 "Lynch, Brayden",Exclusive 2/3
 "McMillin, Lilly",Exclusive 2/3
 "Starns, William",Exclusive 2/3
-"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Noah",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
-"Vigil, Adaya",Exclusive 2/3
-"Vigil, Analise",Exclusive 2/3
 "Vigil, Jaelynn",Exclusive 2/3
 "Vigil, Moniece",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
 "Colaizzi, Domenic",Exclusive 2/3
@@ -2539,8 +2754,8 @@ Client,Type
 "Lubbe, Brandi",Exclusive 2/3
 "McMillin, Lilly",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
-"Stebbins, Noah",Exclusive 2/3
 "Stebbins, Ian",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
@@ -2548,14 +2763,14 @@ Client,Type
 "Jocelyn, Chance",Exclusive 2/3
 "Kryscio, Christine",Exclusive 2/3
 "Starns, William",Exclusive 2/3
-"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Noah",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
 "Vigil, Adaya",Exclusive 2/3
-"Vigil, Analise",Exclusive 2/3
 "Vigil, Jaelynn",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
 "Vigil, Moniece",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
@@ -2563,9 +2778,9 @@ Client,Type
 "Lubbe, Brandi",Exclusive 2/3
 "Lynch, Brayden",Exclusive 2/3
 "Starns, William",Exclusive 2/3
-"Stebbins, Noah",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
 "Stebbins, Ian",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
@@ -2584,9 +2799,9 @@ Client,Type
 "Stebbins, Ian",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
-"Vigil, Adaya",Exclusive 2/3
 "Vigil, Jaelynn",Exclusive 2/3
 "Vigil, Analise",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
 "Alvarez, Xavier",Exclusive 2/3
 "Berschling, Evan",Exclusive 2/3
 "Berschling, Eli",Exclusive 2/3
@@ -2596,9 +2811,9 @@ Client,Type
 "Jocelyn, Chance",Exclusive 2/3
 "Lynch, Brayden",Exclusive 2/3
 "McMillin, Lilly",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Noah",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
-"Stebbins, Ian",Exclusive 2/3
 "Berschling, Eli",Exclusive 2/3
 "Colaizzi, Domenic",Exclusive 2/3
 "Jocelyn, Chance",Exclusive 2/3
@@ -2607,12 +2822,12 @@ Client,Type
 "Lynch, Brayden",Exclusive 2/3
 "Splichal, Zachary",Exclusive 2/3
 "Stebbins, Ian",Exclusive 2/3
-"Stebbins, Noah",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
 "Stozek, Fahlon",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
-"Vigil, Analise",Exclusive 2/3
 "Vigil, Adaya",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
 "Vigil, Jaelynn",Exclusive 2/3
 "Vigil, Moniece",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
@@ -2621,9 +2836,9 @@ Client,Type
 "Kofal, Gillie",Exclusive 2/3
 "Kryscio, Christine",Exclusive 2/3
 "Splichal, Zachary",Exclusive 2/3
-"Stebbins, Scott",Exclusive 2/3
-"Stebbins, Noah",Exclusive 2/3
 "Stebbins, Ian",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
 "Berschling, Eli",Exclusive 2/3
@@ -2636,13 +2851,13 @@ Client,Type
 "Lynch, Brayden",Exclusive 2/3
 "Rosene, Robert",Exclusive 2/3
 "Splichal, Zachary",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
 "Stebbins, Noah",Exclusive 2/3
-"Stebbins, Ian",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
-"Vigil, Adaya",Exclusive 2/3
 "Vigil, Jaelynn",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
 "Brasher, Jamison",Exclusive 2/3
 "Carlson, Robbie",Exclusive 2/3
 "Dobnak, Riane",Exclusive 2/3
@@ -2668,52 +2883,58 @@ Client,Type
 "Stebbins, Noah",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
 "Suazo, Quinn",Exclusive 2/3
+"Vigil, Jaelynn",Exclusive 2/3
 "Vigil, Adaya",Exclusive 2/3
 "Vigil, Analise",Exclusive 2/3
-"Vigil, Jaelynn",Exclusive 2/3
 "Vigil, Moniece",Exclusive 2/3
-"Christensen, Jayden",Level 2 Exclusive
 "Jocelyn, Chance",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
 "Maldonado, Cabe",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
 "Rivera-Briones, Ariyon",Level 2 Exclusive
+"Stozek, Fahlon",Level 2 Exclusive
 "Christensen, Jayden",Level 2 Exclusive
 "Jocelyn, Chance",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
 "Maldonado, Cabe",Level 2 Exclusive
+"Rivera-Briones, Ariyon",Level 2 Exclusive
+"Christensen, Jayden",Level 2 Exclusive
+"Jocelyn, Chance",Level 2 Exclusive
+"Lindahl, Hayden",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
 "McMillin, Lilly",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Christensen, Jayden",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
-"Maldonado, Cabe",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
 "Rivera-Briones, Ariyon",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Berschling, Eli",Level 2 Exclusive
 "Christensen, Jayden",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
-"Maldonado, Taelynn",Level 2 Exclusive
 "Maldonado, Cabe",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
 "McMillin, Lilly",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Alvarez, Xavier",Level 2 Exclusive
 "Christensen, Jayden",Level 2 Exclusive
 "Jocelyn, Chance",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
-"Maldonado, Cabe",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
 "McMillin, Lilly",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Alvarez, Xavier",Level 2 Exclusive
-"Maldonado, Taelynn",Level 2 Exclusive
 "Maldonado, Cabe",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
 "Rivera-Briones, Ariyon",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Christensen, Jayden",Level 2 Exclusive
-"Maldonado, Cabe",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
 "Rivera-Briones, Ariyon",Level 2 Exclusive
 "Stozek, Fahlon",Level 2 Exclusive
 "Berschling, Eli",Level 2 Exclusive
@@ -2737,6 +2958,31 @@ Client,Type
 "Maldonado, Cabe",Level 2 Exclusive
 "Splichal, Zachary",Level 2 Exclusive
 "Hesting, Madisyn",Form Review
+"Bybee, Nicholas",Lil' Dragons
+"Craig, Joe",Lil' Dragons
+"El-Bayoumy, Karim",Lil' Dragons
+"El-Bayoumy, Sara",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Johnson, Robert",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Mclain, Sydney",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Smith, Logan",Lil' Dragons
+"Sundberg, Mason",Lil' Dragons
+"Bybee, Nicholas",Lil' Dragons
+"El-Bayoumy, Sara",Lil' Dragons
+"El-Bayoumy, Karim",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Johnson, Robert",Lil' Dragons
+"Joltes, Madeline",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Mclain, Sydney",Lil' Dragons
+"Roth, Jack",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Smith, Logan",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
 "Craig, Joe",Lil' Dragons
 "El-Bayoumy, Karim",Lil' Dragons
 "El-Bayoumy, Sara",Lil' Dragons
@@ -3058,6 +3304,12 @@ Client,Type
 "Schardt, Graham",Lil' Dragons
 "Smith, Logan",Lil' Dragons
 "Zuver, Xavier",Lil' Dragons
+"Guntermann, Aribella",Conditional Black Belt
+"Harmon, James",Conditional Black Belt
+"Lynch, Daniel",Conditional Black Belt
+"Masche, Will",Conditional Black Belt
+"Skanderbeg, Tiana",Conditional Black Belt
+"Zuver, Hunter",Conditional Black Belt
 "Grant, Lexi",Conditional Black Belt
 "Guntermann, Aribella",Conditional Black Belt
 "Lynch, Daniel",Conditional Black Belt
@@ -3071,19 +3323,19 @@ Client,Type
 "Guntermann, Aribella",Conditional Black Belt
 "Harmon, James",Conditional Black Belt
 "Masche, Will",Conditional Black Belt
-"Rodriguez, Jaelyn",Conditional Black Belt
 "Rodriguez, Kayla",Conditional Black Belt
+"Rodriguez, Jaelyn",Conditional Black Belt
 "Zuver, Hunter",Conditional Black Belt
 "Guntermann, Aribella",Conditional Black Belt
 "Lynch, Daniel",Conditional Black Belt
 "Masche, Will",Conditional Black Belt
-"Rodriguez, Kayla",Conditional Black Belt
 "Rodriguez, Jaelyn",Conditional Black Belt
+"Rodriguez, Kayla",Conditional Black Belt
 "Zuver, Hunter",Conditional Black Belt
 "Guntermann, Aribella",Conditional Black Belt
 "Masche, Will",Conditional Black Belt
-"Rodriguez, Jaelyn",Conditional Black Belt
 "Rodriguez, Kayla",Conditional Black Belt
+"Rodriguez, Jaelyn",Conditional Black Belt
 "Zuver, Hunter",Conditional Black Belt
 "Guntermann, Aribella",Conditional Black Belt
 "Harmon, James",Conditional Black Belt
@@ -3097,8 +3349,8 @@ Client,Type
 "Harmon, James",Conditional Black Belt
 "Lynch, Daniel",Conditional Black Belt
 "Masche, Will",Conditional Black Belt
-"Rodriguez, Kayla",Conditional Black Belt
 "Rodriguez, Jaelyn",Conditional Black Belt
+"Rodriguez, Kayla",Conditional Black Belt
 "Zuver, Hunter",Conditional Black Belt
 "Harmon, James",Conditional Black Belt
 "Lynch, Daniel",Conditional Black Belt
@@ -3126,6 +3378,83 @@ Client,Type
 "Rodriguez, Jaelyn",Conditional Black Belt
 "Zuver, Hunter",Conditional Black Belt
 "Akerley, Emma",Level 1
+"Algiere, Samuel",Level 1
+"Algiere, Serenity",Level 1
+"Bachicha, Dillon",Level 1
+"Beardsley, Ryder",Level 1
+"Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
+"Brehm, Logan",Level 1
+"Chen, Emma",Level 1
+"Chen, Billy",Level 1
+"Eaton, Hunter",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Mansanares, Christopher",Level 1
+"McNaughton, Vivian",Level 1
+"Mix, Autumn",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Skillman, Liam",Level 1
+"Stillman, Trey",Level 1
+"Straley, Alison",Level 1
+"Straley, Wyatt",Level 1
+"Williams, Emery",Level 1
+"Akerley, Emma",Level 1
+"Alder, Ash",Level 1
+"Algiere, Samuel",Level 1
+"Algiere, Serenity",Level 1
+"Baker, Savannah",Level 1
+"Brehm, Logan",Level 1
+"Cotter, Daniel",Level 1
+"Eaton, Hunter",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Aaron",Level 1
+"Flanders, Callen",Level 1
+"Flynn, Aiden",Level 1
+"Flynn, Jason",Level 1
+"Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
+"Kimball, Amy",Level 1
+"Luong, Chloe",Level 1
+"McNaughton, Vivian",Level 1
+"Mix, Autumn",Level 1
+"Pierce, Gunner",Level 1
+"Raine, Breydon",Level 1
+"Roth, Hannah",Level 1
+"Roth, Katelyn",Level 1
+"Skillman, Liam",Level 1
+"Smith, Mason",Level 1
+"Wroblewski, Gabriella",Level 1
+"Algiere, Samuel",Level 1
+"Augat, Jake",Level 1
+"Bakes, Avery",Level 1
+"Chen, Billy",Level 1
+"Chen, Emma",Level 1
+"Corbo, Sterling",Level 1
+"Dreiling, Jake",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Kimball, Amy",Level 1
+"Mclain, Evan",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Myers, Walker",Level 1
+"Pierce, Gunner",Level 1
+"Raine, Breydon",Level 1
+"Roth, Quinn",Level 1
+"Roth, Hayden",Level 1
+"Schardt, Adele",Level 1
+"Schardt, Dawson",Level 1
+"Skillman, Liam",Level 1
+"Stillman, Trey",Level 1
+"Straley, Alison",Level 1
+"Straley, Wyatt",Level 1
+"Akerley, Emma",Level 1
 "Augat, Jake",Level 1
 "Baker, Savannah",Level 1
 "Borjas, Israel",Level 1
@@ -3147,14 +3476,14 @@ Client,Type
 "Roth, Hannah",Level 1
 "Skillman, Liam",Level 1
 "Stillman, Trey",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Wroblewski, Gabriella",Level 1
 "Akerley, Emma",Level 1
 "Bachicha, Dillon",Level 1
 "Dreiling, Jake",Level 1
-"Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
 "Fike, Logan",Level 1
 "Graves, Jackson",Level 1
 "Kimball, Amy",Level 1
@@ -3189,8 +3518,8 @@ Client,Type
 "Schardt, Dawson",Level 1
 "Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
-"Borjas, Natalia",Level 1
 "Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
 "Chen, Billy",Level 1
 "Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
@@ -3235,8 +3564,8 @@ Client,Type
 "Roth, Katelyn",Level 1
 "Silverthorn, Katie",Level 1
 "Skillman, Liam",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Wroblewski, Gabriella",Level 1
 "Akerley, Emma",Level 1
 "Algiere, Samuel",Level 1
@@ -3251,8 +3580,8 @@ Client,Type
 "Chen, Billy",Level 1
 "Corbo, Sterling",Level 1
 "Dreiling, Jake",Level 1
-"Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
 "Fike, Logan",Level 1
 "Graves, Jackson",Level 1
 "Luong, Chloe",Level 1
@@ -3278,15 +3607,15 @@ Client,Type
 "Alvarez, Elysia",Level 1
 "Baker, Savannah",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
 "Fike, Logan",Level 1
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
-"Luong, Ethan",Level 1
 "Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
 "McNaughton, Vivian",Level 1
 "Mikawa, Wesley",Level 1
 "Pierce, Gunner",Level 1
@@ -3297,11 +3626,11 @@ Client,Type
 "Algiere, Samuel",Level 1
 "Algiere, Serenity",Level 1
 "Bachicha, Dillon",Level 1
-"Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
+"Borjas, Israel",Level 1
 "Brehm, Logan",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
 "Cotter, Daniel",Level 1
 "Ellison, Ethan",Level 1
@@ -3316,8 +3645,8 @@ Client,Type
 "Myers, Walker",Level 1
 "Pierce, Gunner",Level 1
 "Raine, Breydon",Level 1
-"Roth, Quinn",Level 1
 "Roth, Hayden",Level 1
+"Roth, Quinn",Level 1
 "Roth, Hannah",Level 1
 "Russell, Jaymon",Level 1
 "Russell, Payton",Level 1
@@ -3336,8 +3665,8 @@ Client,Type
 "Ellison, Andrew",Level 1
 "Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
-"Hinrichsen, Sonny",Level 1
 "Hinrichsen, Eli",Level 1
+"Hinrichsen, Sonny",Level 1
 "Luong, Chloe",Level 1
 "Mansanares, Christopher",Level 1
 "Mix, Autumn",Level 1
@@ -3354,8 +3683,8 @@ Client,Type
 "Baker, Savannah",Level 1
 "Bakes, Avery",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Corbo, Sterling",Level 1
 "Dreiling, Jake",Level 1
 "Figueroa, Dylan",Level 1
@@ -3382,13 +3711,13 @@ Client,Type
 "Chen, Billy",Level 1
 "Cotter, Daniel",Level 1
 "Eaton, Hunter",Level 1
-"Figueroa, Alyssa",Level 1
 "Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
 "Flanders, Callen",Level 1
 "Flynn, Aiden",Level 1
 "Flynn, Jason",Level 1
-"Hinrichsen, Eli",Level 1
 "Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
 "Kimball, Amy",Level 1
 "Mikawa, Wesley",Level 1
 "Pierce, Gunner",Level 1
@@ -3401,20 +3730,20 @@ Client,Type
 "Stebbins, Evelyn",Level 1
 "Stebbins, Evelyn",Level 1
 "Stebbins, Emma",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Wroblewski, Gabriella",Level 1
 "Alder, Ash",Level 1
 "Bachicha, Dillon",Level 1
 "Baker, Savannah",Level 1
 "Beardsley, Ryder",Level 1
-"Borjas, Natalia",Level 1
 "Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
 "Brehm, Logan",Level 1
 "Corbo, Sterling",Level 1
 "Dreiling, Jake",Level 1
-"Ellison, Ethan",Level 1
 "Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
 "Fike, Logan",Level 1
 "Luong, Chloe",Level 1
@@ -3423,8 +3752,8 @@ Client,Type
 "Mix, Autumn",Level 1
 "Panic, Stefan",Level 1
 "Roth, Hannah",Level 1
-"Russell, Payton",Level 1
 "Russell, Jaymon",Level 1
+"Russell, Payton",Level 1
 "Silverthorn, Katie",Level 1
 "Skillman, Liam",Level 1
 "Smith, Mason",Level 1
@@ -3437,8 +3766,8 @@ Client,Type
 "Corbo, Sterling",Level 1
 "Cotter, Daniel",Level 1
 "Dreiling, Jake",Level 1
-"Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
 "Flanders, Callen",Level 1
 "Graves, Jackson",Level 1
 "Kimball, Amy",Level 1
@@ -3473,8 +3802,8 @@ Client,Type
 "Skillman, Liam",Level 1
 "Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
-"Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
+"Borjas, Israel",Level 1
 "Brehm, Logan",Level 1
 "Chen, Billy",Level 1
 "Chen, Emma",Level 1
@@ -3482,8 +3811,8 @@ Client,Type
 "Ellison, Andrew",Level 1
 "Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
-"Hinrichsen, Sonny",Level 1
 "Hinrichsen, Eli",Level 1
+"Hinrichsen, Sonny",Level 1
 "Kimball, Amy",Level 1
 "Mclain, Evan",Level 1
 "Myers, Walker",Level 1
@@ -3501,10 +3830,10 @@ Client,Type
 "Stebbins, Evelyn",Level 1
 "Stebbins, Emma",Level 1
 "Stebbins, Emma",Level 1
-"Straley, Alison",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
+"Straley, Alison",Level 1
 "Williams, Emery",Level 1
 "Wroblewski, Gabriella",Level 1
 "Akerley, Emma",Level 1
@@ -3512,13 +3841,13 @@ Client,Type
 "Bachicha, Dillon",Level 1
 "Brehm, Logan",Level 1
 "Corbo, Sterling",Level 1
-"Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
 "Fike, Logan",Level 1
 "Flynn, Aiden",Level 1
 "Flynn, Jason",Level 1
-"Hinrichsen, Eli",Level 1
 "Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
 "Luong, Chloe",Level 1
 "Luong, Ethan",Level 1
 "Mansanares, Christopher",Level 1
@@ -3549,8 +3878,8 @@ Client,Type
 "Ellison, Ethan",Level 1
 "Ellison, Andrew",Level 1
 "Ellison, Aaron",Level 1
-"Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
 "Fike, Logan",Level 1
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
@@ -3577,29 +3906,29 @@ Client,Type
 "Algiere, Samuel",Level 1
 "Alvarez, Elysia",Level 1
 "Bakes, Avery",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Dreiling, Jake",Level 1
 "Figueroa, Dylan",Level 1
 "Figueroa, Alyssa",Level 1
 "Kimball, Amy",Level 1
-"Luong, Ethan",Level 1
 "Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
 "Mclain, Evan",Level 1
 "Mikawa, Wesley",Level 1
 "Pierce, Gunner",Level 1
 "Raine, Breydon",Level 1
 "Schardt, Adele",Level 1
 "Schardt, Dawson",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Wakefield, Kelson",Level 1
 "Baker, Savannah",Level 1
-"Borjas, Natalia",Level 1
 "Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
 "Brehm, Logan",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
 "Ellison, Andrew",Level 1
 "Ellison, Ethan",Level 1
@@ -3612,8 +3941,8 @@ Client,Type
 "Myers, Walker",Level 1
 "Pierce, Gunner",Level 1
 "Raine, Breydon",Level 1
-"Roth, Katelyn",Level 1
 "Roth, Hannah",Level 1
+"Roth, Katelyn",Level 1
 "Silverthorn, Katie",Level 1
 "Skillman, Liam",Level 1
 "Stebbins, Evelyn",Level 1
@@ -3626,10 +3955,10 @@ Client,Type
 "Ellison, Andrew",Level 1
 "Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
-"Hinrichsen, Sonny",Level 1
 "Hinrichsen, Eli",Level 1
-"Luong, Chloe",Level 1
+"Hinrichsen, Sonny",Level 1
 "Luong, Ethan",Level 1
+"Luong, Chloe",Level 1
 "Mansanares, Christopher",Level 1
 "McNaughton, Vivian",Level 1
 "Mix, Autumn",Level 1
@@ -3646,8 +3975,8 @@ Client,Type
 "Bachicha, Dillon",Level 1
 "Beardsley, Ryder",Level 1
 "Brehm, Logan",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Cooper, Everett",Level 1
 "Corbo, Sterling",Level 1
 "Figueroa, Dylan",Level 1
@@ -3657,8 +3986,8 @@ Client,Type
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
 "Kimball, Amy",Level 1
-"Luong, Ethan",Level 1
 "Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
 "Mclain, Evan",Level 1
 "McNaughton, Vivian",Level 1
 "Mikawa, Wesley",Level 1
@@ -3681,8 +4010,8 @@ Client,Type
 "Figueroa, Alyssa",Level 1
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
-"Hinrichsen, Eli",Level 1
 "Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
 "Luong, Ethan",Level 1
 "Luong, Chloe",Level 1
 "Mclain, Evan",Level 1
@@ -3695,14 +4024,14 @@ Client,Type
 "Algiere, Samuel",Level 1
 "Algiere, Serenity",Level 1
 "Alvarez, Elysia",Level 1
-"Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
+"Borjas, Israel",Level 1
 "Brehm, Logan",Level 1
 "Chen, Emma",Level 1
 "Chen, Billy",Level 1
 "Corbo, Sterling",Level 1
-"Ellison, Ethan",Level 1
 "Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
 "Fike, Logan",Level 1
 "Kimball, Amy",Level 1
@@ -3780,25 +4109,25 @@ Client,Type
 "Chen, Emma",Level 1
 "Chen, Billy",Level 1
 "Dreiling, Jake",Level 1
-"Figueroa, Alyssa",Level 1
 "Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
 "Flynn, Aiden",Level 1
 "Flynn, Jason",Level 1
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
 "Kimball, Amy",Level 1
-"Luong, Chloe",Level 1
 "Luong, Ethan",Level 1
+"Luong, Chloe",Level 1
 "Mclain, Evan",Level 1
 "Mikawa, Wesley",Level 1
 "Pierce, Gunner",Level 1
 "Schardt, Adele",Level 1
 "Schardt, Dawson",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Bachicha, Dillon",Level 1
-"Borjas, Natalia",Level 1
 "Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
 "Brehm, Logan",Level 1
 "Chen, Billy",Level 1
 "Chen, Emma",Level 1
@@ -3837,9 +4166,9 @@ Client,Type
 "Ellison, Ethan",Level 1
 "Ellison, Aaron",Level 1
 "Ellison, Aaron",Level 1
+"Luong, Chloe",Level 1
+"Luong, Chloe",Level 1
 "Luong, Ethan",Level 1
-"Luong, Chloe",Level 1
-"Luong, Chloe",Level 1
 "Mix, Autumn",Level 1
 "Mix, Autumn",Level 1
 "Raine, Breydon",Level 1
@@ -3854,8 +4183,8 @@ Client,Type
 "Baker, Savannah",Level 1
 "Bakes, Avery",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
 "Cotter, Daniel",Level 1
 "Figueroa, Dylan",Level 1
@@ -3865,8 +4194,8 @@ Client,Type
 "Flynn, Jason",Level 1
 "Gomez, Cameron",Level 1
 "Graves, Jackson",Level 1
-"Luong, Chloe",Level 1
 "Luong, Ethan",Level 1
+"Luong, Chloe",Level 1
 "Mix, Autumn",Level 1
 "Myers, Walker",Level 1
 "Pierce, Gunner",Level 1
@@ -3878,8 +4207,8 @@ Client,Type
 "Silverthorn, Katie",Level 1
 "Stebbins, Evelyn",Level 1
 "Stebbins, Emma",Level 1
-"Straley, Alison",Level 1
 "Straley, Wyatt",Level 1
+"Straley, Alison",Level 1
 "Wakefield, Kelson",Level 1
 "Williams, Emery",Level 1
 "Eaton, Hunter",Level 1
@@ -3889,11 +4218,11 @@ Client,Type
 "Alvarez, Xavier",Level 1
 "Bay, Chandler",Level 1
 "Beardsley, Ryder",Level 1
-"Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
+"Borjas, Israel",Level 1
 "Brehm, Logan",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Corbo, Sterling",Level 1
 "Ferguson, Dalton",Level 1
 "Flanders, Callen",Level 1
@@ -3907,8 +4236,8 @@ Client,Type
 "Smith, Mason",Level 1
 "Stillman, Trey",Level 1
 "Stromberg, Soren",Level 1
-"Sundberg, Marina",Level 1
 "Sundberg, Maddi",Level 1
+"Sundberg, Marina",Level 1
 "Vanaman, Sienna",Level 1
 "Bachicha, Dillon",Level 1
 "Bakes, Avery",Level 1
@@ -3936,14 +4265,14 @@ Client,Type
 "Alvarez, Elysia",Level 1
 "Bakes, Avery",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Gomez, Cameron",Level 1
 "Mathews, Johnny",Level 1
 "McNaughton, Vivian",Level 1
 "Mikawa, Wesley",Level 1
-"Roth, Quinn",Level 1
 "Roth, Hayden",Level 1
+"Roth, Quinn",Level 1
 "Schardt, Adele",Level 1
 "Schardt, Dawson",Level 1
 "Stillman, Trey",Level 1
@@ -3952,17 +4281,17 @@ Client,Type
 "Alvarez, Xavier",Level 1
 "Bachicha, Dillon",Level 1
 "Bay, Chandler",Level 1
-"Borjas, Natalia",Level 1
 "Borjas, Israel",Level 1
-"Chen, Billy",Level 1
+"Borjas, Natalia",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Corbo, Sterling",Level 1
 "Dieckmann, Connor",Level 1
 "Ferguson, Dalton",Level 1
 "Fike, Logan",Level 1
 "Graves, Jackson",Level 1
-"Hinrichsen, Sonny",Level 1
 "Hinrichsen, Eli",Level 1
+"Hinrichsen, Sonny",Level 1
 "Lindahl, Hayden",Level 1
 "Maldonado, Taelynn",Level 1
 "Mclain, Evan",Level 1
@@ -3970,14 +4299,14 @@ Client,Type
 "Montgomery, Kaitlyn",Level 1
 "Rivera-Briones, Ariyon",Level 1
 "Roth, Hannah",Level 1
-"Russell, Payton",Level 1
 "Russell, Jaymon",Level 1
+"Russell, Payton",Level 1
 "Silverthorn, Katie",Level 1
 "Smith, Mason",Level 1
 "Starns, William",Level 1
 "Stillman, Trey",Level 1
-"Sundberg, Maddi",Level 1
 "Sundberg, Marina",Level 1
+"Sundberg, Maddi",Level 1
 "Wakefield, Kelson",Level 1
 "Williams, Emery",Level 1
 "Beardsley, Ryder",Level 1
@@ -3985,15 +4314,15 @@ Client,Type
 "Dieckmann, Connor",Level 1
 "Flanders, Callen",Level 1
 "Forar, Alexander",Level 1
-"Hinrichsen, Eli",Level 1
 "Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
 "Mansanares, Christopher",Level 1
 "Mclain, Evan",Level 1
 "McMillin, Lilly",Level 1
 "McNaughton, Vivian",Level 1
 "Myers, Walker",Level 1
-"Russell, Jaymon",Level 1
 "Russell, Payton",Level 1
+"Russell, Jaymon",Level 1
 "Silverthorn, Katie",Level 1
 "Smith, Mason",Level 1
 "Stromberg, Soren",Level 1
@@ -4004,8 +4333,8 @@ Client,Type
 "Bakes, Avery",Level 1
 "Beardsley, Ryder",Level 1
 "Brehm, Logan",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
 "Cotter, Daniel",Level 1
 "Fike, Logan",Level 1
@@ -4035,8 +4364,8 @@ Client,Type
 "Mclain, Evan",Level 1
 "McNaughton, Vivian",Level 1
 "Ramos Arjona, Mateo",Level 1
-"Roth, Quinn",Level 1
 "Roth, Hayden",Level 1
+"Roth, Quinn",Level 1
 "Schardt, Adele",Level 1
 "Schardt, Dawson",Level 1
 "Wakefield, Kelson",Level 1
@@ -4056,8 +4385,8 @@ Client,Type
 "Lindahl, Hayden",Level 1
 "Maldonado, Taelynn",Level 1
 "Mansanares, Christopher",Level 1
-"Mansanares, Nick",Level 1
 "Mansanares, Benjamin",Level 1
+"Mansanares, Nick",Level 1
 "Mathews, Johnny",Level 1
 "Mclain, Evan",Level 1
 "Mikawa, Wesley",Level 1
@@ -4065,13 +4394,13 @@ Client,Type
 "Myers, Walker",Level 1
 "Rivera-Briones, Ariyon",Level 1
 "Roth, Hannah",Level 1
-"Russell, Payton",Level 1
 "Russell, Jaymon",Level 1
+"Russell, Payton",Level 1
 "Silverthorn, Katie",Level 1
 "Starns, William",Level 1
 "Stillman, Trey",Level 1
-"Sundberg, Marina",Level 1
 "Sundberg, Maddi",Level 1
+"Sundberg, Marina",Level 1
 "Wakefield, Kelson",Level 1
 "Williams, Emery",Level 1
 "Bay, Chandler",Level 1
@@ -4082,15 +4411,15 @@ Client,Type
 "Eaton, Hunter",Level 1
 "Ferguson, Dalton",Level 1
 "Forar, Alexander",Level 1
-"Hinrichsen, Eli",Level 1
 "Hinrichsen, Sonny",Level 1
+"Hinrichsen, Eli",Level 1
 "Lindahl, Hayden",Level 1
 "Maldonado, Taelynn",Level 1
 "Mansanares, Christopher",Level 1
 "McMillin, Lilly",Level 1
 "McNaughton, Vivian",Level 1
-"Russell, Jaymon",Level 1
 "Russell, Payton",Level 1
+"Russell, Jaymon",Level 1
 "Smith, Mason",Level 1
 "Stillman, Trey",Level 1
 "Bakes, Avery",Level 1
@@ -4115,8 +4444,8 @@ Client,Type
 "Trammell, Macy",Level 1
 "Alvarez, Xavier",Level 1
 "Alvarez, Elysia",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Fike, Logan",Level 1
 "Forar, Alexander",Level 1
 "Graves, Jackson",Level 1
@@ -4187,12 +4516,12 @@ Client,Type
 "Stillman, Trey",Level 1
 "Wakefield, Kelson",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Billy",Level 1
 "Chen, Emma",Level 1
+"Chen, Billy",Level 1
 "Myers, Walker",Level 1
 "Alder, Ash",Level 1
-"Alvarez, Xavier",Level 1
 "Alvarez, Elysia",Level 1
+"Alvarez, Xavier",Level 1
 "Bay, Chandler",Level 1
 "Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
@@ -4259,8 +4588,8 @@ Client,Type
 "Mansanares, Christopher",Level 1
 "Mikawa, Wesley",Level 1
 "Myers, Walker",Level 1
-"Russell, Jaymon",Level 1
 "Russell, Payton",Level 1
+"Russell, Jaymon",Level 1
 "Schardt, Adele",Level 1
 "Schardt, Dawson",Level 1
 "Silverthorn, Katie",Level 1
@@ -4317,8 +4646,8 @@ Client,Type
 "Silverthorn, Katie",Level 1
 "Smith, Mason",Level 1
 "Stromberg, Soren",Level 1
-"Sundberg, Marina",Level 1
 "Sundberg, Maddi",Level 1
+"Sundberg, Marina",Level 1
 "Trammell, Macy",Level 1
 "Williams, Emery",Level 1
 "Alder, Ash",Level 1
@@ -4341,8 +4670,8 @@ Client,Type
 "Myers, Walker",Level 1
 "Roth, Hannah",Level 1
 "Roth, Katelyn",Level 1
-"Russell, Jaymon",Level 1
 "Russell, Payton",Level 1
+"Russell, Jaymon",Level 1
 "Silverthorn, Katie",Level 1
 "Smith, Mason",Level 1
 "Starns, William",Level 1
@@ -4351,8 +4680,8 @@ Client,Type
 "Wakefield, Kelson",Level 1
 "Bakes, Avery",Level 1
 "Beardsley, Ryder",Level 1
-"Chen, Emma",Level 1
 "Chen, Billy",Level 1
+"Chen, Emma",Level 1
 "Corbo, Sterling",Level 1
 "Fike, Logan",Level 1
 "Gomez, Cameron",Level 1
@@ -4397,8 +4726,8 @@ Client,Type
 "Borjas, Natalia",Level 1/Level 2
 "Christensen, Jayden",Level 1/Level 2
 "DeFeo, Ethan",Level 1/Level 2
-"Figueroa, Alyssa",Level 1/Level 2
 "Figueroa, Dylan",Level 1/Level 2
+"Figueroa, Alyssa",Level 1/Level 2
 "Flynn, Aiden",Level 1/Level 2
 "Flynn, Jason",Level 1/Level 2
 "Luong, Chloe",Level 1/Level 2
@@ -4414,8 +4743,8 @@ Client,Type
 "Schardt, Dawson",Level 1/Level 2
 "Skillman, Liam",Level 1/Level 2
 "Stillman, Trey",Level 1/Level 2
-"Straley, Wyatt",Level 1/Level 2
 "Straley, Alison",Level 1/Level 2
+"Straley, Wyatt",Level 1/Level 2
 "Wroblewski, Gabriella",Level 1/Level 2
 "Bay, Chandler",Level 1/Level 2
 "Christensen, Jayden",Level 1/Level 2
@@ -4434,18 +4763,47 @@ Client,Type
 "Stillman, Trey",Level 1/Level 2
 "Eaton, Hunter",Level 1/Level 2
 "Fike, Logan",Level 1/Level 2
-"Gomez, Cameron",Level 1/Level 2
 "Gomez, Carter",Level 1/Level 2
+"Gomez, Cameron",Level 1/Level 2
 "McMillin, Lilly",Level 1/Level 2
 "Stillman, Trey",Level 1/Level 2
 "Williams, Emery",Level 1/Level 2
 "Berschling, Eli",Level 2
-"Christensen, Jayden",Level 2
+"Cieslewicz, Aneta",Level 2
+"Cieslewicz, Sofia",Level 2
+"Cooper, Everett",Level 2
 "DeFeo, Ethan",Level 2
+"Forar, Alexander",Level 2
 "Jocelyn, Chance",Level 2
 "Lindahl, Hayden",Level 2
 "Maldonado, Cabe",Level 2
 "Maldonado, Taelynn",Level 2
+"Manuello, Matteson",Level 2
+"McMillin, Lilly",Level 2
+"Pollock, Connor",Level 2
+"Rivera-Briones, Ariyon",Level 2
+"Stozek, Fahlon",Level 2
+"Suazo, Quinn",Level 2
+"Sundberg, Marina",Level 2
+"Sundberg, Maddi",Level 2
+"Augat, Jake",Level 2
+"Binder, Hannah",Level 2
+"Cilento, Cole",Level 2
+"Dobnak, Tara",Level 2
+"Frank, Dakota",Level 2
+"Gomez, Carter",Level 2
+"Kryscio, Christine",Level 2
+"Lehto, Sherry",Level 2
+"Lubbe, Brandi",Level 2
+"Lynch, Brayden",Level 2
+"Starns, William",Level 2
+"Berschling, Eli",Level 2
+"Christensen, Jayden",Level 2
+"DeFeo, Ethan",Level 2
+"Jocelyn, Chance",Level 2
+"Lindahl, Hayden",Level 2
+"Maldonado, Taelynn",Level 2
+"Maldonado, Cabe",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Rivera-Briones, Ariyon",Level 2
@@ -4454,9 +4812,9 @@ Client,Type
 "Stebbins, Scott",Level 2
 "Suazo, Quinn",Level 2
 "Binder, Hannah",Level 2
+"Cieslewicz, Sofia",Level 2
 "Cieslewicz, Alexander",Level 2
 "Cieslewicz, Aneta",Level 2
-"Cieslewicz, Sofia",Level 2
 "Cilento, Cole",Level 2
 "Cooper, Everett",Level 2
 "Dobnak, Tara",Level 2
@@ -4464,8 +4822,8 @@ Client,Type
 "Lehto, Sherry",Level 2
 "Lubbe, Brandi",Level 2
 "Stebbins, Scott",Level 2
-"Stebbins, Ian",Level 2
 "Stebbins, Noah",Level 2
+"Stebbins, Ian",Level 2
 "Steidley, Jennifer",Level 2
 "Trammell, Macy",Level 2
 "Zuver, Melanie",Level 2
@@ -4477,16 +4835,16 @@ Client,Type
 "Frank, Dakota",Level 2
 "Gomez, Carter",Level 2
 "Jocelyn, Chance",Level 2
-"Maldonado, Taelynn",Level 2
 "Maldonado, Cabe",Level 2
+"Maldonado, Taelynn",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Pollock, Connor",Level 2
 "Starns, William",Level 2
 "Stozek, Fahlon",Level 2
 "Suazo, Quinn",Level 2
-"Sundberg, Marina",Level 2
 "Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
 "Alvarez, Xavier",Level 2
 "Binder, Hannah",Level 2
 "Cilento, Cole",Level 2
@@ -4494,10 +4852,10 @@ Client,Type
 "Dobnak, Tara",Level 2
 "Kryscio, Christine",Level 2
 "Lubbe, Brandi",Level 2
-"Lynch, Brayden",Level 2
 "Lynch, Daniel",Level 2
-"Stebbins, Scott",Level 2
+"Lynch, Brayden",Level 2
 "Stebbins, Noah",Level 2
+"Stebbins, Scott",Level 2
 "Stebbins, Ian",Level 2
 "Steidley, Jennifer",Level 2
 "Trammell, Macy",Level 2
@@ -4506,8 +4864,8 @@ Client,Type
 "Christensen, Jayden",Level 2
 "Forar, Alexander",Level 2
 "Frank, Dakota",Level 2
-"Maldonado, Cabe",Level 2
 "Maldonado, Taelynn",Level 2
+"Maldonado, Cabe",Level 2
 "Manuello, Matteson",Level 2
 "Pollock, Connor",Level 2
 "Rivera-Briones, Ariyon",Level 2
@@ -4522,11 +4880,11 @@ Client,Type
 "Lubbe, Brandi",Level 2
 "McMillin, Lilly",Level 2
 "Stebbins, Scott",Level 2
-"Stebbins, Ian",Level 2
 "Stebbins, Noah",Level 2
+"Stebbins, Ian",Level 2
 "Steidley, Jennifer",Level 2
-"Sundberg, Marina",Level 2
 "Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
 "Trammell, Macy",Level 2
 "Bay, Chandler",Level 2
 "Binder, Hannah",Level 2
@@ -4553,8 +4911,8 @@ Client,Type
 "Forar, Alexander",Level 2
 "Jocelyn, Chance",Level 2
 "Lindahl, Hayden",Level 2
-"Maldonado, Taelynn",Level 2
 "Maldonado, Cabe",Level 2
+"Maldonado, Taelynn",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Pollock, Connor",Level 2
@@ -4574,9 +4932,9 @@ Client,Type
 "McMillin, Lilly",Level 2
 "Ramos Arjona, Mateo",Level 2
 "Starns, William",Level 2
-"Stebbins, Scott",Level 2
-"Stebbins, Noah",Level 2
 "Stebbins, Ian",Level 2
+"Stebbins, Noah",Level 2
+"Stebbins, Scott",Level 2
 "Steidley, Jennifer",Level 2
 "Sundberg, Maddi",Level 2
 "Sundberg, Marina",Level 2
@@ -4592,8 +4950,8 @@ Client,Type
 "Frank, Dakota",Level 2
 "Jocelyn, Chance",Level 2
 "Lindahl, Hayden",Level 2
-"Maldonado, Cabe",Level 2
 "Maldonado, Taelynn",Level 2
+"Maldonado, Cabe",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Poutous, Jacob",Level 2
@@ -4609,8 +4967,8 @@ Client,Type
 "Lynch, Brayden",Level 2
 "Lynch, Daniel",Level 2
 "Starns, William",Level 2
-"Stebbins, Scott",Level 2
 "Stebbins, Ian",Level 2
+"Stebbins, Scott",Level 2
 "Stebbins, Noah",Level 2
 "Steidley, Jennifer",Level 2
 "Trammell, Macy",Level 2
@@ -4623,15 +4981,15 @@ Client,Type
 "Frank, Dakota",Level 2
 "Lindahl, Hayden",Level 2
 "Lubbe, Brandi",Level 2
-"Maldonado, Taelynn",Level 2
 "Maldonado, Cabe",Level 2
+"Maldonado, Taelynn",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Pollock, Connor",Level 2
 "Poutous, Jacob",Level 2
-"Stebbins, Scott",Level 2
-"Stebbins, Noah",Level 2
 "Stebbins, Ian",Level 2
+"Stebbins, Noah",Level 2
+"Stebbins, Scott",Level 2
 "Stozek, Fahlon",Level 2
 "Suazo, Quinn",Level 2
 "Sundberg, Maddi",Level 2
@@ -4655,8 +5013,8 @@ Client,Type
 "Jocelyn, Chance",Level 2
 "Lehto, Sherry",Level 2
 "Lindahl, Hayden",Level 2
-"Maldonado, Cabe",Level 2
 "Maldonado, Taelynn",Level 2
+"Maldonado, Cabe",Level 2
 "Manuello, Matteson",Level 2
 "McMillin, Lilly",Level 2
 "Pollock, Connor",Level 2
@@ -4708,8 +5066,8 @@ Client,Type
 "Ortiz, Nicholas",Level 2
 "Socanski, Mia",Level 2
 "Socanski, Luka",Level 2
-"Stebbins, Noah",Level 2
 "Stebbins, Ian",Level 2
+"Stebbins, Noah",Level 2
 "Stebbins, Scott",Level 2
 "Steidley, Jennifer",Level 2
 "Suazo, Quinn",Level 2
@@ -4727,8 +5085,8 @@ Client,Type
 "Manuello, Matteson",Level 2
 "Ortiz, Nicholas",Level 2
 "Poutous, Jacob",Level 2
-"Socanski, Mia",Level 2
 "Socanski, Luka",Level 2
+"Socanski, Mia",Level 2
 "Splichal, Zachary",Level 2
 "Zuver, Melanie",Level 2
 "Baughman, Gillian",Level 2
@@ -4747,8 +5105,8 @@ Client,Type
 "Suazo, Quinn",Level 2
 "Berschling, Eli",Level 2
 "Christensen, Jayden",Level 2
-"Cieslewicz, Aneta",Level 2
 "Cieslewicz, Sofia",Level 2
+"Cieslewicz, Aneta",Level 2
 "Cooper, Everett",Level 2
 "DeFeo, Ethan",Level 2
 "Frank, Dakota",Level 2
@@ -4793,16 +5151,16 @@ Client,Type
 "Ortiz, Nicholas",Level 2
 "Pollock, Connor",Level 2
 "Poutous, Jacob",Level 2
-"Socanski, Mia",Level 2
 "Socanski, Luka",Level 2
+"Socanski, Mia",Level 2
 "Splichal, Zachary",Level 2
 "Stozek, Fahlon",Level 2
 "Zuver, Melanie",Level 2
 "Autobee, Bailey",Level 2
 "Berschling, Eli",Level 2
 "Christensen, Jayden",Level 2
-"Cieslewicz, Aneta",Level 2
 "Cieslewicz, Sofia",Level 2
+"Cieslewicz, Aneta",Level 2
 "Cooper, Everett",Level 2
 "DeFeo, Ethan",Level 2
 "Jocelyn, Chance",Level 2
@@ -4828,15 +5186,15 @@ Client,Type
 "Ortiz, Nicholas",Level 2
 "Socanski, Mia",Level 2
 "Socanski, Luka",Level 2
-"Stebbins, Scott",Level 2
-"Stebbins, Noah",Level 2
 "Stebbins, Ian",Level 2
+"Stebbins, Noah",Level 2
+"Stebbins, Scott",Level 2
 "Steidley, Jennifer",Level 2
 "Suazo, Quinn",Level 2
 "Zuver, Melanie",Level 2
-"Baughman, Maggie",Level 2
 "Baughman, Gillian",Level 2
 "Baughman, Audrey",Level 2
+"Baughman, Maggie",Level 2
 "Bauman, Fiona",Level 2
 "Berschling, Eli",Level 2
 "Christensen, Jayden",Level 2
@@ -4850,8 +5208,8 @@ Client,Type
 "Ortiz, Nicholas",Level 2
 "Pollock, Connor",Level 2
 "Poutous, Jacob",Level 2
-"Socanski, Mia",Level 2
 "Socanski, Luka",Level 2
+"Socanski, Mia",Level 2
 "Splichal, Zachary",Level 2
 "Stozek, Fahlon",Level 2
 "Suazo, Quinn",Level 2
@@ -4869,11 +5227,29 @@ Client,Type
 "Lynch, Brayden",Level 2
 "Ortiz, Nicholas",Level 2
 "Stebbins, Scott",Level 2
-"Stebbins, Ian",Level 2
 "Stebbins, Noah",Level 2
+"Stebbins, Ian",Level 2
 "Steidley, Jennifer",Level 2
 "Suazo, Quinn",Level 2
 "Zuver, Melanie",Level 2
+"Berschling, Eli",Level 2 sparring
+"Cieslewicz, Sofia",Level 2 sparring
+"Cieslewicz, Aneta",Level 2 sparring
+"Cilento, Cole",Level 2 sparring
+"Cooper, Everett",Level 2 sparring
+"DeFeo, Ethan",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Lindahl, Hayden",Level 2 sparring
+"Maldonado, Taelynn",Level 2 sparring
+"Maldonado, Cabe",Level 2 sparring
+"Manuello, Matteson",Level 2 sparring
+"Pidek, Seanna",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Rodriguez, Jaelyn",Level 2 sparring
+"Rodriguez, Kayla",Level 2 sparring
+"Stebbins, Noah",Level 2 sparring
+"Stebbins, Scott",Level 2 sparring
+"Trammell, Macy",Level 2 sparring
 "Alvarez, Xavier",Level 2 sparring
 "Bay, Chandler",Level 2 sparring
 "Berschling, Eli",Level 2 sparring
@@ -4889,8 +5265,8 @@ Client,Type
 "Rivera-Briones, Ariyon",Level 2 sparring
 "Stozek, Fahlon",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
-"Sundberg, Marina",Level 2 sparring
 "Sundberg, Maddi",Level 2 sparring
+"Sundberg, Marina",Level 2 sparring
 "Bay, Chandler",Level 2 sparring
 "Cieslewicz, Sofia",Level 2 sparring
 "Cieslewicz, Aneta",Level 2 sparring
@@ -4904,9 +5280,9 @@ Client,Type
 "McMillin, Lilly",Level 2 sparring
 "Rodriguez, Jaelyn",Level 2 sparring
 "Rodriguez, Kayla",Level 2 sparring
+"Stebbins, Ian",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
-"Stebbins, Ian",Level 2 sparring
 "Young, Hayden",Level 2 sparring
 "Young, Leah",Level 2 sparring
 "Alvarez, Xavier",Level 2 sparring
@@ -4920,8 +5296,8 @@ Client,Type
 "Pidek, Seanna",Level 2 sparring
 "Pollock, Connor",Level 2 sparring
 "Rivera-Briones, Ariyon",Level 2 sparring
-"Rodriguez, Kayla",Level 2 sparring
 "Rodriguez, Jaelyn",Level 2 sparring
+"Rodriguez, Kayla",Level 2 sparring
 "Starns, William",Level 2 sparring
 "Stozek, Fahlon",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
@@ -4932,9 +5308,9 @@ Client,Type
 "Maldonado, Cabe",Level 2 sparring
 "Maldonado, Taelynn",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
-"Stebbins, Ian",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
+"Stebbins, Ian",Level 2 sparring
 "Sundberg, Maddi",Level 2 sparring
 "Sundberg, Marina",Level 2 sparring
 "Trammell, Macy",Level 2 sparring
@@ -4947,9 +5323,9 @@ Client,Type
 "Poutous, Jacob",Level 2 sparring
 "Ramos Arjona, Mateo",Level 2 sparring
 "Starns, William",Level 2 sparring
+"Stebbins, Ian",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
-"Stebbins, Ian",Level 2 sparring
 "Sundberg, Marina",Level 2 sparring
 "Sundberg, Maddi",Level 2 sparring
 "Bay, Chandler",Level 2 sparring
@@ -4990,8 +5366,8 @@ Client,Type
 "Steidley, Jennifer",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
 "Alvarez, Xavier",Level 2 sparring
-"Lynch, Brayden",Level 2 sparring
 "Lynch, Daniel",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
 "McMillin, Lilly",Level 2 sparring
 "Poutous, Jacob",Level 2 sparring
@@ -5027,14 +5403,14 @@ Client,Type
 "Lindahl, Hayden",Level 2 sparring
 "Lynch, Brayden",Level 2 sparring
 "Rivera-Briones, Ariyon",Level 2 sparring
-"Stebbins, Scott",Level 2 sparring
 "Stebbins, Ian",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
+"Stebbins, Scott",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
 "Bauman, Fiona",Level 2 sparring
 "Berschling, Eli",Level 2 sparring
-"Cieslewicz, Sofia",Level 2 sparring
 "Cieslewicz, Aneta",Level 2 sparring
+"Cieslewicz, Sofia",Level 2 sparring
 "Cooper, Everett",Level 2 sparring
 "DeFeo, Ethan",Level 2 sparring
 "Forar, Alexander",Level 2 sparring
@@ -5046,8 +5422,8 @@ Client,Type
 "Pollock, Connor",Level 2 sparring
 "Poutous, Jacob",Level 2 sparring
 "Stozek, Fahlon",Level 2 sparring
-"Sundberg, Marina",Level 2 sparring
 "Sundberg, Maddi",Level 2 sparring
+"Sundberg, Marina",Level 2 sparring
 "Bay, Chandler",Level 2 sparring
 "Cilento, Cole",Level 2 sparring
 "Lehto, Sherry",Level 2 sparring
@@ -5055,14 +5431,14 @@ Client,Type
 "Maldonado, Taelynn",Level 2 sparring
 "Maldonado, Cabe",Level 2 sparring
 "Rivera-Briones, Ariyon",Level 2 sparring
-"Stebbins, Noah",Level 2 sparring
 "Stebbins, Ian",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
+"Stebbins, Noah",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
 "Trammell, Macy",Level 2 sparring
-"Baughman, Gillian",Level 2 sparring
 "Baughman, Maggie",Level 2 sparring
 "Baughman, Audrey",Level 2 sparring
+"Baughman, Gillian",Level 2 sparring
 "Bauman, Fiona",Level 2 sparring
 "Berschling, Eli",Level 2 sparring
 "Cieslewicz, Sofia",Level 2 sparring
@@ -5087,15 +5463,15 @@ Client,Type
 "Lynch, Brayden",Level 2 sparring
 "Lynch, Daniel",Level 2 sparring
 "Maldonado, Cabe",Level 2 sparring
+"Stebbins, Noah",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
 "Stebbins, Ian",Level 2 sparring
-"Stebbins, Noah",Level 2 sparring
 "Steidley, Jennifer",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
 "Bauman, Fiona",Level 2 sparring
-"Cieslewicz, Sofia",Level 2 sparring
-"Cieslewicz, Aneta",Level 2 sparring
 "Cieslewicz, Alexander",Level 2 sparring
+"Cieslewicz, Aneta",Level 2 sparring
+"Cieslewicz, Sofia",Level 2 sparring
 "Cooper, Everett",Level 2 sparring
 "Gomez, Carter",Level 2 sparring
 "Lynch, Brayden",Level 2 sparring
@@ -5112,18 +5488,18 @@ Client,Type
 "Maldonado, Cabe",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
 "Ortiz, Nicholas",Level 2 sparring
-"Socanski, Luka",Level 2 sparring
 "Socanski, Mia",Level 2 sparring
+"Socanski, Luka",Level 2 sparring
 "Steidley, Jennifer",Level 2 sparring
-"Baughman, Maggie",Level 2 sparring
 "Baughman, Gillian",Level 2 sparring
+"Baughman, Maggie",Level 2 sparring
 "Baughman, Audrey",Level 2 sparring
 "Bauman, Fiona",Level 2 sparring
 "Colaizzi, Domenic",Level 2 sparring
 "Cooper, Everett",Level 2 sparring
 "Jocelyn, Chance",Level 2 sparring
-"Lynch, Brayden",Level 2 sparring
 "Lynch, Daniel",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
 "Pollock, Connor",Level 2 sparring
 "Poutous, Jacob",Level 2 sparring
@@ -5143,9 +5519,9 @@ Client,Type
 "Stebbins, Scott",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
 "Stebbins, Ian",Level 2 sparring
-"Baughman, Gillian",Level 2 sparring
-"Baughman, Maggie",Level 2 sparring
 "Baughman, Audrey",Level 2 sparring
+"Baughman, Maggie",Level 2 sparring
+"Baughman, Gillian",Level 2 sparring
 "Berschling, Eli",Level 2 sparring
 "Bowman, Madison",Level 2 sparring
 "Colaizzi, Domenic",Level 2 sparring
@@ -5162,8 +5538,8 @@ Client,Type
 "Lynch, Brayden",Level 2 sparring
 "Maldonado, Cabe",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
-"Socanski, Mia",Level 2 sparring
 "Socanski, Luka",Level 2 sparring
+"Socanski, Mia",Level 2 sparring
 "Stebbins, Ian",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
@@ -5175,15 +5551,15 @@ Client,Type
 "Cieslewicz, Alexander",Level 2 sparring
 "Colaizzi, Domenic",Level 2 sparring
 "Jocelyn, Chance",Level 2 sparring
-"Lynch, Brayden",Level 2 sparring
 "Lynch, Daniel",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
 "Manuello, Matteson",Level 2 sparring
 "Pollock, Connor",Level 2 sparring
 "Stozek, Fahlon",Level 2 sparring
 "Zuver, Hunter",Level 2 sparring
-"Baughman, Maggie",Level 2 sparring
 "Baughman, Gillian",Level 2 sparring
 "Baughman, Audrey",Level 2 sparring
+"Baughman, Maggie",Level 2 sparring
 "Berschling, Eli",Level 2 sparring
 "Binder, Hannah",Level 2 sparring
 "Christensen, Jayden",Level 2 sparring
@@ -5201,12 +5577,19 @@ Client,Type
 "Ortiz, Nicholas",Level 2 sparring
 "Socanski, Mia",Level 2 sparring
 "Socanski, Luka",Level 2 sparring
+"Stebbins, Ian",Level 2 sparring
 "Stebbins, Scott",Level 2 sparring
 "Stebbins, Noah",Level 2 sparring
-"Stebbins, Ian",Level 2 sparring
 "Steidley, Jennifer",Level 2 sparring
 "Suazo, Quinn",Level 2 sparring
 "Zuver, Melanie",Level 2 sparring
+"Baughman, Maggie",Level 3
+"Baughman, Gillian",Level 3
+"Baughman, Audrey",Level 3
+"Brasher, Jamison",Level 3
+"Ortega, Justice",Level 3
+"Ortiz, Nicholas",Level 3
+"Spence, Ashlyn",Level 3
 "Ortega, Justice",Level 3
 "Wachter, Olivia",Level 3
 "Baughman, Audrey",Level 3
@@ -5225,16 +5608,16 @@ Client,Type
 "Ortiz, Nicholas",Level 3
 "Vigil, Moniece",Level 3
 "Vigil, Jaelynn",Level 3
-"Vigil, Analise",Level 3
 "Vigil, Adaya",Level 3
+"Vigil, Analise",Level 3
 "Wachter, Olivia",Level 3
 "Baughman, Audrey",Level 3
 "Baughman, Gillian",Level 3
 "Baughman, Maggie",Level 3
 "Manuello, Garrett",Level 3
 "Ortega, Justice",Level 3
-"Socanski, Mia",Level 3
 "Socanski, Luka",Level 3
+"Socanski, Mia",Level 3
 "Wachter, Olivia",Level 3
 "Baughman, Maggie",Level 3
 "Baughman, Gillian",Level 3
@@ -5248,11 +5631,11 @@ Client,Type
 "Carlson, Robbie",Level 3
 "Ortega, Justice",Level 3
 "Ortiz, Nicholas",Level 3
-"Socanski, Luka",Level 3
 "Socanski, Mia",Level 3
+"Socanski, Luka",Level 3
 "Wachter, Olivia",Level 3
-"Baughman, Maggie",Level 3
 "Baughman, Gillian",Level 3
+"Baughman, Maggie",Level 3
 "Baughman, Audrey",Level 3
 "Berschling, Evan",Level 3
 "Brasher, Jamison",Level 3
@@ -5284,21 +5667,21 @@ Client,Type
 "Ortega, Justice",Level 3
 "Spence, Ashlyn",Level 3
 "Vigil, Jaelynn",Level 3
-"Vigil, Adaya",Level 3
 "Vigil, Analise",Level 3
+"Vigil, Adaya",Level 3
 "Vigil, Moniece",Level 3
-"Dickens, Carolyn",Level 3
 "Dickens, Jimmy",Level 3
 "Dickens, Quinn",Level 3
+"Dickens, Carolyn",Level 3
 "Ortega, Justice",Level 3
 "Spence, Ashlyn",Level 3
 "Vigil, Jaelynn",Level 3
-"Vigil, Analise",Level 3
 "Vigil, Adaya",Level 3
+"Vigil, Analise",Level 3
 "Vigil, Moniece",Level 3
 "Wachter, Olivia",Level 3
-"Baughman, Gillian",Level 3/Cond/BB Sparring
 "Baughman, Maggie",Level 3/Cond/BB Sparring
+"Baughman, Gillian",Level 3/Cond/BB Sparring
 "Baughman, Audrey",Level 3/Cond/BB Sparring
 "Pinkerton, Kyle",Level 3/Cond/BB Sparring
 "De Spirlet, Andre",Level 3/Cond/BB Sparring
@@ -5329,8 +5712,8 @@ Client,Type
 "Baughman, Maggie",Level 3/Cond/BB Sparring
 "Braun, Tyler",Level 3/Cond/BB Sparring
 "De Spirlet, Andre",Level 3/Cond/BB Sparring
-"Dickens, Quinn",Level 3/Cond/BB Sparring
 "Dickens, Jimmy",Level 3/Cond/BB Sparring
+"Dickens, Quinn",Level 3/Cond/BB Sparring
 "Dickens, Carolyn",Level 3/Cond/BB Sparring
 "Pas-Flythe, Bethany",Level 3/Cond/BB Sparring
 "Rosene, Seth",Level 3/Cond/BB Sparring
@@ -5338,33 +5721,54 @@ Client,Type
 "Steyn, Heather",Level 3/Cond/BB Sparring
 "Steyn, Eleanor",Level 3/Cond/BB Sparring
 "Wilcoxen, Connor",Level 3/Cond/BB Sparring
-"Baughman, Gillian",Level 3/Conditional
-"Baughman, Maggie",Level 3/Conditional
-"Baughman, Audrey",Level 3/Conditional
 "Berschling, Evan",Level 3/Conditional
-"Davis, Caleb",Level 3/Conditional
-"Harmon, James",Level 3/Conditional
-"Manuello, Garrett",Level 3/Conditional
-"McPhee, Cedric",Level 3/Conditional
-"Ortega, Justice",Level 3/Conditional
 "Colaizzi, Domenic",Level 3/Conditional
 "Davis, Caleb",Level 3/Conditional
-"Davis, Mike",Level 3/Conditional
-"Dobnak, Riane",Level 3/Conditional
+"Guntermann, Aribella",Level 3/Conditional
+"Guntermann, Aribella",Level 3/Conditional
+"Guntermann, Aribella",Level 3/Conditional
 "Guntermann, Aribella",Level 3/Conditional
 "Harmon, James",Level 3/Conditional
+"Lynch, Daniel",Level 3/Conditional
 "Manuello, Garrett",Level 3/Conditional
-"Masche, Will",Level 3/Conditional
 "McPhee, Cedric",Level 3/Conditional
 "Socanski, Mia",Level 3/Conditional
 "Socanski, Luka",Level 3/Conditional
-"Spence, Ashlyn",Level 3/Conditional
 "Vette, Olivia",Level 3/Conditional
 "Vette, Kristopher",Level 3/Conditional
 "Vigil, Adaya",Level 3/Conditional
 "Vigil, Analise",Level 3/Conditional
 "Vigil, Moniece",Level 3/Conditional
 "Vigil, Jaelynn",Level 3/Conditional
+"Wilcoxen, Connor",Level 3/Conditional
+"Zuver, Hunter",Level 3/Conditional
+"Baughman, Gillian",Level 3/Conditional
+"Baughman, Maggie",Level 3/Conditional
+"Baughman, Audrey",Level 3/Conditional
+"Berschling, Evan",Level 3/Conditional
+"Davis, Caleb",Level 3/Conditional
+"Harmon, James",Level 3/Conditional
+"Manuello, Garrett",Level 3/Conditional
+"McPhee, Cedric",Level 3/Conditional
+"Ortega, Justice",Level 3/Conditional
+"Colaizzi, Domenic",Level 3/Conditional
+"Davis, Caleb",Level 3/Conditional
+"Davis, Mike",Level 3/Conditional
+"Dobnak, Riane",Level 3/Conditional
+"Guntermann, Aribella",Level 3/Conditional
+"Harmon, James",Level 3/Conditional
+"Manuello, Garrett",Level 3/Conditional
+"Masche, Will",Level 3/Conditional
+"McPhee, Cedric",Level 3/Conditional
+"Socanski, Luka",Level 3/Conditional
+"Socanski, Mia",Level 3/Conditional
+"Spence, Ashlyn",Level 3/Conditional
+"Vette, Olivia",Level 3/Conditional
+"Vette, Kristopher",Level 3/Conditional
+"Vigil, Adaya",Level 3/Conditional
+"Vigil, Analise",Level 3/Conditional
+"Vigil, Jaelynn",Level 3/Conditional
+"Vigil, Moniece",Level 3/Conditional
 "Young, Leah",Level 3/Conditional
 "Young, Hayden",Level 3/Conditional
 "Zuver, Hunter",Level 3/Conditional
@@ -5373,8 +5777,8 @@ Client,Type
 "Dobnak, Riane",Level 3/Conditional
 "Harmon, James",Level 3/Conditional
 "Manuello, Garrett",Level 3/Conditional
-"Socanski, Luka",Level 3/Conditional
 "Socanski, Mia",Level 3/Conditional
+"Socanski, Luka",Level 3/Conditional
 "Spence, Ashlyn",Level 3/Conditional
 "Wachter, Olivia",Level 3/Conditional
 "Wilcoxen, Connor",Level 3/Conditional
@@ -5446,12 +5850,12 @@ Client,Type
 "McPhee, Cedric",Level 3/Conditional
 "Rodriguez, Jaelyn",Level 3/Conditional
 "Rodriguez, Kayla",Level 3/Conditional
-"Socanski, Luka",Level 3/Conditional
 "Socanski, Mia",Level 3/Conditional
+"Socanski, Luka",Level 3/Conditional
 "Spence, Ashlyn",Level 3/Conditional
 "Vigil, Jaelynn",Level 3/Conditional
-"Vigil, Adaya",Level 3/Conditional
 "Vigil, Analise",Level 3/Conditional
+"Vigil, Adaya",Level 3/Conditional
 "Vigil, Moniece",Level 3/Conditional
 "Wilcoxen, Connor",Level 3/Conditional
 "Young, Leah",Level 3/Conditional
@@ -5468,8 +5872,8 @@ Client,Type
 "Rodriguez, Jaelyn",Level 3/Conditional
 "Spence, Ashlyn",Level 3/Conditional
 "Vigil, Jaelynn",Level 3/Conditional
-"Vigil, Analise",Level 3/Conditional
 "Vigil, Adaya",Level 3/Conditional
+"Vigil, Analise",Level 3/Conditional
 "Vigil, Moniece",Level 3/Conditional
 "Wilcoxen, Connor",Level 3/Conditional
 "Young, Hayden",Level 3/Conditional
@@ -5487,8 +5891,8 @@ Client,Type
 "Rodriguez, Jaelyn",Level 3/Conditional
 "Rodriguez, Kayla",Level 3/Conditional
 "Vigil, Jaelynn",Level 3/Conditional
-"Vigil, Adaya",Level 3/Conditional
 "Vigil, Analise",Level 3/Conditional
+"Vigil, Adaya",Level 3/Conditional
 "Vigil, Moniece",Level 3/Conditional
 "Wachter, Olivia",Level 3/Conditional
 "Young, Leah",Level 3/Conditional
@@ -5517,8 +5921,8 @@ Client,Type
 "Rodriguez, Jaelyn",Level 3/Conditional
 "Rodriguez, Kayla",Level 3/Conditional
 "Vigil, Jaelynn",Level 3/Conditional
-"Vigil, Analise",Level 3/Conditional
 "Vigil, Adaya",Level 3/Conditional
+"Vigil, Analise",Level 3/Conditional
 "Vigil, Moniece",Level 3/Conditional
 "Wachter, Olivia",Level 3/Conditional
 "Carlson, Robbie",Level 3/Conditional
@@ -5532,61 +5936,78 @@ Client,Type
 "Wilcoxen, Connor",Level 3/Conditional
 "Young, Leah",Level 3/Conditional
 "Young, Hayden",Level 3/Conditional
+"Baughman, Audrey",Level 3/Conditional Sparring
+"Baughman, Gillian",Level 3/Conditional Sparring
+"Brasher, Jamison",Level 3/Conditional Sparring
+"Colaizzi, Domenic",Level 3/Conditional Sparring
+"Manuello, Garrett",Level 3/Conditional Sparring
+"Masche, Will",Level 3/Conditional Sparring
+"Ortiz, Nicholas",Level 3/Conditional Sparring
+"Rodriguez, Kayla",Level 3/Conditional Sparring
+"Socanski, Mia",Level 3/Conditional Sparring
+"Socanski, Luka",Level 3/Conditional Sparring
+"Spence, Ashlyn",Level 3/Conditional Sparring
+"Vigil, Jaelynn",Level 3/Conditional Sparring
+"Vigil, Analise",Level 3/Conditional Sparring
+"Vigil, Adaya",Level 3/Conditional Sparring
+"Wachter, Olivia",Level 3/Conditional Sparring
+"Young, Hayden",Level 3/Conditional Sparring
+"Young, Leah",Level 3/Conditional Sparring
 "Brasher, Jamison",Level 3/Conditional Sparring
 "Carlson, Robbie",Level 3/Conditional Sparring
 "McPhee, Cedric",Level 3/Conditional Sparring
 "Ortiz, Nicholas",Level 3/Conditional Sparring
 "Rodriguez, Kayla",Level 3/Conditional Sparring
 "Rodriguez, Jaelyn",Level 3/Conditional Sparring
-"Socanski, Mia",Level 3/Conditional Sparring
 "Socanski, Luka",Level 3/Conditional Sparring
+"Socanski, Mia",Level 3/Conditional Sparring
 "Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Adaya",Level 3/Conditional Sparring
 "Vigil, Analise",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
-"Young, Hayden",Level 3/Conditional Sparring
 "Young, Leah",Level 3/Conditional Sparring
+"Young, Hayden",Level 3/Conditional Sparring
 "Carlson, Robbie",Level 3/Conditional Sparring
 "Colaizzi, Domenic",Level 3/Conditional Sparring
 "Manuello, Garrett",Level 3/Conditional Sparring
 "Masche, Will",Level 3/Conditional Sparring
-"Socanski, Luka",Level 3/Conditional Sparring
 "Socanski, Mia",Level 3/Conditional Sparring
+"Socanski, Luka",Level 3/Conditional Sparring
 "Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Analise",Level 3/Conditional Sparring
 "Vigil, Adaya",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
 "Wilcoxen, Connor",Level 3/Conditional Sparring
+"Baughman, Gillian",Level 3/Conditional Sparring
 "Baughman, Audrey",Level 3/Conditional Sparring
 "Baughman, Maggie",Level 3/Conditional Sparring
-"Baughman, Gillian",Level 3/Conditional Sparring
 "Brasher, Jamison",Level 3/Conditional Sparring
 "Colaizzi, Domenic",Level 3/Conditional Sparring
 "Manuello, Garrett",Level 3/Conditional Sparring
 "Masche, Will",Level 3/Conditional Sparring
 "Ortega, Justice",Level 3/Conditional Sparring
 "Ortiz, Nicholas",Level 3/Conditional Sparring
-"Socanski, Mia",Level 3/Conditional Sparring
 "Socanski, Luka",Level 3/Conditional Sparring
-"Vigil, Analise",Level 3/Conditional Sparring
+"Socanski, Mia",Level 3/Conditional Sparring
 "Vigil, Jaelynn",Level 3/Conditional Sparring
+"Vigil, Analise",Level 3/Conditional Sparring
 "Vigil, Adaya",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
-"Young, Leah",Level 3/Conditional Sparring
 "Young, Hayden",Level 3/Conditional Sparring
+"Young, Leah",Level 3/Conditional Sparring
+"Baughman, Audrey",Level 3/Conditional Sparring
 "Baughman, Gillian",Level 3/Conditional Sparring
 "Baughman, Maggie",Level 3/Conditional Sparring
-"Baughman, Audrey",Level 3/Conditional Sparring
 "Berschling, Evan",Level 3/Conditional Sparring
 "Colaizzi, Domenic",Level 3/Conditional Sparring
 "Lynch, Daniel",Level 3/Conditional Sparring
 "Masche, Will",Level 3/Conditional Sparring
 "McPhee, Cedric",Level 3/Conditional Sparring
 "Ortiz, Nicholas",Level 3/Conditional Sparring
-"Socanski, Luka",Level 3/Conditional Sparring
 "Socanski, Mia",Level 3/Conditional Sparring
-"Young, Hayden",Level 3/Conditional Sparring
+"Socanski, Luka",Level 3/Conditional Sparring
 "Young, Leah",Level 3/Conditional Sparring
+"Young, Hayden",Level 3/Conditional Sparring
 "Brasher, Jamison",Level 3/Conditional Sparring
 "Carlson, Robbie",Level 3/Conditional Sparring
 "Colaizzi, Domenic",Level 3/Conditional Sparring
@@ -5597,8 +6018,8 @@ Client,Type
 "Spence, Ashlyn",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
 "Young, Hayden",Level 3/Conditional Sparring
-"Baughman, Audrey",Level 3/Conditional Sparring
 "Baughman, Maggie",Level 3/Conditional Sparring
+"Baughman, Audrey",Level 3/Conditional Sparring
 "Brasher, Jamison",Level 3/Conditional Sparring
 "Carlson, Robbie",Level 3/Conditional Sparring
 "Dobnak, Riane",Level 3/Conditional Sparring
@@ -5606,8 +6027,8 @@ Client,Type
 "McPhee, Cedric",Level 3/Conditional Sparring
 "Ortega, Justice",Level 3/Conditional Sparring
 "Spence, Ashlyn",Level 3/Conditional Sparring
-"Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Analise",Level 3/Conditional Sparring
+"Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Adaya",Level 3/Conditional Sparring
 "Vigil, Moniece",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
@@ -5619,8 +6040,8 @@ Client,Type
 "McPhee, Cedric",Level 3/Conditional Sparring
 "Spence, Ashlyn",Level 3/Conditional Sparring
 "Vigil, Jaelynn",Level 3/Conditional Sparring
-"Vigil, Adaya",Level 3/Conditional Sparring
 "Vigil, Analise",Level 3/Conditional Sparring
+"Vigil, Adaya",Level 3/Conditional Sparring
 "Vigil, Moniece",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
 "Wilcoxen, Connor",Level 3/Conditional Sparring
@@ -5630,8 +6051,8 @@ Client,Type
 "Masche, Will",Level 3/Conditional Sparring
 "McPhee, Cedric",Level 3/Conditional Sparring
 "Spence, Ashlyn",Level 3/Conditional Sparring
-"Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Analise",Level 3/Conditional Sparring
+"Vigil, Jaelynn",Level 3/Conditional Sparring
 "Vigil, Adaya",Level 3/Conditional Sparring
 "Vigil, Moniece",Level 3/Conditional Sparring
 "Wachter, Olivia",Level 3/Conditional Sparring
@@ -5686,6 +6107,9 @@ Client,Type
 "De Spirlet, Andre",Lvl 3/Cond/BB/2nd Sparring
 "Grant, Lexi",Lvl 3/Cond/BB/2nd Sparring
 "Guntermann, Aribella",Lvl 3/Cond/BB/2nd Sparring
+"Guntermann, Aribella",Lvl 3/Cond/BB/2nd Sparring
+"Guntermann, Aribella",Lvl 3/Cond/BB/2nd Sparring
+"Guntermann, Aribella",Lvl 3/Cond/BB/2nd Sparring
 "Harker, Carson",Lvl 3/Cond/BB/2nd Sparring
 "Harmon, Sierra",Lvl 3/Cond/BB/2nd Sparring
 "Harmon, James",Lvl 3/Cond/BB/2nd Sparring
@@ -5705,9 +6129,9 @@ Client,Type
 "Teff, Tanner",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
 "Cooper, Lucas",Lvl 3/Cond/BB/2nd Sparring
-"Davis, Caleb",Lvl 3/Cond/BB/2nd Sparring
 "Davis, Mike",Lvl 3/Cond/BB/2nd Sparring
 "Davis, Taylor",Lvl 3/Cond/BB/2nd Sparring
+"Davis, Caleb",Lvl 3/Cond/BB/2nd Sparring
 "De Spirlet, Andre",Lvl 3/Cond/BB/2nd Sparring
 "Grant, Lexi",Lvl 3/Cond/BB/2nd Sparring
 "Guntermann, Aribella",Lvl 3/Cond/BB/2nd Sparring
@@ -5725,8 +6149,8 @@ Client,Type
 "Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
 "Spence, Ashlyn",Lvl 3/Cond/BB/2nd Sparring
 "Teff, Tanner",Lvl 3/Cond/BB/2nd Sparring
-"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
+"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Augat, Jake",Lvl 3/Cond/BB/2nd Sparring
 "Byers, Dave",Lvl 3/Cond/BB/2nd Sparring
 "Carlson, Robbie",Lvl 3/Cond/BB/2nd Sparring
@@ -5749,19 +6173,19 @@ Client,Type
 "Ortega, Justice",Lvl 3/Cond/BB/2nd Sparring
 "Pidek, Seanna",Lvl 3/Cond/BB/2nd Sparring
 "Pinsky, Eli",Lvl 3/Cond/BB/2nd Sparring
-"Rodriguez, Jaelyn",Lvl 3/Cond/BB/2nd Sparring
 "Rodriguez, Kayla",Lvl 3/Cond/BB/2nd Sparring
+"Rodriguez, Jaelyn",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Kendra",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
 "Spence, Ashlyn",Lvl 3/Cond/BB/2nd Sparring
 "Steyn, Eleanor",Lvl 3/Cond/BB/2nd Sparring
 "Teff, Tanner",Lvl 3/Cond/BB/2nd Sparring
-"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
+"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Augat, Jake",Lvl 3/Cond/BB/2nd Sparring
-"Baughman, Maggie",Lvl 3/Cond/BB/2nd Sparring
-"Baughman, Gillian",Lvl 3/Cond/BB/2nd Sparring
 "Baughman, Audrey",Lvl 3/Cond/BB/2nd Sparring
+"Baughman, Gillian",Lvl 3/Cond/BB/2nd Sparring
+"Baughman, Maggie",Lvl 3/Cond/BB/2nd Sparring
 "Cooper, Lucas",Lvl 3/Cond/BB/2nd Sparring
 "Davis, Mike",Lvl 3/Cond/BB/2nd Sparring
 "Davis, Caleb",Lvl 3/Cond/BB/2nd Sparring
@@ -5808,9 +6232,9 @@ Client,Type
 "Spence, Ashlyn",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
-"Baughman, Audrey",Lvl 3/Cond/BB/2nd Sparring
-"Baughman, Gillian",Lvl 3/Cond/BB/2nd Sparring
 "Baughman, Maggie",Lvl 3/Cond/BB/2nd Sparring
+"Baughman, Gillian",Lvl 3/Cond/BB/2nd Sparring
+"Baughman, Audrey",Lvl 3/Cond/BB/2nd Sparring
 "Bauman, Peter",Lvl 3/Cond/BB/2nd Sparring
 "Berschling, Evan",Lvl 3/Cond/BB/2nd Sparring
 "Cooper, Lucas",Lvl 3/Cond/BB/2nd Sparring
@@ -5834,8 +6258,8 @@ Client,Type
 "Wilcoxen, Connor",Lvl 3/Cond/BB/2nd Sparring
 "Ambriz, Sofia",Lvl 3/Cond/BB/2nd Sparring
 "Augat, Jake",Lvl 3/Cond/BB/2nd Sparring
-"Baughman, Maggie",Lvl 3/Cond/BB/2nd Sparring
 "Baughman, Audrey",Lvl 3/Cond/BB/2nd Sparring
+"Baughman, Maggie",Lvl 3/Cond/BB/2nd Sparring
 "Bauman, Peter",Lvl 3/Cond/BB/2nd Sparring
 "Bauman, Suzanne",Lvl 3/Cond/BB/2nd Sparring
 "Cooper, Lucas",Lvl 3/Cond/BB/2nd Sparring
@@ -5850,12 +6274,12 @@ Client,Type
 "Masche, Will",Lvl 3/Cond/BB/2nd Sparring
 "Nagel, Kurt",Lvl 3/Cond/BB/2nd Sparring
 "Ortega, Justice",Lvl 3/Cond/BB/2nd Sparring
-"Pidek, Aaron",Lvl 3/Cond/BB/2nd Sparring
 "Pidek, Seanna",Lvl 3/Cond/BB/2nd Sparring
+"Pidek, Aaron",Lvl 3/Cond/BB/2nd Sparring
 "Pinsky, Eli",Lvl 3/Cond/BB/2nd Sparring
-"Rosene, Kendra",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Robert",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
+"Rosene, Kendra",Lvl 3/Cond/BB/2nd Sparring
 "Teff, Tanner",Lvl 3/Cond/BB/2nd Sparring
 "Wachter, Olivia",Lvl 3/Cond/BB/2nd Sparring
 "Wilcoxen, Connor",Lvl 3/Cond/BB/2nd Sparring
@@ -5906,8 +6330,8 @@ Client,Type
 "Rosene, Robert",Lvl 3/Cond/BB/2nd Sparring
 "Wilcoxen, Connor",Lvl 3/Cond/BB/2nd Sparring
 "Wilcoxen, Connor",Lvl 3/Cond/BB/2nd Sparring
-"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
+"Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
 "Augat, Jake",Lvl 3/Cond/BB/2nd Sparring
 "De Spirlet, Andre",Lvl 3/Cond/BB/2nd Sparring
 "Grant, Lexi",Lvl 3/Cond/BB/2nd Sparring
@@ -5927,8 +6351,8 @@ Client,Type
 "Rosene, Robert",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
 "Spence, Ashlyn",Lvl 3/Cond/BB/2nd Sparring
-"Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
+"Zuver, Hunter",Lvl 3/Cond/BB/2nd Sparring
 "Bauman, Peter",Lvl 3/Cond/BB/2nd Sparring
 "Byers, Jackson",Lvl 3/Cond/BB/2nd Sparring
 "Byers, Dave",Lvl 3/Cond/BB/2nd Sparring
@@ -5952,9 +6376,9 @@ Client,Type
 "Pinkerton, Kyle",Lvl 3/Cond/BB/2nd Sparring
 "Pinsky, Eli",Lvl 3/Cond/BB/2nd Sparring
 "Riotte, Tom",Lvl 3/Cond/BB/2nd Sparring
-"Rosene, Kendra",Lvl 3/Cond/BB/2nd Sparring
-"Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
 "Rosene, Robert",Lvl 3/Cond/BB/2nd Sparring
+"Rosene, Seth",Lvl 3/Cond/BB/2nd Sparring
+"Rosene, Kendra",Lvl 3/Cond/BB/2nd Sparring
 "Schmitz, Tanner",Lvl 3/Cond/BB/2nd Sparring
 "Spence, Ashlyn",Lvl 3/Cond/BB/2nd Sparring
 "Zuver, Derek",Lvl 3/Cond/BB/2nd Sparring
