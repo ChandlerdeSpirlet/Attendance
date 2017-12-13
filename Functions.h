@@ -12,6 +12,9 @@
 #include <sstream>
 #include <vector>
 #include <algorithm>
+#include <termios.h>
+#include <unistd.h>
+#include <stdio.h>
 using namespace std;
 
 struct Student {//Create struct object for each student
@@ -24,12 +27,26 @@ struct Student {//Create struct object for each student
     bool shortOnSparring;
 };
 
+
+string version = "1.6.6";
+string releaseNotes = "Fixes some bugs associated with admin access. Integrates a bug log to view program history.";
+string releaseDate = "13 December 2017";
+string userName = "admin";
+
+bool checkUserName(string input){
+    if (input == userName){
+        return true;
+    }
+    return false;
+}
+
 void printMenu(){
     cout<<"======Black Belt Class Counts======"<<endl;
     cout<<"1: Print all black belts and class counts."<<endl;
     cout<<"2: Search by name."<<endl;
     cout<<"3. Show only black belts without enough classes."<<endl;
-    cout<<"4. Quit."<<endl;
+    cout<<"4. Show only black belts with enough classes."<<endl;
+    cout<<"5. Quit."<<endl;
 }
 
 vector<Student> bbList = {};//vector where struct is stored
@@ -82,7 +99,6 @@ void addBBToArr(){//Input for list of black belts. Works as expected.
             stringstream ss(line);
             getline(ss, studentName, '\n');
             Student student;
-            
             initStudent(student, studentName);
             bbList.push_back(student);
         }
@@ -188,6 +204,19 @@ void populateClasses(){//Processing file with names and class types
     }
 }
 
+void printEnoughClasses(){
+    for (Student student : bbList){
+        if ((student.shortOnSparring == false) && (student.shortOnRegular == false) && (student.shortOnSwat == false)){
+            cout << student.name << endl;
+            cout<<"\tSWAT:     "<<student.swatCount<<endl;
+            cout<<"\tRegular:  "<<student.regularClassCount;
+            cout<<endl;
+            cout<<"\tSparring: "<<student.sparringClassCount;
+            cout<<endl;
+        }
+    }
+}
+
 void printDeficientClasses(){
     for (Student student : bbList){
         if ((student.shortOnSparring == true) || (student.shortOnRegular == true) || (student.shortOnSwat == true)){
@@ -231,6 +260,109 @@ void findStudent(string name){
             cout << "\tSparring: " << x.sparringClassCount<<endl;
         }
     }
+}
+
+int getch() {
+    int ch;
+    struct termios t_old, t_new;
+    tcgetattr(STDIN_FILENO, &t_old);
+    t_new = t_old;
+    t_new.c_lflag &= ~(ICANON | ECHO);
+    tcsetattr(STDIN_FILENO, TCSANOW, &t_new);
+    ch = getchar();
+    tcsetattr(STDIN_FILENO, TCSANOW, &t_old);
+    return ch;
+}
+
+string getpass(const char *prompt, bool show_asterisk=true)
+{
+    const char BACKSPACE=127;
+    const char RETURN=10;
+    string password;
+    unsigned char ch=0;
+    cout <<prompt<<endl;
+    while((ch=getch())!=RETURN)
+    {
+        if(ch==BACKSPACE)
+        {
+            if(password.length()!=0)
+            {
+                if(show_asterisk){
+                    cout <<"\b \b";
+                }
+                password.resize(password.length()-1);
+            }
+        }
+        else
+        {
+            password+=ch;
+            if(show_asterisk){
+                cout <<'*';
+            }
+        }
+    }
+    cout<<endl;
+    return password;
+}
+
+void getSecondaryMenu(){
+    cout<<"1. View program info."<<endl;
+    cout<<"2. Edit student counts."<<endl;
+    cout<<"3. Quit."<<endl;
+}
+
+void printBugLog(){
+    cout<<"ID - Status - Description"<<endl;
+    cout<<"========================="<<endl;
+    string bugList = "buglog.txt";
+    string ID;
+    string status;
+    string description;
+    string line;
+    ifstream inFile;
+    inFile.open(bugList);
+    if (inFile.is_open()){
+        while (getline(inFile, line)){
+            stringstream ss(line);
+            getline(ss, ID, ',');
+            getline(ss, status, ',');
+            getline(ss, description, ',');
+            cout<<ID<<" - "<<status<<" - "<<description<<endl;
+        }
+        inFile.close();
+    }
+    else{
+        cout<<"Error 4: file unable to open."<<endl;
+    }
+}
+
+void getInfo(){
+    cout<<"Version: "<<version<<endl;
+    cout<<"Release notes: "<<releaseNotes<<endl;
+    cout<<"Release date: "<<releaseDate<<endl;
+    printBugLog();
+}
+
+Student* updateStudent(Student *temp){
+    Student *tmp;
+    tmp->swatCount = 16;
+    tmp->regularClassCount = 10;
+    tmp->sparringClassCount = 10;
+    temp = tmp;
+    return temp;
+}
+
+bool findPerson(string name){
+    Student *temp;
+    bool worked = false;
+    for (Student x : bbList){
+        if (name == x.name){
+            temp = &x;
+            temp = updateStudent(temp);
+            worked = true;
+        }
+    }
+    return worked;
 }
 
 #endif /* Functions_h */
