@@ -41,11 +41,26 @@ int main(int argc, const char * argv[]) {
             }
                 break;
             case 5:{
+                int spar, reg, swat;
+                string temp;
+                cout<<"New number of SWATs: ";
+                getline(cin, temp);
+                swat = stoi(temp);
+                cout<<"New number of regular classes: ";
+                getline(cin, temp);
+                reg = stoi(temp);
+                cout<<"New number of sparring classes: ";
+                getline(cin, temp);
+                spar = stoi(temp);
+                updateClassReq(swat, reg, spar);
+            }
+                break;
+            case 6:{
                 quit = true;
                 cout<<"Goodbye!"<<endl;
             }
                 break;
-            case 6:{
+            case 7:{
                 cout<<"Username: ";
                 string userInput;
                 getline(cin, userInput);

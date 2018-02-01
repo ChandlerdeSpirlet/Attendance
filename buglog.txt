@@ -2,3 +2,4 @@ b1143,Resolved,Student numbers would not be overwritten in admin access.
 b1166,Resolved,Would allow for admin access if incorrect password was given.
 b2166,Resolved,Restricts password attempts to only 3 for admin access.
 b3166,Resolved,Would not allow for username to be re-entered if incorrect.
+b1176,Unresolved,Does not update the shortOnClass bool value once count is adjusted.

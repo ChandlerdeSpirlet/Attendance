@@ -28,10 +28,14 @@ struct Student {//Create struct object for each student
 };
 
 
-string version = "1.6.6";
-string releaseNotes = "Fixes some bugs associated with admin access. Integrates a bug log to view program history.";
-string releaseDate = "13 December 2017";
+string version = "1.7.6";
+string releaseNotes = "Introduces a feature to adjust the number of classes required.";
+string releaseDate = "09 January 2018";
 string userName = "admin";
+
+int swatNum = 16;
+int sparNum = 10;
+int regNum = 10;
 
 bool checkUserName(string input){
     if (input == userName){
@@ -46,7 +50,8 @@ void printMenu(){
     cout<<"2: Search by name."<<endl;
     cout<<"3. Show only black belts without enough classes."<<endl;
     cout<<"4. Show only black belts with enough classes."<<endl;
-    cout<<"5. Quit."<<endl;
+    cout<<"5. Change the number of classes required."<<endl;
+    cout<<"6. Quit."<<endl;
 }
 
 vector<Student> bbList = {};//vector where struct is stored
@@ -55,18 +60,18 @@ void dumpStudents(bool checkStatus) {
     for (Student student : bbList) {
         cout << student.name << endl;
         cout << "\tSWAT:     " << student.swatCount;
-        if (checkStatus && student.swatCount < 16) {
-            cout << " *** " << (16 - student.swatCount) << " SWAT classes needed.";
+        if (checkStatus && student.swatCount < swatNum) {
+            cout << " *** " << (swatNum - student.swatCount) << " SWAT classes needed.";
         }
         cout << endl;
         cout << "\tRegular:  " << student.regularClassCount;
-        if (checkStatus && student.regularClassCount < 10) {
-            cout << " *** " << (10 - student.regularClassCount) << " Regular classes needed.";
+        if (checkStatus && student.regularClassCount < regNum) {
+            cout << " *** " << (regNum - student.regularClassCount) << " Regular classes needed.";
         }
         cout << endl;
         cout << "\tSparring: " << student.sparringClassCount;
-        if (checkStatus && student.sparringClassCount < 10) {
-            cout << " *** " << (10 - student.sparringClassCount) << " Sparring classes needed.";
+        if (checkStatus && student.sparringClassCount < sparNum) {
+            cout << " *** " << (sparNum - student.sparringClassCount) << " Sparring classes needed.";
         }
         cout << endl;
     }
@@ -110,13 +115,13 @@ void addBBToArr(){//Input for list of black belts. Works as expected.
 }
 
 void updateClassBool(Student &student){
-    if (student.swatCount >= 16){
+    if (student.swatCount >= swatNum){
         student.shortOnSwat = false;
     }
-    if (student.sparringClassCount >= 10){
+    if (student.sparringClassCount >= sparNum){
         student.shortOnSparring = false;
     }
-    if (student.regularClassCount >= 10){
+    if (student.regularClassCount >= regNum){
         student.shortOnRegular = false;
     }
 }
@@ -221,30 +226,30 @@ void printDeficientClasses(){
     for (Student student : bbList){
         if ((student.shortOnSparring == true) || (student.shortOnRegular == true) || (student.shortOnSwat == true)){
             cout << student.name << endl;
-            if (student.swatCount >= 16){
+            if (student.swatCount >= swatNum){
                 cout<<"\tSWAT:     "<<student.swatCount<<endl;
             }
             else{
                 cout << "\tSWAT:     " << student.swatCount;
-                cout << " *** " << (16 - student.swatCount) << " SWAT classes needed.";
+                cout << " *** " << (swatNum - student.swatCount) << " SWAT classes needed.";
                 cout << endl;
             }
-            if (student.regularClassCount >= 10){
+            if (student.regularClassCount >= regNum){
                 cout<<"\tRegular:  "<<student.regularClassCount;
                 cout<<endl;
             }
             else{
                 cout << "\tRegular:  " << student.regularClassCount;
-                cout << " *** " << (10 - student.regularClassCount) << " Regular classes needed.";
+                cout << " *** " << (regNum - student.regularClassCount) << " Regular classes needed.";
                 cout << endl;
             }
-            if (student.sparringClassCount >= 10){
+            if (student.sparringClassCount >= sparNum){
                 cout<<"\tSparring: "<<student.sparringClassCount;
                 cout<<endl;
             }
             else{
                 cout << "\tSparring: " << student.sparringClassCount;
-                cout << " *** " << (10 - student.sparringClassCount) << " Sparring classes needed.";
+                cout << " *** " << (sparNum - student.sparringClassCount) << " Sparring classes needed.";
                 cout << endl;
             }
         }
@@ -345,9 +350,12 @@ void getInfo(){
 
 Student* updateStudent(Student *temp){
     Student *tmp;
-    tmp->swatCount = 16;
-    tmp->regularClassCount = 10;
-    tmp->sparringClassCount = 10;
+    tmp->swatCount = swatNum;
+    tmp->regularClassCount = regNum;
+    tmp->sparringClassCount = sparNum;
+    tmp->shortOnSwat = false;
+    tmp->shortOnSparring = false;
+    tmp->shortOnRegular = false;
     temp = tmp;
     return temp;
 }
@@ -363,6 +371,17 @@ bool findPerson(string name){
         }
     }
     return worked;
+}
+
+void updateClassReq(int swat, int reg, int spar){//b1176 - UNRESOLVED
+    swatNum = swat;
+    regNum = reg;
+    sparNum = spar;
+    for (Student x : bbList){
+        updateClassBool(x);
+        cout<<"Student: "<<x.name<<" is "<<x.shortOnSparring<<" for sparring."<<endl;
+    }
+    cout<<"Class count requirements have been successfully updated."<<endl;
 }
 
 #endif /* Functions_h */
