@@ -28,9 +28,9 @@ struct Student {//Create struct object for each student
 };
 
 
-string version = "1.8.0s";
+string version = "1.8.1";
 string releaseNotes = "Introduces a feature to adjust the number of classes required.";
-string releaseDate = "09 January 2018";
+string releaseDate = "16 February 2018";
 string userName = "admin";
 
 int swatNum = 16;
@@ -390,7 +390,6 @@ void updateClassReq(int swat, int reg, int spar){//b1176 - UNRESOLVED
     sparNum = spar;
     for (Student x : bbList){
         updateNewClass(&x);
-        cout<<"Student: "<<x.name<<" is "<<x.shortOnSparring<<" for sparring."<<endl;
     }
     cout<<"Class count requirements have been successfully updated."<<endl;
 }
