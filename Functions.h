@@ -28,7 +28,7 @@ struct Student {//Create struct object for each student
 };
 
 
-string version = "1.7.6";
+string version = "1.8.0s";
 string releaseNotes = "Introduces a feature to adjust the number of classes required.";
 string releaseDate = "09 January 2018";
 string userName = "admin";
@@ -372,13 +372,24 @@ bool findPerson(string name){
     }
     return worked;
 }
+void updateNewClass(Student *student){
+    if (student->swatCount >= swatNum){
+        student->shortOnSwat = false;
+    }
+    if (student->sparringClassCount >= sparNum){
+        student->shortOnSparring = false;
+    }
+    if (student->regularClassCount >= regNum){
+        student->shortOnRegular = false;
+    }
+}
 
 void updateClassReq(int swat, int reg, int spar){//b1176 - UNRESOLVED
     swatNum = swat;
     regNum = reg;
     sparNum = spar;
     for (Student x : bbList){
-        updateClassBool(x);
+        updateNewClass(&x);
         cout<<"Student: "<<x.name<<" is "<<x.shortOnSparring<<" for sparring."<<endl;
     }
     cout<<"Class count requirements have been successfully updated."<<endl;
