@@ -29,7 +29,7 @@ struct Student {//Create struct object for each student
 
 
 string version = "1.8.1";
-string releaseNotes = "Introduces a feature to adjust the number of classes required.";
+string releaseNotes = "Introduces an option to change the amount of required classes.";
 string releaseDate = "16 February 2018";
 string userName = "admin";
 
@@ -133,25 +133,29 @@ void addClassHelper(Student &student, string &classType){//Checks to see what cl
         //cout << "Add Class: " << classType << " to " << student.name << endl;
         student.swatCount++;//increment class count by one
     }
-    else if ((classType == "Lvl3/Cond/BB/2ndSparring") ||
-             (classType == "Lvl3/Cond/BBSparring") ||
-             (classType == "Level3/Cond/BBSparring") ||
+    else if ((classType == "Lvl3/Prep/BB/2ndSparring") ||
              (classType == "BlackBelt/2ndDegreeSparring") ||
-             (classType == "Level3/ConditionalSparring") ||
+             (classType == "Lvl3/PrepSparring") ||
+             (classType == "Level3/PrepSparring") ||
+             (classType == "Level1/Level2Sparring") || 
              (classType == "Level2sparring") ||
-             (classType == "Women'sSparringClinic")) {
-        //cout << "Add Class: " << classType << " to " << student.name << endl;
+             (classType == "Women'sSparringClinic"))
+    {
         student.sparringClassCount++;
     }
     else if ((classType == "BlackBelt/2ndDegree") ||
              (classType == "Level1") ||
              (classType == "Level2") ||
+             (classType == "Level3") ||
+             (classType == "FormReview") ||
              (classType == "Level1/Level2") ||
-             (classType == "Level3/Conditional") ||
-             (classType == "ConditionalBlackBelt") ||
+             (classType == "Level3/PrepBelt") ||
+             (classType == "PrepBelt") ||
              (classType == "Level2Exclusive") ||
              (classType == "Exclusive2/3") ||
-             (classType == "Basic")){
+             (classType == "Basic") ||
+             (classType == "Exclusive1"))
+    {
         //cout << "Add Class: " << classType << " to " << student.name << endl;
         student.regularClassCount++;
     }
@@ -259,10 +263,10 @@ void printDeficientClasses(){
 void findStudent(string name){
     for (Student x : bbList){
         if (x.name == name){
-            cout << x.name << endl;
-            cout << "\tSWAT:     " << x.swatCount<<endl;
-            cout << "\tRegular:  " << x.regularClassCount<<endl;
-            cout << "\tSparring: " << x.sparringClassCount<<endl;
+            cout<< x.name << endl;
+            cout<< "\tSWAT:     "<< x.swatCount<<endl;
+            cout<< "\tRegular:  "<< x.regularClassCount<<endl;
+            cout<< "\tSparring: "<< x.sparringClassCount<<endl;
         }
     }
 }
