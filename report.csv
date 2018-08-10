@@ -1,298 +1,837 @@
-﻿Client,Type
+Client,Type
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Bromfield, Donovan",Basic
+"Mclain, Sydney",Basic
+"Roth, Jack",Basic
+"Brito, Kimberly",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Majors, Keiken",Basic
+"Martin, Liam",Basic
+"McPhee, Beth",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"Colaizzi, Sabrina",Basic
+"Fugelseth, Logan",Basic
+"Majors, Keiken",Basic
+"Martin, Liam",Basic
+"Parker, William",Basic
+"Young, Hayden",Basic
+"Anderson, Makiah",Basic
+"Anderson, Max",Basic
+"Cotter, Daniel",Basic
+"Cotter, Keira",Basic
+"Dillingham, Madeline",Basic
+"Ginther, Eian",Basic
+"Martin, Liam",Basic
+"McPhee, Beth",Basic
+"McPhee, Mazie",Basic
+"McPhee, Matt",Basic
+"Scott, Jordan",Basic
+"Bromfield, Donovan",Basic
+"Dillingham, Madeline",Basic
+"Ginther, Eian",Basic
+"Ortega, Justice",Basic
+"Roth, Jack",Basic
+"Saul, Jameson",Basic
+"Carlson, David",Basic
+"Carlson, Edward",Basic
+"Martin, Liam",Basic
+"Bromfield, Donovan",Basic
+"Estrada, Cash",Basic
+"Majors, Keiken",Basic
+"Roth, Jack",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Estrada, Cash",Basic
+"Ginther, Eian",Basic
+"Mclain, Sydney",Basic
+"Ortega, Justice",Basic
+"Saul, Jameson",Basic
+"Scott, Jordan",Basic
+"Cooper, Nate",Basic
+"Cooper, Everett",Basic
+"Crooks, Addison",Basic
+"Estrada, Cash",Basic
+"Ginther, Eian",Basic
+"Martin, Liam",Basic
+"Mclain, Sydney",Basic
+"McPhee, Beth",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"McPhee, Cedric",Basic
+"Ortega, Justice",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Carlson, David",Basic
+"Carlson, Edward",Basic
+"Dillingham, Madeline",Basic
+"Estrada, Cash",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Lilikoi",Basic
+"Saul, Jameson",Basic
+"Snyder, Harley",Basic
+"Alzaidi, Robert",Basic
+"Chesley-Vogels, Chloe",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Ginther, Eian",Basic
+"Majors, Keiken",Basic
+"Martin, Liam",Basic
+"McPhee, Beth",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"Ortega, Justice",Basic
+"Saul, Jameson",Basic
+"Smith, Logan",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Carlson, Edward",Basic
+"Carlson, David",Basic
+"Estrada, Cash",Basic
+"Majors, Keiken",Basic
+"Nisogi, Lilikoi",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Maile",Basic
+"Roth, Jack",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Crooks, Addison",Basic
+"Estrada, Cash",Basic
+"Ginther, Eian",Basic
+"Mclain, Sydney",Basic
+"McPhee, Beth",Basic
+"McPhee, Mazie",Basic
+"Saul, Jameson",Basic
+"Chesley-Vogels, Chloe",Basic
+"Crooks, Addison",Basic
+"Estrada, Cash",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Bromfield, Donovan",Basic
+"Carlson, Edward",Basic
+"Carlson, David",Basic
+"Crooks, Addison",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Majors, Keiken",Basic
+"Roth, Jack",Basic
+"Scott, Jordan",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Dillingham, Madeline",Basic
+"Ferguson, Hudson",Basic
+"Martin, Liam",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Lilikoi",Basic
+"Rakowski, Charlie",Basic
+"Snyder, Harley",Basic
+"Alzaidi, Robert",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Crooks, Addison",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Ginther, Eian",Basic
+"Martin, Liam",Basic
+"Scott, Jordan",Basic
+"Smith, Logan",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Bromfield, Donovan",Basic
+"Fugelseth, Logan",Basic
+"Majors, Keiken",Basic
+"Ross, Brock",Basic
+"Ross, Rylee",Basic
+"Roth, Jack",Basic
+"Saul, Jameson",Basic
+"Snyder, Harley",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Ferguson, Hudson",Basic
+"Ginther, Eian",Basic
+"Mclain, Sydney",Basic
+"Scott, Jordan",Basic
+"Chesley-Vogels, Chloe",Basic
+"Crooks, Addison",Basic
+"Estrada, Cash",Basic
+"Carlson, David",Basic
+"Carlson, Edward",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Ginther, Eian",Basic
+"Martin, Liam",Basic
+"Scott, Jordan",Basic
+"Snyder, Harley",Basic
+"Alzaidi, Robert",Basic
+"Chesley-Vogels, Chloe",Basic
+"Crooks, Addison",Basic
+"Ferguson, Hudson",Basic
+"Majors, Keiken",Basic
+"Martin, Liam",Basic
+"Ross, Rylee",Basic
+"Ross, Brock",Basic
+"Scott, Jordan",Basic
+"Smith, Logan",Basic
+"Bromfield, Donovan",Basic
+"Colaizzi, Sabrina",Basic
+"Ferguson, Hudson",Basic
+"Martin, Liam",Basic
+"Mclain, Sydney",Basic
+"Nisogi, Lilikoi",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Ronchetti, Callie",Basic
+"Roth, Jack",Basic
+"Saul, Jameson",Basic
+"Snyder, Harley",Basic
+"Spence, Hayley",Basic
+"Crooks, Addison",Basic
+"Ferguson, Hudson",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Mclain, Sydney",Basic
+"Scott, Jordan",Basic
 "Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Green, Jace",Basic
+"Jensen, Jack",Basic
+"Maliepaard, Ezra",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Lilikoi",Basic
+"Perea, Connor",Basic
+"Ronchetti, Callie",Basic
+"Ross, Rylee",Basic
+"Ross, Brock",Basic
+"Roth, Donathan",Basic
+"Scott, Jordan",Basic
+"Snyder, Harley",Basic
+"Stegner, Emma",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Buckner, Logan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Dysart, Daisy",Basic
+"Dysart, Lilly",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Harder, Cameron",Basic
+"Heitz, Sam",Basic
+"Jung, Ruaridh",Basic
+"Majors, Keiken",Basic
+"McPhee, Beth",Basic
+"McPhee, Mazie",Basic
+"McPhee, Matt",Basic
+"Montanez, Alahnna",Basic
+"Pacheco, Willie",Basic
+"Starritt, Mason",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Bromfield, Donovan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Maliepaard, Ezra",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Stegner, Emma",Basic
+"Alzaidi, Robert",Basic
+"Dillingham, Madeline",Basic
+"Fugelseth, Logan",Basic
+"Harder, Cameron",Basic
+"Jung, Ruaridh",Basic
+"Olson, Madison",Basic
+"Perea, Connor",Basic
+"Ronchetti, Callie",Basic
+"Snyder, Harley",Basic
+"Algiere, Serenity",Basic
+"Alzaidi, Robert",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Buckner, Logan",Basic
+"Crooks, Addison",Basic
+"Dysart, Lilly",Basic
+"Dysart, Daisy",Basic
+"Ginther, Eian",Basic
+"Heitz, Sam",Basic
+"Henrikson, Chase",Basic
+"Jung, Ruaridh",Basic
+"McPhee, Mazie",Basic
+"McPhee, Beth",Basic
+"Olson, Madison",Basic
+"Pacheco, Willie",Basic
+"Ross, Rylee",Basic
+"Ross, Brock",Basic
+"Snyder, Harley",Basic
+"Stegner, Emma",Basic
+"Algiere, Serenity",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Bromfield, Donovan",Basic
+"Colaizzi, Sabrina",Basic
+"Dysart, Daisy",Basic
+"Dysart, Lilly",Basic
+"Estrada, Cash",Basic
+"Ferguson, Dalton",Basic
+"Ferguson, Hudson",Basic
+"Fugelseth, Logan",Basic
+"Harder, Cameron",Basic
+"Jensen, Jack",Basic
+"Majors, Keiken",Basic
+"Montanez, Alahnna",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Lilikoi",Basic
+"Olson, Madison",Basic
+"Perea, Connor",Basic
+"Ronchetti, Callie",Basic
+"Ross, Brock",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Snyder, Harley",Basic
+"Starritt, Mason",Basic
+"Stegner, Emma",Basic
+"Alzaidi, Robert",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Buckner, Logan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Dysart, Lilly",Basic
+"Dysart, Daisy",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Grant, Liam",Basic
+"Grant, Rafe",Basic
+"Harder, Cameron",Basic
+"Heitz, Sam",Basic
+"Henrikson, Chase",Basic
+"Jung, Ruaridh",Basic
+"McPhee, Mazie",Basic
+"McPhee, Beth",Basic
+"Pacheco, Willie",Basic
+"Perea, Connor",Basic
+"Saul, Jameson",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Jung, Ruaridh",Basic
+"Alzaidi, Robert",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Buckner, Logan",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Green, Jace",Basic
+"McPhee, Beth",Basic
+"McPhee, Mazie",Basic
+"McPhee, Matt",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Lilikoi",Basic
+"Pacheco, Willie",Basic
+"Saul, Jameson",Basic
+"Scott, Jordan",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Bromfield, Donovan",Basic
+"Dillingham, Madeline",Basic
+"Jensen, Jack",Basic
+"Majors, Keiken",Basic
+"Nisogi, Lilikoi",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Perea, Connor",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Starritt, Mason",Basic
+"Stodghill, Brooklyn",Basic
+"Alzaidi, Robert",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Crooks, Addison",Basic
+"Ferguson, Hudson",Basic
+"Ginther, Eian",Basic
+"Henrikson, Chase",Basic
+"Jung, Ruaridh",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"McPhee, Beth",Basic
+"Montanez, Alahnna",Basic
+"Pacheco, Willie",Basic
+"Perea, Connor",Basic
+"Rakowski, Charlie",Basic
+"Scott, Jordan",Basic
+"Starritt, Mason",Basic
+"Stodghill, Brooklyn",Basic
+"Algiere, Serenity",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Bromfield, Donovan",Basic
+"Colaizzi, Sabrina",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Ferguson, Dalton",Basic
+"Montanez, Alahnna",Basic
+"Ronchetti, Callie",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Saul, Jameson",Basic
+"Alzaidi, Robert",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Buckner, Logan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Dysart, Daisy",Basic
+"Dysart, Lilly",Basic
+"Fugelseth, Logan",Basic
+"Ginther, Eian",Basic
+"Jung, Ruaridh",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"McPhee, Beth",Basic
+"Montanez, Alahnna",Basic
+"Pacheco, Willie",Basic
+"Perea, Connor",Basic
+"Scott, Jordan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Estrada, Cash",Basic
+"Ferguson, Hudson",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Brito, Hunter",Basic
+"Brito, Kimberly",Basic
+"Bromfield, Donovan",Basic
+"Ferguson, Hudson",Basic
+"Gottfried, Sophia",Basic
+"Gottfried, Emma",Basic
+"Harder, Cameron",Basic
+"Henrikson, Chase",Basic
+"Majors, Keiken",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
+"McPhee, Beth",Basic
+"Nisogi, Ryan",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Lilikoi",Basic
+"Ronchetti, Callie",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Stegner, Emma",Basic
+"Alvarado, Angelica",Basic
+"Alzaidi, Robert",Basic
+"Bromfield, Donovan",Basic
+"Dysart, Lilly",Basic
+"Dysart, Daisy",Basic
+"Estrada, Cash",Basic
+"Green, Jace",Basic
+"Harder, Cameron",Basic
+"Hinrichsen, Sonny",Basic
+"Jensen, Jack",Basic
+"Nisogi, Lilikoi",Basic
+"Nisogi, Maile",Basic
+"Nisogi, Ryan",Basic
+"Roth, Donathan",Basic
+"Roth, Jack",Basic
+"Saul, Jameson",Basic
+"Starritt, Mason",Basic
+"Stegner, Emma",Basic
 "Archuleta, Alyssa",Basic
 "Archuleta, Jennifer",Basic
 "Archuleta, Jonathan",Basic
-"Baer, Rebecca",Basic
-"Clannin, Elise",Basic
-"Colaizzi, Sabrina",Basic
-"Colobong, Xylah",Basic
-"Dysart, Daisy",Basic
+"Brito, Kimberly",Basic
+"Brito, Hunter",Basic
+"Buckner, Logan",Basic
+"Crooks, Addison",Basic
+"Dillingham, Madeline",Basic
+"Fugelseth, Logan",Basic
 "Gierke, Del",Basic
 "Gierke, Jason",Basic
 "Gierke, Julian",Basic
 "Ginther, Eian",Basic
+"Heitz, Sam",Basic
 "Hopper, Cael",Basic
-"James, Justice",Basic
-"James, Paul",Basic
-"Jensen, Caitlyn",Basic
-"Jensen, Jack",Basic
-"LaValley, Meya",Basic
-"Rakowski, Charlie",Basic
-"Ronchetti, Callie",Basic
-"Roth, Donathan",Basic
-"Sundberg, Michayla",Basic
-"Trujillo, Bobby",Basic
-"Turney, Aiden",Basic
-"Alvarado, Angelica",Basic
-"Baer, Rebecca",Basic
-"Colaizzi, Sabrina",Basic
-"Colobong, Xylah",Basic
-"Fabrizio, Giana",Basic
-"James, Paul",Basic
-"James, Justice",Basic
-"Jensen, Caitlyn",Basic
-"Jensen, Jack",Basic
-"LaValley, Meya",Basic
-"Maliepaard, Ezra",Basic
-"Perkins, Nick",Basic
-"Powis, Alex",Basic
-"Roth, Donathan",Basic
-"Spence, Hayley",Basic
-"Stegner, Emma",Basic
-"Towery, Toby",Basic
-"Trujillo, Bobby",Basic
-"Buckner, Logan",Basic
-"Cave, Alexa",Basic
-"Clannin, Dani",Basic
-"Clannin, Elise",Basic
-"Davis, Bailey",Basic
-"Davis, Stacey",Basic
-"Davros, Quinn",Basic
-"Duke, Brealynn",Basic
-"Dysart, Daisy",Basic
-"Dysart, Lilly",Basic
-"Farish, Emma",Basic
-"Farish, Mackenzie",Basic
-"Farish, Scott",Basic
-"Grant, Rafe",Basic
-"Grant, Liam",Basic
-"Green, Jace",Basic
-"Hill, Ashton",Basic
-"Hill, Fiona",Basic
-"Jung, Ruaridh",Basic
-"Lewis, Laila",Basic
-"Malish, Jayden",Basic
-"Niosi, Cassidy",Basic
+"Majors, Keiken",Basic
+"McPhee, Matt",Basic
+"McPhee, Mazie",Basic
 "Pacheco, Willie",Basic
-"Perea, Connor",Basic
 "Ronchetti, Callie",Basic
-"Shylkofski, Owen",Basic
-"Skidmore, Ashlynn",Basic
-"Starritt, Mason",Basic
-"Sundberg, Michayla",Basic
-"Turney, Aiden",Basic
-"Alvarado, Angelica",Basic
-"LaValley, Meya",Basic
-"Lewis, Laila",Basic
-"Maliepaard, Ezra",Basic
-"Perea, Connor",Basic
-"Roth, Donathan",Basic
-"Schreiber, Jacie",Basic
-"Turney, Aiden",Basic
-"Buckner, Logan",Basic
-"Clannin, Dani",Basic
-"Colobong, Xylah",Basic
-"Davis, Bailey",Basic
-"Davis, Stacey",Basic
-"Duke, Brealynn",Basic
-"Farish, Mackenzie",Basic
-"Farish, Scott",Basic
-"Farish, Emma",Basic
-"Gilge, Reece",Basic
-"Hill, Ashton",Basic
-"James, Justice",Basic
-"Jensen, Caitlyn",Basic
-"Jung, Ruaridh",Basic
-"LaValley, Meya",Basic
-"Malish, Jayden",Basic
-"Moreno, Nicholas",Basic
-"Niosi, Cassidy",Basic
-"Pacheco, Willie",Basic
-"Perea, Connor",Basic
-"Skidmore, Ashlynn",Basic
-"Stegner, Emma",Basic
-"Clannin, Elise",Basic
-"Cooper, Nate",Basic
-"Cooper, Sarah",Basic
-"Cooper, Tim",Basic
-"Dysart, Daisy",Basic
-"Dysart, Lilly",Basic
-"Green, Jace",Basic
-"Jensen, Caitlyn",Basic
-"Maliepaard, Ezra",Basic
-"Malish, Jayden",Basic
-"Powis, Alex",Basic
-"Ronchetti, Callie",Basic
-"Roth, Donathan",Basic
-"Starritt, Mason",Basic
-"Sundberg, Michayla",Basic
-"Towery, Toby",Basic
-"Buckner, Logan",Basic
-"Cave, Alexa",Basic
-"Colaizzi, Sabrina",Basic
-"Colobong, Xylah",Basic
-"Dysart, Lilly",Basic
-"Dysart, Daisy",Basic
-"Dysart, Daisy",Basic
-"Farish, Emma",Basic
-"Farish, Mackenzie",Basic
-"Farish, Scott",Basic
-"Grant, Liam",Basic
-"Grant, Rafe",Basic
-"Hill, Fiona",Basic
-"Hill, Ashton",Basic
-"Jensen, Caitlyn",Basic
-"Jensen, Jack",Basic
-"Jung, Ruaridh",Basic
-"Lewis, Laila",Basic
-"Moreno, Nicholas",Basic
-"Niosi, Cassidy",Basic
-"Pacheco, Willie",Basic
-"Perea, Connor",Basic
-"Perkins, Nick",Basic
-"Powis, Alex",Basic
-"Shylkofski, Owen",Basic
-"Skidmore, Ashlynn",Basic
-"Trujillo, Bobby",Basic
-"Turney, Aiden",Basic
-"Alvarado, Angelica",Basic
-"Cave, Alexa",Basic
-"Clannin, Dani",Basic
-"Clannin, Elise",Basic
-"Colaizzi, Sabrina",Basic
-"Cooper, Tim",Basic
-"Cooper, Sarah",Basic
-"Cooper, Nate",Basic
-"Davis, Bailey",Basic
-"Davis, Stacey",Basic
-"Davros, Quinn",Basic
-"Duke, Brealynn",Basic
-"Dysart, Daisy",Basic
-"Dysart, Lilly",Basic
-"Green, Jace",Basic
-"Jensen, Caitlyn",Basic
-"Malish, Jayden",Basic
-"Perea, Connor",Basic
-"Ronchetti, Callie",Basic
-"Roth, Donathan",Basic
-"Stegner, Emma",Basic
-"Sundberg, Michayla",Basic
-"Trujillo, Bobby",Basic
-"Buckner, Logan",Basic
-"Cave, Alexa",Basic
-"Clannin, Dani",Basic
-"Clannin, Elise",Basic
-"Colobong, Xylah",Basic
-"Davros, Quinn",Basic
-"Dysart, Lilly",Basic
-"Dysart, Daisy",Basic
-"Fabrizio, Giana",Basic
-"Grant, Rafe",Basic
-"Grant, Liam",Basic
-"Green, Jace",Basic
-"Hill, Fiona",Basic
-"Hill, Ashton",Basic
-"James, Justice",Basic
-"James, Paul",Basic
-"Jung, Ruaridh",Basic
-"Lewis, Laila",Basic
-"Malish, Jayden",Basic
-"Moreno, Nicholas",Basic
-"Niosi, Cassidy",Basic
-"Pacheco, Willie",Basic
-"Perea, Connor",Basic
-"Perkins, Nick",Basic
-"Schreiber, Jacie",Basic
-"Shylkofski, Owen",Basic
-"Skidmore, Ashlynn",Basic
-"Starritt, Mason",Basic
-"Stegner, Emma",Basic
-"Towery, Toby",Basic
-"Byers, Jackson",Black Belt/2nd Degree
-"Byers, Dave",Black Belt/2nd Degree
-"Hendrickson, Mason",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"De Spirlet, Andre",Black Belt/2nd Degree
+"Grant, Lexi",Black Belt/2nd Degree
 "Hendrickson, Alex",Black Belt/2nd Degree
+"Hendrickson, Mason",Black Belt/2nd Degree
 "Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
+"Mansanares, Nick",Black Belt/2nd Degree
 "Masche, Will",Black Belt/2nd Degree
-"Minnihan, Andrew",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree
+"Anderson, Makiah",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Harmon, James",Black Belt/2nd Degree
+"Harmon, Sierra",Black Belt/2nd Degree
+"Mestas, Jessica",Black Belt/2nd Degree
+"Nagel, Kurt",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Silverthorn, Makenzie",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Dobnak, Riane",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
+"Manuello, Garrett",Black Belt/2nd Degree
+"Ortega, Justice",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Schmitz, Tanner",Black Belt/2nd Degree
+"Silverthorn, Makenzie",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Spence, Ashlyn",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Wachter, Olivia",Black Belt/2nd Degree
+"Anderson, Makiah",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Lynch, Daniel",Black Belt/2nd Degree
+"Masche, Will",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Masche, Will",Black Belt/2nd Degree
 "Musich, Kylie",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree
+"Anderson, Makiah",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Grant, Lexi",Black Belt/2nd Degree
+"Harmon, James",Black Belt/2nd Degree
+"Harmon, Sierra",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Lynch, Daniel",Black Belt/2nd Degree
+"Masche, Will",Black Belt/2nd Degree
+"Nagel, Kurt",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Pas-Flythe, Bethany",Black Belt/2nd Degree
 "Pidek, Aaron",Black Belt/2nd Degree
 "Pidek, Hayley",Black Belt/2nd Degree
 "Pidek, Seanna",Black Belt/2nd Degree
-"Pinkerton, Kyle",Black Belt/2nd Degree
-"Pratt, Emma",Black Belt/2nd Degree
-"Schmitz, Tanner",Black Belt/2nd Degree
-"Skanderbeg, Tiana",Black Belt/2nd Degree
-"Steyn, Heather",Black Belt/2nd Degree
-"Anderson, Makiah",Black Belt/2nd Degree
-"Anderson, Max",Black Belt/2nd Degree
-"Augat, Brian",Black Belt/2nd Degree
-"Augat, Jake",Black Belt/2nd Degree
-"Bowman, Madison",Black Belt/2nd Degree
-"De Spirlet, Andre",Black Belt/2nd Degree
-"Grant, Lexi",Black Belt/2nd Degree
-"Harker, Carson",Black Belt/2nd Degree
-"Hoffman, Robert",Black Belt/2nd Degree
-"Mestas, Jessica",Black Belt/2nd Degree
-"Nagel, Kurt",Black Belt/2nd Degree
-"Parker, William",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
-"Teff, Tanner",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
 "Cooper, Lucas",Black Belt/2nd Degree
 "De Spirlet, Andre",Black Belt/2nd Degree
-"Harmon, James",Black Belt/2nd Degree
-"Harmon, Sierra",Black Belt/2nd Degree
-"Hawley, Lauren",Black Belt/2nd Degree
 "Hoffman, Robert",Black Belt/2nd Degree
-"Hoffmann, Dave",Black Belt/2nd Degree
 "Honeycutt, Kalli",Black Belt/2nd Degree
 "Jantz, Evan",Black Belt/2nd Degree
 "Mansanares, Nick",Black Belt/2nd Degree
 "Mansanares, Benjamin",Black Belt/2nd Degree
 "Masche, Will",Black Belt/2nd Degree
+"Musich, Kylie",Black Belt/2nd Degree
+"Pidek, Hayley",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
 "Pratt, Emma",Black Belt/2nd Degree
-"Young, Kaylee",Black Belt/2nd Degree
-"Zuver, Derek",Black Belt/2nd Degree
-"Augat, Brian",Black Belt/2nd Degree
 "Augat, Jake",Black Belt/2nd Degree
-"Byers, Jackson",Black Belt/2nd Degree
-"Byers, Dave",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Harmon, James",Black Belt/2nd Degree
+"Harmon, Sierra",Black Belt/2nd Degree
+"Lynch, Daniel",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"De Spirlet, Andre",Black Belt/2nd Degree
+"Grant, Lexi",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Harmon, James",Black Belt/2nd Degree
+"Harmon, Sierra",Black Belt/2nd Degree
+"Hendrickson, Alex",Black Belt/2nd Degree
+"Hendrickson, Mason",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Mansanares, Benjamin",Black Belt/2nd Degree
+"Mansanares, Nick",Black Belt/2nd Degree
+"Masche, Will",Black Belt/2nd Degree
+"Mestas, Jessica",Black Belt/2nd Degree
+"Musich, Kylie",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Mestas, Jessica",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Rosene, Robert",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Schmitz, Tanner",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"Cooper, Lucas",Black Belt/2nd Degree
+"Hendrickson, Mason",Black Belt/2nd Degree
+"Hendrickson, Alex",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Honeycutt, Kalli",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Masche, Will",Black Belt/2nd Degree
+"Musich, Kylie",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Pas-Flythe, Bethany",Black Belt/2nd Degree
+"Pidek, Hayley",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
+"Pidek, Seanna",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree
+"Anderson, Makiah",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Hawley, Lauren",Black Belt/2nd Degree
 "Lynch, Daniel",Black Belt/2nd Degree
 "Masche, Will",Black Belt/2nd Degree
 "Mestas, Jessica",Black Belt/2nd Degree
 "Nagel, Kurt",Black Belt/2nd Degree
-"Parker, William",Black Belt/2nd Degree
-"Pidek, Aaron",Black Belt/2nd Degree
 "Pidek, Seanna",Black Belt/2nd Degree
-"Pidek, Hayley",Black Belt/2nd Degree
-"Pinsky, Eli",Black Belt/2nd Degree
-"Rosene, Robert",Black Belt/2nd Degree
+"Pidek, Aaron",Black Belt/2nd Degree
 "Rosene, Seth",Black Belt/2nd Degree
-"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Schmitz, Tanner",Black Belt/2nd Degree
+"Silverthorn, Makenzie",Black Belt/2nd Degree
 "Steyn, Heather",Black Belt/2nd Degree
 "Teff, Tanner",Black Belt/2nd Degree
+"Bowman, Madison",Black Belt/2nd Degree
+"Braun, Gil",Black Belt/2nd Degree
+"De Spirlet, Andre",Black Belt/2nd Degree
+"Harker, Carson",Black Belt/2nd Degree
+"Hendrickson, Alex",Black Belt/2nd Degree
+"Hendrickson, Mason",Black Belt/2nd Degree
+"Hoffman, Robert",Black Belt/2nd Degree
+"Hoffmann, Dave",Black Belt/2nd Degree
+"Jantz, Evan",Black Belt/2nd Degree
+"Minnihan, Andrew",Black Belt/2nd Degree
+"Musich, Kylie",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Pas-Flythe, Bethany",Black Belt/2nd Degree
+"Pinkerton, Kyle",Black Belt/2nd Degree
+"Pinsky, Eli",Black Belt/2nd Degree
+"Pratt, Emma",Black Belt/2nd Degree
+"Silverthorn, Makenzie",Black Belt/2nd Degree
+"Skanderbeg, Tiana",Black Belt/2nd Degree
+"Young, Kaylee",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree
+"Anderson, Makiah",Black Belt/2nd Degree
+"Augat, Jake",Black Belt/2nd Degree
+"Hawley, Lauren",Black Belt/2nd Degree
+"Lynch, Daniel",Black Belt/2nd Degree
+"Mestas, Jessica",Black Belt/2nd Degree
+"Nagel, Kurt",Black Belt/2nd Degree
+"Panning, Jennifer",Black Belt/2nd Degree
+"Parker, William",Black Belt/2nd Degree
+"Rosene, Kimberly",Black Belt/2nd Degree
+"Rosene, Seth",Black Belt/2nd Degree
+"Schmitz, Tanner",Black Belt/2nd Degree
+"Steyn, Heather",Black Belt/2nd Degree
+"Teff, Tanner",Black Belt/2nd Degree
+"Zuver, Derek",Black Belt/2nd Degree
+"Anderson, Max",Black Belt/2nd Degree Sparring
+"Anderson, Makiah",Black Belt/2nd Degree Sparring
+"Augat, Jake",Black Belt/2nd Degree Sparring
+"Bowman, Madison",Black Belt/2nd Degree Sparring
+"Grant, Lexi",Black Belt/2nd Degree Sparring
 "Hoffman, Robert",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
+"Jantz, Evan",Black Belt/2nd Degree Sparring
+"Lynch, Daniel",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Panning, Jennifer",Black Belt/2nd Degree Sparring
+"Parker, William",Black Belt/2nd Degree Sparring
+"Pas-Flythe, Bethany",Black Belt/2nd Degree Sparring
+"Pidek, Hayley",Black Belt/2nd Degree Sparring
+"Pidek, Seanna",Black Belt/2nd Degree Sparring
+"Pinsky, Eli",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Rosene, Robert",Black Belt/2nd Degree Sparring
+"Rosene, Kimberly",Black Belt/2nd Degree Sparring
+"Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
+"Teff, Tanner",Black Belt/2nd Degree Sparring
+"Augat, Jake",Black Belt/2nd Degree Sparring
+"Bowman, Madison",Black Belt/2nd Degree Sparring
+"Cooper, Lucas",Black Belt/2nd Degree Sparring
+"Hendrickson, Alex",Black Belt/2nd Degree Sparring
+"Hendrickson, Mason",Black Belt/2nd Degree Sparring
+"Hoffman, Robert",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
+"Lynch, Daniel",Black Belt/2nd Degree Sparring
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Mestas, Jessica",Black Belt/2nd Degree Sparring
+"Parker, William",Black Belt/2nd Degree Sparring
+"Pinkerton, Kyle",Black Belt/2nd Degree Sparring
+"Pinsky, Eli",Black Belt/2nd Degree Sparring
+"Rosene, Kimberly",Black Belt/2nd Degree Sparring
+"Rosene, Robert",Black Belt/2nd Degree Sparring
+"Rosene, Seth",Black Belt/2nd Degree Sparring
+"Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
+"Teff, Tanner",Black Belt/2nd Degree Sparring
+"Augat, Jake",Black Belt/2nd Degree Sparring
+"Bowman, Madison",Black Belt/2nd Degree Sparring
+"Cooper, Lucas",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
+"Jantz, Evan",Black Belt/2nd Degree Sparring
+"Lynch, Daniel",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Mestas, Jessica",Black Belt/2nd Degree Sparring
+"Parker, William",Black Belt/2nd Degree Sparring
+"Pinkerton, Kyle",Black Belt/2nd Degree Sparring
+"Pinsky, Eli",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Rosene, Robert",Black Belt/2nd Degree Sparring
+"Rosene, Kimberly",Black Belt/2nd Degree Sparring
+"Rosene, Seth",Black Belt/2nd Degree Sparring
+"Teff, Tanner",Black Belt/2nd Degree Sparring
+"Braun, Gil",Black Belt/2nd Degree Sparring
+"Cooper, Lucas",Black Belt/2nd Degree Sparring
+"Grant, Lexi",Black Belt/2nd Degree Sparring
+"Harker, Carson",Black Belt/2nd Degree Sparring
+"Hoffman, Robert",Black Belt/2nd Degree Sparring
+"Jantz, Evan",Black Belt/2nd Degree Sparring
+"Lynch, Daniel",Black Belt/2nd Degree Sparring
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
+"Mansanares, Nick",Black Belt/2nd Degree Sparring
+"Panning, Jennifer",Black Belt/2nd Degree Sparring
+"Pinkerton, Kyle",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Rosene, Kimberly",Black Belt/2nd Degree Sparring
+"Rosene, Robert",Black Belt/2nd Degree Sparring
+"Rosene, Seth",Black Belt/2nd Degree Sparring
+"Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
+"Grant, Lexi",Black Belt/2nd Degree Sparring
+"Harmon, James",Black Belt/2nd Degree Sparring
+"Harmon, Sierra",Black Belt/2nd Degree Sparring
+"Hendrickson, Mason",Black Belt/2nd Degree Sparring
+"Hoffman, Robert",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
+"Mansanares, Nick",Black Belt/2nd Degree Sparring
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Pidek, Aaron",Black Belt/2nd Degree Sparring
+"Pinsky, Eli",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Rosene, Robert",Black Belt/2nd Degree Sparring
+"Rosene, Kimberly",Black Belt/2nd Degree Sparring
+"Rosene, Seth",Black Belt/2nd Degree Sparring
+"Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
+"Anderson, Makiah",Black Belt/2nd Degree Sparring
+"Anderson, Max",Black Belt/2nd Degree Sparring
+"Lynch, Daniel",Black Belt/2nd Degree Sparring
+"Pas-Flythe, Bethany",Black Belt/2nd Degree Sparring
+"Pidek, Aaron",Black Belt/2nd Degree Sparring
+"Schmitz, Tanner",Black Belt/2nd Degree Sparring
+"Steyn, Heather",Black Belt/2nd Degree Sparring
+"Zuver, Derek",Black Belt/2nd Degree Sparring
+"Augat, Jake",Black Belt/2nd Degree Sparring
+"Bowman, Madison",Black Belt/2nd Degree Sparring
+"Cooper, Lucas",Black Belt/2nd Degree Sparring
+"Hendrickson, Mason",Black Belt/2nd Degree Sparring
+"Hendrickson, Alex",Black Belt/2nd Degree Sparring
 "Hoffmann, Dave",Black Belt/2nd Degree Sparring
 "Lynch, Daniel",Black Belt/2nd Degree Sparring
 "Masche, Will",Black Belt/2nd Degree Sparring
-"Pidek, Hayley",Black Belt/2nd Degree Sparring
 "Pidek, Aaron",Black Belt/2nd Degree Sparring
+"Pinkerton, Kyle",Black Belt/2nd Degree Sparring
 "Pratt, Emma",Black Belt/2nd Degree Sparring
 "Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
-"Cooper, Lucas",Black Belt/2nd Degree Sparring
-"Flythe, Kaylee",Black Belt/2nd Degree Sparring
+"Hawley, Lauren",Black Belt/2nd Degree Sparring
 "Hoffman, Robert",Black Belt/2nd Degree Sparring
 "Hoffmann, Dave",Black Belt/2nd Degree Sparring
-"Honeycutt, Kalli",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Bowman, Madison",Black Belt/2nd Degree Sparring
+"Hoffmann, Dave",Black Belt/2nd Degree Sparring
 "Lynch, Daniel",Black Belt/2nd Degree Sparring
-"Mestas, Jessica",Black Belt/2nd Degree Sparring
-"Pidek, Aaron",Black Belt/2nd Degree Sparring
-"Pinsky, Eli",Black Belt/2nd Degree Sparring
-"Young, Kaylee",Black Belt/2nd Degree Sparring
-"Bowman, Madison",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
+"Mansanares, Benjamin",Black Belt/2nd Degree Sparring
+"Mansanares, Nick",Black Belt/2nd Degree Sparring
+"Masche, Will",Black Belt/2nd Degree Sparring
+"Pratt, Emma",Black Belt/2nd Degree Sparring
+"Skanderbeg, Tiana",Black Belt/2nd Degree Sparring
 "Hendrickson, Mason",SWAT
-"Hendrickson, Alex",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Minnihan, Andrew",SWAT
+"Hendrickson, Mason",SWAT
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
@@ -301,104 +840,183 @@
 "Pidek, Aaron",SWAT
 "Pidek, Aaron",SWAT
 "Pidek, Aaron",SWAT
-"Pidek, Hayley",SWAT
-"Pidek, Hayley",SWAT
-"Pidek, Hayley",SWAT
-"Pidek, Hayley",SWAT
 "Pidek, Seanna",SWAT
-"Silverthorn, Makenzie",SWAT
 "Anderson, Max",SWAT
 "Anderson, Makiah",SWAT
 "Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Pidek, Seanna",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Anderson, Makiah",SWAT
+"Anderson, Max",SWAT
+"Bowman, Madison",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Silverthorn, Makenzie",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Pidek, Aaron",SWAT
+"Jantz, Evan",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Kimberly",SWAT
+"Steyn, Heather",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Honeycutt, Kalli",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Silverthorn, Makenzie",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Jantz, Evan",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Cooper, Lucas",SWAT
+"Honeycutt, Kalli",SWAT
+"Augat, Jake",SWAT
+"Cooper, Lucas",SWAT
+"Jantz, Evan",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Robert",SWAT
+"Anderson, Max",SWAT
+"Anderson, Makiah",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Seanna",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Anderson, Makiah",SWAT
+"Anderson, Max",SWAT
+"Harmon, James",SWAT
+"Harmon, Sierra",SWAT
+"Honeycutt, Kalli",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Skanderbeg, Tiana",SWAT
 "Skanderbeg, Tiana",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
-"Bowman, Madison",SWAT
-"Bowman, Madison",SWAT
-"Bowman, Madison",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
-"Pratt, Emma",SWAT
-"Pratt, Emma",SWAT
-"Rosene, Kimberly",SWAT
-"Rosene, Kendra",SWAT
-"Rosene, Seth",SWAT
-"Rosene, Seth",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Robert",SWAT
-"Scott, Christy",SWAT
-"Scott, Christy",SWAT
-"Scott, Christy",SWAT
-"Silverthorn, Makenzie",SWAT
-"Silverthorn, Makenzie",SWAT
-"Young, Kaylee",SWAT
-"Young, Kaylee",SWAT
-"Young, Kaylee",SWAT
-"Anderson, Max",SWAT
-"Anderson, Makiah",SWAT
-"Bowman, Madison",SWAT
-"Hendrickson, Mason",SWAT
-"Hendrickson, Mason",SWAT
-"Hendrickson, Alex",SWAT
-"Hendrickson, Alex",SWAT
-"Jersey, Johnathan",SWAT
-"Jersey, Johnathan",SWAT
-"Jersey, Johnathan",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Nagel, Kurt",SWAT
-"Nagel, Kurt",SWAT
-"Nagel, Kurt",SWAT
-"Nagel, Kurt",SWAT
-"Parker, William",SWAT
-"Parker, William",SWAT
-"Parker, William",SWAT
-"Parker, William",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Seth",SWAT
-"Rosene, Seth",SWAT
-"Schmitz, Tanner",SWAT
-"Teff, Tanner",SWAT
-"Teff, Tanner",SWAT
-"Teff, Tanner",SWAT
-"Teff, Tanner",SWAT
-"Anderson, Max",SWAT
-"Minnihan, Andrew",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Mestas, Jessica",SWAT
-"Parker, William",SWAT
-"Parker, William",SWAT
-"Parker, William",SWAT
-"Rosene, Seth",SWAT
-"Rosene, Seth",SWAT
-"Rosene, Kimberly",SWAT
-"Rosene, Kimberly",SWAT
+"Braun, Gil",SWAT
+"Braun, Kathi",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Jantz, Evan",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
-"Cooper, Lucas",SWAT
-"Cooper, Lucas",SWAT
-"Cooper, Lucas",SWAT
-"Cooper, Lucas",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
-"Flythe, Kaylee",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Hoffmann, Dave",SWAT
-"Minnihan, Andrew",SWAT
+"Musich, Kylie",SWAT
 "Musich, Kylie",SWAT
 "Pas-Flythe, Bethany",SWAT
 "Pas-Flythe, Bethany",SWAT
@@ -406,52 +1024,519 @@
 "Pas-Flythe, Bethany",SWAT
 "Pidek, Seanna",SWAT
 "Pidek, Seanna",SWAT
-"Rosene, Kendra",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Hayley",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Honeycutt, Kalli",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Pinsky, Eli",SWAT
+"Pinsky, Eli",SWAT
+"Pinsky, Eli",SWAT
+"Pinsky, Eli",SWAT
+"Pinsky, Eli",SWAT
+"Pinsky, Eli",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Kimberly",SWAT
 "Rosene, Kimberly",SWAT
 "Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Zuver, Hunter",SWAT
+"Zuver, Hunter",SWAT
+"Zuver, Hunter",SWAT
+"Zuver, Hunter",SWAT
+"Zuver, Hunter",SWAT
+"Zuver, Hunter",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Hendrickson, Alex",SWAT
+"Hendrickson, Alex",SWAT
+"Hendrickson, Mason",SWAT
+"Hendrickson, Mason",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Robert",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Kimberly",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Wachter, Olivia",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Steyn, Heather",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Honeycutt, Kalli",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Schmitz, Tanner",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Hoffman, Robert",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Aaron",SWAT
+"Steyn, Heather",SWAT
+"Anderson, Max",SWAT
+"Anderson, Max",SWAT
+"Anderson, Makiah",SWAT
+"Anderson, Makiah",SWAT
+"Lynch, Daniel",SWAT
+"Lynch, Daniel",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Schmitz, Tanner",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Zuver, Derek",SWAT
+"Zuver, Derek",SWAT
+"Anderson, Max",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Steyn, Heather",SWAT
+"Arjona, Genoveva",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Augat, Jake",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Cooper, Lucas",SWAT
+"Cooper, Lucas",SWAT
+"De Spirlet, Andre",SWAT
+"De Spirlet, Andre",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Jantz, Evan",SWAT
+"Minnihan, Andrew",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Ramos Arjona, Santiago",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Hendrickson, Mason",SWAT
+"Hendrickson, Mason",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Braun, Kathi",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Hendrickson, Mason",SWAT
+"Hendrickson, Alex",SWAT
+"Hendrickson, Alex",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Minnihan, Andrew",SWAT
+"Musich, Kylie",SWAT
+"Musich, Kylie",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Aaron",SWAT
+"Pidek, Seanna",SWAT
+"Anderson, Max",SWAT
 "Anderson, Makiah",SWAT
 "Harker, Carson",SWAT
 "Harker, Carson",SWAT
 "Harker, Carson",SWAT
 "Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
-"Cooper, Lucas",SWAT
-"Cooper, Lucas",SWAT
-"Cooper, Lucas",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Nick",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
-"Mansanares, Benjamin",SWAT
+"Hendrickson, Alex",SWAT
+"Hendrickson, Alex",SWAT
+"Hendrickson, Mason",SWAT
+"Hendrickson, Mason",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Musich, Kylie",SWAT
+"Musich, Kylie",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Seanna",SWAT
+"Pidek, Seanna",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
 "Pratt, Emma",SWAT
-"Schmitz, Tanner",SWAT
-"Young, Kaylee",SWAT
-"Young, Kaylee",SWAT
-"Young, Kaylee",SWAT
-"Young, Kaylee",SWAT
-"Zuver, Derek",SWAT
-"Zuver, Derek",SWAT
-"Zuver, Derek",SWAT
-"Zuver, Derek",SWAT
 "Anderson, Makiah",SWAT
 "Anderson, Max",SWAT
-"Arjona, Genoveva",SWAT
-"Hendrickson, Alex",SWAT
-"Hendrickson, Alex",SWAT
+"Bowman, Madison",SWAT
+"Honeycutt, Kalli",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Schmitz, Tanner",SWAT
+"Silverthorn, Makenzie",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Panning, Jennifer",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
 "Hendrickson, Mason",SWAT
-"Hendrickson, Mason",SWAT
-"Jersey, Johnathan",SWAT
-"Jersey, Johnathan",SWAT
-"Jersey, Johnathan",SWAT
-"Jersey, Johnathan",SWAT
+"Hendrickson, Alex",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Minnihan, Andrew",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Silverthorn, Makenzie",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Braun, Gil",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Anderson, Max",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Silverthorn, Makenzie",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Young, Kaylee",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Honeycutt, Kalli",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Masche, Will",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
+"Mestas, Jessica",SWAT
 "Mestas, Jessica",SWAT
 "Mestas, Jessica",SWAT
 "Nagel, Kurt",SWAT
@@ -462,455 +1547,2276 @@
 "Parker, William",SWAT
 "Parker, William",SWAT
 "Parker, William",SWAT
-"Ramos Arjona, Santiago",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Robert",SWAT
-"Rosene, Kimberly",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pinkerton, Kyle",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
+"Rosene, Seth",SWAT
 "Rosene, Seth",SWAT
 "Rosene, Seth",SWAT
 "Rosene, Seth",SWAT
 "Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Silverthorn, Makenzie",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
+"Skanderbeg, Tiana",SWAT
 "Steyn, Heather",SWAT
 "Steyn, Heather",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Braun, Gil",SWAT
+"Braun, Kathi",SWAT
+"Bowman, Madison",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Grant, Lexi",SWAT
+"Grant, Lexi",SWAT
+"Hendrickson, Mason",SWAT
+"Lynch, Daniel",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pinkerton, Kyle",SWAT
+"Schmitz, Tanner",SWAT
+"Schmitz, Tanner",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Flythe, Kaylee",SWAT
+"Flythe, Kaylee",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Anderson, Max",SWAT
+"Anderson, Makiah",SWAT
+"Bowman, Madison",SWAT
+"Harker, Carson",SWAT
+"Harker, Carson",SWAT
+"Honeycutt, Kalli",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pas-Flythe, Bethany",SWAT
+"Pidek, Seanna",SWAT
+"Steyn, Heather",SWAT
+"Steyn, Heather",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Hoffmann, Dave",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Benjamin",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Mansanares, Nick",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Pratt, Emma",SWAT
+"Silverthorn, Makenzie",SWAT
+"Bowman, Madison",SWAT
+"Bowman, Madison",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Nagel, Kurt",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Parker, William",SWAT
+"Schmitz, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Teff, Tanner",SWAT
+"Dysart, Daisy",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Ferguson, Dalton",Exclusive 1
+"Jensen, Jack",Exclusive 1
+"Jung, Ruaridh",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
 "Algiere, Samuel",Exclusive 1
 "Algiere, Serenity",Exclusive 1
-"Eaton, Hunter",Exclusive 1
-"Kimball, Amy",Exclusive 1
+"Alvarado, Angelica",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Dysart, Daisy",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Farish, Scott",Exclusive 1
+"Farish, Emma",Exclusive 1
+"Farish, Mackenzie",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Roth, Donathan",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Algiere, Serenity",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Jensen, Jack",Exclusive 1
+"Mansanares, Christopher",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Spence, Hayley",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Dysart, Daisy",Exclusive 1
+"Ferguson, Dalton",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Skillman, Liam",Exclusive 1
 "Van Gelder, Peyton",Exclusive 1
+"Algiere, Samuel",Exclusive 1
+"Algiere, Serenity",Exclusive 1
+"Alvarado, Angelica",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Cooper, Nate",Exclusive 1
+"Cooper, Sarah",Exclusive 1
+"Farish, Scott",Exclusive 1
+"Farish, Mackenzie",Exclusive 1
+"Farish, Emma",Exclusive 1
+"Gill, Austin",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Jung, Ruaridh",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Roth, Donathan",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Cooper, Sarah",Exclusive 1
+"Cooper, Nate",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Ferguson, Dalton",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Spence, Hayley",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Cooper, Nate",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Dysart, Daisy",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Farish, Scott",Exclusive 1
+"Farish, Emma",Exclusive 1
+"Farish, Mackenzie",Exclusive 1
+"Ferguson, Dalton",Exclusive 1
+"Gill, Austin",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Jung, Ruaridh",Exclusive 1
+"Kimball, Amy",Exclusive 1
+"Mansanares, Christopher",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Van Gelder, Peyton",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Dysart, Daisy",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Jensen, Jack",Exclusive 1
+"Maliepaard, Ezra",Exclusive 1
+"Montanez, Alahnna",Exclusive 1
+"Spence, Hayley",Exclusive 1
+"Van Gelder, Peyton",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Dysart, Lilly",Exclusive 1
+"Dysart, Daisy",Exclusive 1
+"Farish, Mackenzie",Exclusive 1
+"Farish, Scott",Exclusive 1
+"Farish, Emma",Exclusive 1
+"Gill, Austin",Exclusive 1
+"Jung, Ruaridh",Exclusive 1
+"Mansanares, Christopher",Exclusive 1
+"Skillman, Liam",Exclusive 1
 "Algiere, Serenity",Exclusive 1
 "Bachicha, Dillon",Exclusive 1
-"Cooper, Everett",Exclusive 1
-"Panic, Stefan",Exclusive 1
-"Algiere, Serenity",Exclusive 1
-"Bachicha, Dillon",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Cooper, Nate",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Eaton, Hunter",Exclusive 1
 "Figueroa, Alyssa",Exclusive 1
 "Figueroa, Dylan",Exclusive 1
 "Gill, Austin",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
 "Kimball, Amy",Exclusive 1
-"McNaughton, Vivian",Exclusive 1
-"Smith, Mason",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Spence, Ashlyn",Exclusive 1
+"Spence, Hayley",Exclusive 1
+"Stebbins, Emma",Exclusive 1
+"Stebbins, Evelyn",Exclusive 1
 "Van Gelder, Peyton",Exclusive 1
+"Algiere, Serenity",Exclusive 1
+"Bachicha, Dillon",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Eaton, Hunter",Exclusive 1
+"Gill, Austin",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Van Gelder, Peyton",Exclusive 1
+"Bachicha, Dillon",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Cooper, Everett",Exclusive 1
+"Cooper, Nate",Exclusive 1
+"Eaton, Hunter",Exclusive 1
+"Figueroa, Alyssa",Exclusive 1
+"Figueroa, Dylan",Exclusive 1
+"Gill, Austin",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Kimball, Amy",Exclusive 1
+"Maldonado, Cabe",Exclusive 1
+"McNaughton, Vivian",Exclusive 1
+"Powis, Alex",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Spence, Ashlyn",Exclusive 1
+"Stebbins, Evelyn",Exclusive 1
+"Stebbins, Emma",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Eaton, Hunter",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Stebbins, Emma",Exclusive 1
+"Stebbins, Evelyn",Exclusive 1
+"Cave, Alexa",Exclusive 1
+"Clannin, Dani",Exclusive 1
+"Colaizzi, Sabrina",Exclusive 1
+"Duke, Brealynn",Exclusive 1
+"Figueroa, Alyssa",Exclusive 1
+"Figueroa, Dylan",Exclusive 1
+"Jensen, Caitlyn",Exclusive 1
+"Kimball, Amy",Exclusive 1
+"Maldonado, Cabe",Exclusive 1
+"Skillman, Liam",Exclusive 1
+"Spence, Ashlyn",Exclusive 1
+"Van Gelder, Peyton",Exclusive 1
+"Bachicha, Dillon",Exclusive 2/3
 "Binder, Hannah",Exclusive 2/3
 "Colaizzi, Domenic",Exclusive 2/3
+"Eaton, Hunter",Exclusive 2/3
 "Jocelyn, Chance",Exclusive 2/3
 "Kryscio, Christine",Exclusive 2/3
-"Lindahl, Hayden",Exclusive 2/3
-"Lubbe, Brandi",Exclusive 2/3
+"Maldonado, Cabe",Exclusive 2/3
+"Maldonado, Taelynn",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Berschling, Eli",Exclusive 2/3
+"Christensen, Jayden",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Cooper, Everett",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
 "Lynch, Brayden",Exclusive 2/3
-"Lynch, Daniel",Exclusive 2/3
+"Maldonado, Cabe",Exclusive 2/3
+"Maldonado, Taelynn",Exclusive 2/3
 "McMillin, Lilly",Exclusive 2/3
-"Pollock, Connor",Exclusive 2/3
+"McNaughton, Vivian",Exclusive 2/3
+"Smith, Mason",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Steidley, Jennifer",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Cooper, Everett",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"Lynch, Brayden",Exclusive 2/3
+"McMillin, Lilly",Exclusive 2/3
+"McNaughton, Vivian",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Steidley, Jennifer",Exclusive 2/3
+"Stozek, Fahlon",Exclusive 2/3
+"Bachicha, Dillon",Exclusive 2/3
+"Berschling, Eli",Exclusive 2/3
+"Binder, Hannah",Exclusive 2/3
+"Christensen, Jayden",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"McNaughton, Vivian",Exclusive 2/3
+"Smith, Mason",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
+"Steidley, Jennifer",Exclusive 2/3
+"Stozek, Fahlon",Exclusive 2/3
+"Berschling, Eli",Exclusive 2/3
+"Binder, Hannah",Exclusive 2/3
+"Christensen, Jayden",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Cooper, Everett",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"Lynch, Brayden",Exclusive 2/3
+"Maldonado, Cabe",Exclusive 2/3
+"Maldonado, Taelynn",Exclusive 2/3
 "Stebbins, Scott",Exclusive 2/3
 "Stebbins, Ian",Exclusive 2/3
 "Stebbins, Noah",Exclusive 2/3
 "Steidley, Jennifer",Exclusive 2/3
+"Stozek, Fahlon",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
+"Vigil, Moniece",Exclusive 2/3
+"Binder, Hannah",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Cooper, Lucas",Exclusive 2/3
+"Cooper, Everett",Exclusive 2/3
+"Dority, Brandi",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"Lynch, Brayden",Exclusive 2/3
+"Stebbins, Scott",Exclusive 2/3
+"Stebbins, Noah",Exclusive 2/3
+"Stebbins, Ian",Exclusive 2/3
+"Steidley, Jennifer",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
+"Vigil, Jaelynn",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
+"Vigil, Moniece",Exclusive 2/3
+"Berschling, Eli",Exclusive 2/3
+"Binder, Hannah",Exclusive 2/3
+"Colaizzi, Domenic",Exclusive 2/3
+"Jocelyn, Chance",Exclusive 2/3
+"Kryscio, Christine",Exclusive 2/3
+"Lynch, Brayden",Exclusive 2/3
+"Smith, Mason",Exclusive 2/3
+"Steidley, Jennifer",Exclusive 2/3
+"Stozek, Fahlon",Exclusive 2/3
+"Vigil, Jaelynn",Exclusive 2/3
+"Vigil, Analise",Exclusive 2/3
+"Vigil, Adaya",Exclusive 2/3
+"Vigil, Moniece",Exclusive 2/3
+"Beardsley, Ryder",Level 2 Exclusive
+"Brehm, Logan",Level 2 Exclusive
+"Fike, Logan",Level 2 Exclusive
+"Forar, Alexander",Level 2 Exclusive
+"Gomez, Cameron",Level 2 Exclusive
+"Graves, Jackson",Level 2 Exclusive
 "Lindahl, Hayden",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
+"Mclain, Evan",Level 2 Exclusive
+"Roth, Hannah",Level 2 Exclusive
+"Smith, Mason",Level 2 Exclusive
+"Starns, William",Level 2 Exclusive
+"Trammell, Macy",Level 2 Exclusive
+"Williams, Emery",Level 2 Exclusive
+"Eaton, Hunter",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
+"Stozek, Fahlon",Level 2 Exclusive
+"Christensen, Jayden",Level 2 Exclusive
 "Maldonado, Cabe",Level 2 Exclusive
 "Maldonado, Taelynn",Level 2 Exclusive
-"Rivera-Briones, Ariyon",Level 2 Exclusive
-"Arnold, Alazne",Lil' Dragons
-"Bybee, Nicholas",Lil' Dragons
-"Cotter, Aiden",Lil' Dragons
-"Davis, Liam",Lil' Dragons
+"Christensen, Jayden",Level 2 Exclusive
+"Maldonado, Taelynn",Level 2 Exclusive
+"Maldonado, Cabe",Level 2 Exclusive
+"Stebbins, Scott",Level 2 Exclusive
+"Stebbins, Ian",Level 2 Exclusive
+"Stebbins, Noah",Level 2 Exclusive
 "Duwadi, Jason",Lil' Dragons
-"El-Bayoumy, Karim",Lil' Dragons
-"El-Bayoumy, Sara",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Cotter, Aiden",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Ortega, Justice",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"SerVoss, Tori",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Cooper, Everett",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
 "Ellison, Juliana",Lil' Dragons
 "Feltes, Xander",Lil' Dragons
-"Fuller, Maxxim",Lil' Dragons
-"Gross, Greyson",Lil' Dragons
 "Jung, Lachlann",Lil' Dragons
 "Kimball, Kyla",Lil' Dragons
-"Mclain, Sydney",Lil' Dragons
-"Paradiso, Abel",Lil' Dragons
-"Roth, Jack",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tori",Lil' Dragons
 "SerVoss, Tyler",Lil' Dragons
-"Smith, Logan",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
 "Woolen, Crosby",Lil' Dragons
-"Davis, Jaelyn",Lil' Dragons
 "Duwadi, Jason",Lil' Dragons
-"El-Bayoumy, Karim",Lil' Dragons
-"El-Bayoumy, Sara",Lil' Dragons
-"Ellison, Juliana",Lil' Dragons
-"Fuller, Maxxim",Lil' Dragons
-"Gross, Greyson",Lil' Dragons
-"Hammons, Jaxon",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
 "Jung, Lachlann",Lil' Dragons
-"Mclain, Sydney",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
 "Paradiso, Abel",Lil' Dragons
-"Roth, Jack",Lil' Dragons
-"SerVoss, Tyler",Lil' Dragons
-"Arnold, Alazne",Lil' Dragons
-"Buckner, Connor",Lil' Dragons
-"Bybee, Nicholas",Lil' Dragons
-"Cotter, Aiden",Lil' Dragons
-"Cotter, Keira",Lil' Dragons
+"Smith, Marleigh",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
 "Duwadi, Jason",Lil' Dragons
-"El-Bayoumy, Sara",Lil' Dragons
-"El-Bayoumy, Karim",Lil' Dragons
 "Ellison, Juliana",Lil' Dragons
 "Feltes, Xander",Lil' Dragons
-"Fuller, Maxxim",Lil' Dragons
-"Gross, Greyson",Lil' Dragons
-"Hammons, Jaxon",Lil' Dragons
 "Jung, Lachlann",Lil' Dragons
 "Schardt, Graham",Lil' Dragons
 "SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Smith, Marleigh",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
 "Smith, Logan",Lil' Dragons
+"Smith, Marleigh",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Smith, Marleigh",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Buckner, Connor",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Mclain, Sydney",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Smith, Marleigh",Lil' Dragons
+"Smith, Logan",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Buckner, Connor",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Mclain, Sydney",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Buckner, Connor",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Gross, Greyson",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Kimball, Amy",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Mclain, Sydney",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Buckner, Connor",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
+"Gross, Greyson",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Woolen, Crosby",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Gross, Greyson",Lil' Dragons
+"Jung, Lachlann",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Schardt, Graham",Lil' Dragons
 "Sundberg, Mason",Lil' Dragons
-"Woolen, Crosby",Lil' Dragons
-"Arnold, Alazne",Lil' Dragons
-"Buckner, Connor",Lil' Dragons
-"Cotter, Keira",Lil' Dragons
-"Cotter, Aiden",Lil' Dragons
-"El-Bayoumy, Karim",Lil' Dragons
-"El-Bayoumy, Sara",Lil' Dragons
-"Fuller, Maxxim",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Feltes, Xander",Lil' Dragons
 "Gross, Greyson",Lil' Dragons
 "Jung, Lachlann",Lil' Dragons
-"Kimball, Kyla",Lil' Dragons
+"Lowell, Miles",Lil' Dragons
 "Mclain, Sydney",Lil' Dragons
 "Paradiso, Abel",Lil' Dragons
 "Schardt, Graham",Lil' Dragons
 "SerVoss, Tyler",Lil' Dragons
-"Woolen, Crosby",Lil' Dragons
-"Algiere, Serenity",Level 1
-"Algiere, Samuel",Level 1
+"Smith, Marleigh",Lil' Dragons
+"Smith, Logan",Lil' Dragons
+"Arnold, Alazne",Lil' Dragons
+"Buckner, Connor",Lil' Dragons
+"Bybee, Nicholas",Lil' Dragons
+"Duwadi, Jason",Lil' Dragons
+"Ellison, Juliana",Lil' Dragons
+"Kimball, Kyla",Lil' Dragons
+"Paradiso, Abel",Lil' Dragons
+"Roybal, Jace",Lil' Dragons
+"SerVoss, Tyler",Lil' Dragons
+"Wiggins, Rory",Lil' Dragons
+"Alvarado, Angelica",Level 1
+"Colaizzi, Sabrina",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Fabrizio, Giana",Level 1
+"Ferguson, Hudson",Level 1
+"Green, Jace",Level 1
+"Harder, Cameron",Level 1
+"Lewis, Laila",Level 1
+"Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Powis, James",Level 1
+"Rakowski, Charlie",Level 1
+"Roth, Donathan",Level 1
+"Spence, Hayley",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Alvarado, Angelica",Level 1
+"Augat, Jake",Level 1
 "Borjas, Israel",Level 1
 "Borjas, Natalia",Level 1
-"Corbo, Sterling",Level 1
-"Eaton, Hunter",Level 1
-"Fike, Logan",Level 1
-"Gill, Austin",Level 1
-"Kimball, Amy",Level 1
+"Colaizzi, Sabrina",Level 1
+"Cotter, Daniel",Level 1
+"Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
+"Harder, Cameron",Level 1
+"Hendrickson, Mason",Level 1
+"Hendrickson, Alex",Level 1
+"Jensen, Jack",Level 1
+"Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
+"Mikawa, Wesley",Level 1
 "Mix, Autumn",Level 1
 "Moore, Shyanne",Level 1
-"Ortega, Justice",Level 1
+"Moreno, Nicholas",Level 1
+"Panic, Stefan",Level 1
+"Roth, Donathan",Level 1
+"Skillman, Liam",Level 1
+"Spence, Hayley",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Scott",Level 1
+"Stillman, Trey",Level 1
+"Trujillo, Bobby",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Nate",Level 1
+"Cooper, Sarah",Level 1
+"Dreiling, Jake",Level 1
+"Dysart, Lilly",Level 1
+"Dysart, Daisy",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Fabrizio, Giana",Level 1
+"Farish, Emma",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Scott",Level 1
+"Green, Jace",Level 1
+"Jensen, Caitlyn",Level 1
+"Jung, Ruaridh",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Montanez, Alahnna",Level 1
+"Niosi, Cassidy",Level 1
 "Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Powis, James",Level 1
+"Trujillo, Bobby",Level 1
+"Alder, Ash",Level 1
+"Eaton, Hunter",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Parker, William",Level 1
+"Pinkerton, Kyle",Level 1
+"Roth, Hannah",Level 1
+"Silverthorn, Katie",Level 1
+"Wroblewski, Gabriella",Level 1
+"Algiere, Samuel",Level 1
+"Algiere, Serenity",Level 1
+"Alzaidi, Robert",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Colaizzi, Sabrina",Level 1
+"Duke, Brealynn",Level 1
+"Green, Jace",Level 1
+"Harder, Cameron",Level 1
+"Malish, Jayden",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Niosi, Cassidy",Level 1
+"Powis, James",Level 1
+"Powis, Alex",Level 1
+"Ronchetti, Callie",Level 1
+"Spence, Hayley",Level 1
+"Colaizzi, Sabrina",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Nate",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Fabrizio, Giana",Level 1
+"Farish, Scott",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Emma",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Harder, Cameron",Level 1
+"Jensen, Jack",Level 1
+"Massey, Armaan",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Spence, Hayley",Level 1
+"Alzaidi, Robert",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Dani",Level 1
+"Clannin, Elise",Level 1
+"Dobnak, Riane",Level 1
+"Duke, Brealynn",Level 1
+"Dysart, Lilly",Level 1
+"Dysart, Daisy",Level 1
+"Ferguson, Hudson",Level 1
+"Gill, Austin",Level 1
+"Green, Jace",Level 1
+"Jensen, Caitlyn",Level 1
+"Lewis, Laila",Level 1
+"Montanez, Alahnna",Level 1
+"Ortega, Justice",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Powis, James",Level 1
+"Rakowski, Charlie",Level 1
+"Skillman, Liam",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Evelyn",Level 1
+"Stegner, Emma",Level 1
+"Stillman, Trey",Level 1
+"Van Gelder, Peyton",Level 1
+"Alzaidi, Robert",Level 1
+"Colobong, Xylah",Level 1
+"Cooper, Nate",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Sarah",Level 1
+"Dysart, Daisy",Level 1
+"Dysart, Lilly",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Gill, Austin",Level 1
+"Green, Jace",Level 1
+"Jung, Ruaridh",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Mix, Autumn",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Stegner, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Alzaidi, Robert",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Colaizzi, Sabrina",Level 1
+"Cooper, Nate",Level 1
+"Fabrizio, Giana",Level 1
+"Ferguson, Hudson",Level 1
+"Gill, Austin",Level 1
+"Green, Jace",Level 1
+"Jensen, Caitlyn",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Massey, Armaan",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moore, Shyanne",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Rakowski, Charlie",Level 1
+"Skillman, Liam",Level 1
+"Stebbins, Evelyn",Level 1
+"Stebbins, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Van Gelder, Peyton",Level 1
+"Alzaidi, Robert",Level 1
+"Augat, Jake",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Cooper, Nate",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Tim",Level 1
+"Fabrizio, Giana",Level 1
+"Gill, Austin",Level 1
+"Green, Jace",Level 1
+"Harder, Cameron",Level 1
+"Maliepaard, Ezra",Level 1
+"Malish, Jayden",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moreno, Nicholas",Level 1
+"Panic, Stefan",Level 1
+"Rakowski, Charlie",Level 1
+"Spence, Hayley",Level 1
+"Stegner, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Alzaidi, Robert",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Dani",Level 1
+"Clannin, Elise",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Aaron",Level 1
+"Fabrizio, Giana",Level 1
+"Farish, Emma",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Scott",Level 1
+"Ferguson, Hudson",Level 1
+"Jensen, Jack",Level 1
+"Jung, Ruaridh",Level 1
+"Lewis, Laila",Level 1
+"Maliepaard, Ezra",Level 1
+"Malish, Jayden",Level 1
+"Massey, Armaan",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Ronchetti, Callie",Level 1
+"Roth, Donathan",Level 1
+"Skanderbeg, Tiana",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Evelyn",Level 1
+"Stegner, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Van Gelder, Peyton",Level 1
+"Alzaidi, Robert",Level 1
+"Dreiling, Jake",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Ferguson, Hudson",Level 1
+"Green, Jace",Level 1
+"Jung, Ruaridh",Level 1
+"Lewis, Laila",Level 1
+"Montanez, Alahnna",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Rakowski, Charlie",Level 1
+"Spence, Hayley",Level 1
+"Stegner, Emma",Level 1
+"Stillman, Trey",Level 1
+"Turney, Aiden",Level 1
+"Alzaidi, Robert",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Nate",Level 1
+"Duke, Brealynn",Level 1
+"Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
+"Gill, Austin",Level 1
+"Jensen, Caitlyn",Level 1
+"Jensen, Jack",Level 1
+"Malish, Jayden",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Ronchetti, Callie",Level 1
+"Spence, Hayley",Level 1
+"Stebbins, Evelyn",Level 1
+"Stebbins, Emma",Level 1
+"Stillman, Trey",Level 1
+"Trujillo, Bobby",Level 1
+"Alzaidi, Robert",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Cooper, Nate",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Tim",Level 1
+"Dysart, Lilly",Level 1
+"Dysart, Daisy",Level 1
+"Gill, Austin",Level 1
+"Jensen, Jack",Level 1
+"Malish, Jayden",Level 1
+"Massey, Armaan",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moreno, Nicholas",Level 1
+"Spence, Hayley",Level 1
+"Stegner, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Algiere, Samuel",Level 1
+"Algiere, Serenity",Level 1
+"Alzaidi, Robert",Level 1
+"Borjas, Israel",Level 1
+"Borjas, Natalia",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Dani",Level 1
+"Clannin, Elise",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Nate",Level 1
+"Dreiling, Jake",Level 1
+"Dysart, Daisy",Level 1
+"Dysart, Lilly",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Scott",Level 1
+"Farish, Emma",Level 1
+"Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
+"Gomez, Cameron",Level 1
+"Gomez, Carter",Level 1
+"Grant, Liam",Level 1
+"Grant, Rafe",Level 1
+"Green, Jace",Level 1
+"Jensen, Caitlyn",Level 1
+"Jung, Ruaridh",Level 1
+"Malish, Jayden",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moore, Shyanne",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Skillman, Liam",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Evelyn",Level 1
+"Turney, Aiden",Level 1
+"Van Gelder, Peyton",Level 1
+"Alvarado, Angelica",Level 1
+"Alzaidi, Robert",Level 1
+"Colaizzi, Domenic",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Duke, Brealynn",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Fabrizio, Giana",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Gill, Austin",Level 1
+"Grant, Rafe",Level 1
+"Grant, Liam",Level 1
+"Green, Jace",Level 1
+"Mansanares, Christopher",Level 1
+"Montanez, Alahnna",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Niosi, Cassidy",Level 1
+"Perkins, Nick",Level 1
+"Pierce, Gunner",Level 1
+"Roth, Donathan",Level 1
+"Skillman, Liam",Level 1
+"Spence, Hayley",Level 1
+"Stebbins, Evelyn",Level 1
+"Stebbins, Emma",Level 1
+"Van Gelder, Peyton",Level 1
+"Alvarado, Angelica",Level 1
+"Alzaidi, Robert",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
+"Malish, Jayden",Level 1
+"Massey, Armaan",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Moreno, Nicholas",Level 1
+"Panic, Stefan",Level 1
+"Perea, Connor",Level 1
+"Ronchetti, Callie",Level 1
+"Roth, Donathan",Level 1
+"Spence, Hayley",Level 1
+"Stegner, Emma",Level 1
+"Trujillo, Bobby",Level 1
+"Trujillo, Bobby",Level 1
+"Algiere, Serenity",Level 1
+"Algiere, Samuel",Level 1
+"Alvarado, Angelica",Level 1
+"Alzaidi, Robert",Level 1
+"Duke, Brealynn",Level 1
+"Dysart, Lilly",Level 1
+"Dysart, Daisy",Level 1
+"Fabrizio, Giana",Level 1
+"Farish, Emma",Level 1
+"Farish, Scott",Level 1
+"Farish, Mackenzie",Level 1
+"Gill, Austin",Level 1
+"Gomez, Cameron",Level 1
+"Grant, Liam",Level 1
+"Grant, Rafe",Level 1
+"Jung, Ruaridh",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Mix, Autumn",Level 1
+"Montanez, Alahnna",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Perkins, Nick",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
+"Ronchetti, Callie",Level 1
+"Roth, Donathan",Level 1
+"Skillman, Liam",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Evelyn",Level 1
+"Sundberg, Michayla",Level 1
+"Turney, Aiden",Level 1
+"Van Gelder, Peyton",Level 1
+"Alder, Ash",Level 1
+"Eaton, Hunter",Level 1
+"Sundberg, Michayla",Level 1
+"Brehm, Logan",Level 1
+"Colaizzi, Sabrina",Level 1
+"Cooper, Nate",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Sarah",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Scott",Level 1
+"Farish, Emma",Level 1
+"Gill, Austin",Level 1
+"Hinrichsen, Sonny",Level 1
+"Kimball, Amy",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Mansanares, Christopher",Level 1
+"Massey, Armaan",Level 1
+"Mikawa, Wesley",Level 1
+"Mix, Autumn",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Niosi, Cassidy",Level 1
+"Powis, Alex",Level 1
+"Roth, Hannah",Level 1
+"Roth, Hayden",Level 1
+"Roth, Quinn",Level 1
+"Stebbins, Evelyn",Level 1
+"Stebbins, Emma",Level 1
+"Algiere, Serenity",Level 1
+"Bachicha, Dillon",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Colobong, Xylah",Level 1
+"Duke, Brealynn",Level 1
+"Ferguson, Dalton",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Hill, Ashton",Level 1
+"Jensen, Caitlyn",Level 1
+"Mclain, Evan",Level 1
+"Myers, Walker",Level 1
+"Panic, Stefan",Level 1
+"Perkins, Nick",Level 1
+"Pierce, Gunner",Level 1
+"Raine, Breydon",Level 1
+"Skillman, Liam",Level 1
+"Spence, Hayley",Level 1
+"Sundberg, Michayla",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Van Gelder, Peyton",Level 1
+"Wroblewski, Gabriella",Level 1
+"Alder, Ash",Level 1
+"Bachicha, Dillon",Level 1
+"Brehm, Logan",Level 1
+"Cave, Alexa",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Duke, Brealynn",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Ferguson, Dalton",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Hill, Fiona",Level 1
+"Hinrichsen, Sonny",Level 1
+"Lewis, Laila",Level 1
+"Luong, Ethan",Level 1
+"Luong, Chloe",Level 1
+"Malish, Jayden",Level 1
+"Mansanares, Christopher",Level 1
+"Massey, Armaan",Level 1
+"Mclain, Evan",Level 1
+"McNaughton, Vivian",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Powis, Alex",Level 1
 "Raine, Breydon",Level 1
 "Roth, Quinn",Level 1
 "Roth, Hayden",Level 1
-"Roth, Hannah",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Alder, Ash",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Dani",Level 1
+"Clannin, Elise",Level 1
+"Dreiling, Jake",Level 1
+"Duke, Brealynn",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Ferguson, Dalton",Level 1
+"Fike, Logan",Level 1
+"Gill, Austin",Level 1
+"Graves, Jackson",Level 1
+"Hill, Ashton",Level 1
+"Jensen, Caitlyn",Level 1
+"Lewis, Laila",Level 1
+"Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
+"Malish, Jayden",Level 1
+"Mclain, Evan",Level 1
+"McNaughton, Vivian",Level 1
+"Mikawa, Wesley",Level 1
+"Perkins, Nick",Level 1
+"Pierce, Gunner",Level 1
+"Raine, Breydon",Level 1
+"Skillman, Liam",Level 1
 "Stebbins, Emma",Level 1
 "Stebbins, Evelyn",Level 1
 "Stebbins, Scott",Level 1
+"Stebbins, Scott",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
 "Van Gelder, Peyton",Level 1
-"Watley, Ashton",Level 1
-"Watley, Carmen",Level 1
-"Wroblewski, Gabriella",Level 1
-"Beardsley, Ryder",Level 1
+"Colobong, Xylah",Level 1
+"Duke, Brealynn",Level 1
+"Ellison, Ethan",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Aaron",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Massey, Armaan",Level 1
+"Pierce, Gunner",Level 1
+"Turney, Aiden",Level 1
+"Van Gelder, Peyton",Level 1
+"Brehm, Logan",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
 "Eaton, Hunter",Level 1
-"Figueroa, Alyssa",Level 1
-"Figueroa, Dylan",Level 1
 "Fike, Logan",Level 1
-"Gomez, Cameron",Level 1
-"Hinrichsen, Sonny",Level 1
-"Massey, Armaan",Level 1
-"Mix, Autumn",Level 1
-"Moore, Shyanne",Level 1
-"Myers, Walker",Level 1
-"Silverthorn, Katie",Level 1
-"Stebbins, Evelyn",Level 1
-"Stebbins, Emma",Level 1
-"Van Gelder, Peyton",Level 1
-"Alder, Ash",Level 1
-"Algiere, Serenity",Level 1
-"Borjas, Natalia",Level 1
-"Borjas, Israel",Level 1
-"Brehm, Logan",Level 1
-"Corbo, Sterling",Level 1
-"Cotter, Daniel",Level 1
-"Ellison, Ethan",Level 1
-"Ellison, Andrew",Level 1
-"Ellison, Aaron",Level 1
-"Gill, Austin",Level 1
-"Graves, Jackson",Level 1
-"Kimball, Amy",Level 1
-"Mclain, Evan",Level 1
-"Panic, Stefan",Level 1
-"Pierce, Gunner",Level 1
-"Raine, Breydon",Level 1
-"Roth, Quinn",Level 1
-"Roth, Hayden",Level 1
-"Skillman, Liam",Level 1
-"Smith, Mason",Level 1
-"Watley, Carmen",Level 1
-"Watley, Ashton",Level 1
-"Williams, Emery",Level 1
-"Wroblewski, Gabriella",Level 1
-"Algiere, Serenity",Level 1
-"Borjas, Natalia",Level 1
-"Borjas, Israel",Level 1
-"Ellison, Andrew",Level 1
-"Ellison, Aaron",Level 1
-"Ellison, Ethan",Level 1
-"Figueroa, Dylan",Level 1
-"Figueroa, Alyssa",Level 1
-"Graves, Jackson",Level 1
-"Hinrichsen, Sonny",Level 1
-"Luong, Ethan",Level 1
-"Luong, Chloe",Level 1
-"Massey, Armaan",Level 1
-"Mclain, Evan",Level 1
-"Mikawa, Wesley",Level 1
-"Mix, Autumn",Level 1
-"Moore, Shyanne",Level 1
-"Pierce, Gunner",Level 1
-"Roth, Quinn",Level 1
-"Roth, Hayden",Level 1
-"Van Gelder, Peyton",Level 1
-"Akerley, Emma",Level 1
-"Bachicha, Dillon",Level 1
-"Borjas, Israel",Level 1
-"Borjas, Natalia",Level 1
-"Brehm, Logan",Level 1
-"Corbo, Sterling",Level 1
-"Fike, Logan",Level 1
-"Flynn, Aiden",Level 1
-"Gill, Austin",Level 1
-"Mclain, Evan",Level 1
-"McNaughton, Vivian",Level 1
-"Myers, Walker",Level 1
-"Panic, Stefan",Level 1
-"Pierce, Gunner",Level 1
-"Raine, Breydon",Level 1
-"Roth, Hayden",Level 1
-"Roth, Quinn",Level 1
-"Skillman, Liam",Level 1
-"Smith, Mason",Level 1
-"Stebbins, Evelyn",Level 1
-"Stebbins, Emma",Level 1
-"Williams, Emery",Level 1
-"Wroblewski, Gabriella",Level 1
-"Alder, Ash",Level 1
-"Beardsley, Ryder",Level 1
-"Brehm, Logan",Level 1
-"Ellison, Ethan",Level 1
-"Ellison, Aaron",Level 1
-"Ellison, Andrew",Level 1
-"Figueroa, Dylan",Level 1
-"Figueroa, Alyssa",Level 1
-"Fike, Logan",Level 1
-"Flynn, Jason",Level 1
-"Flynn, Aiden",Level 1
-"Gomez, Cameron",Level 1
-"Kimball, Amy",Level 1
+"Jensen, Caitlyn",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
 "Mansanares, Christopher",Level 1
-"McNaughton, Vivian",Level 1
+"Mclain, Evan",Level 1
 "Mix, Autumn",Level 1
 "Moore, Shyanne",Level 1
-"Raine, Breydon",Level 1
-"Skillman, Liam",Level 1
-"Smith, Mason",Level 1
-"Stillman, Trey",Level 1
+"Moreno, Nicholas",Level 1
+"Myers, Walker",Level 1
+"Niosi, Cassidy",Level 1
+"Panic, Stefan",Level 1
+"Pierce, Gunner",Level 1
+"Roth, Hayden",Level 1
+"Roth, Hannah",Level 1
+"Roth, Quinn",Level 1
 "Wroblewski, Gabriella",Level 1
-"Akerley, Emma",Level 1
+"Alder, Ash",Level 1
+"Algiere, Samuel",Level 1
 "Algiere, Serenity",Level 1
-"Bachicha, Dillon",Level 1
-"Beardsley, Ryder",Level 1
-"Corbo, Sterling",Level 1
-"Cotter, Daniel",Level 1
-"Eaton, Hunter",Level 1
-"Gill, Austin",Level 1
-"Gomez, Cameron",Level 1
-"Graves, Jackson",Level 1
+"Borjas, Natalia",Level 1
+"Borjas, Israel",Level 1
+"Brehm, Logan",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Figueroa, Dylan",Level 1
+"Figueroa, Alyssa",Level 1
+"Fike, Logan",Level 1
 "Hinrichsen, Sonny",Level 1
-"Luong, Chloe",Level 1
+"Kimball, Amy",Level 1
+"Malish, Jayden",Level 1
+"Mix, Autumn",Level 1
+"Moore, Shyanne",Level 1
+"Moreno, Nicholas",Level 1
+"Myers, Walker",Level 1
+"Panic, Stefan",Level 1
+"Roth, Quinn",Level 1
+"Roth, Hannah",Level 1
+"Roth, Hayden",Level 1
+"Spence, Hayley",Level 1
+"Trujillo, Bobby",Level 1
+"Turney, Aiden",Level 1
+"Wroblewski, Gabriella",Level 1
+"Alder, Ash",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Dani",Level 1
+"Clannin, Elise",Level 1
+"Farish, Emma",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Scott",Level 1
+"Fike, Logan",Level 1
+"Graves, Jackson",Level 1
+"Lewis, Laila",Level 1
 "Luong, Ethan",Level 1
+"Malish, Jayden",Level 1
 "Massey, Armaan",Level 1
 "Mclain, Evan",Level 1
 "Mikawa, Wesley",Level 1
 "Mix, Autumn",Level 1
-"Myers, Walker",Level 1
-"Panic, Stefan",Level 1
+"Niosi, Cassidy",Level 1
 "Pierce, Gunner",Level 1
-"Raine, Breydon",Level 1
 "Skillman, Liam",Level 1
 "Stebbins, Evelyn",Level 1
 "Stebbins, Emma",Level 1
-"Straley, Alison",Level 1
-"Straley, Wyatt",Level 1
-"Williams, Emery",Level 1
-"Alvarez, Elysia",Level 1/Level 2 Sparring
-"Alvarez, Xavier",Level 1/Level 2 Sparring
-"Luong, Ethan",Level 1/Level 2 Sparring
-"Luong, Chloe",Level 1/Level 2 Sparring
-"Panic, Stefan",Level 1/Level 2 Sparring
+"Sundberg, Michayla",Level 1
+"Van Gelder, Peyton",Level 1
+"Brehm, Logan",Level 1
+"Colaizzi, Sabrina",Level 1
+"Colobong, Xylah",Level 1
+"Duke, Brealynn",Level 1
+"Eaton, Hunter",Level 1
+"Ferguson, Dalton",Level 1
+"Gill, Austin",Level 1
+"Graves, Jackson",Level 1
+"Hill, Ashton",Level 1
+"Hinrichsen, Sonny",Level 1
+"Mansanares, Christopher",Level 1
+"Massey, Armaan",Level 1
+"Panic, Stefan",Level 1
+"Raine, Breydon",Level 1
+"Skillman, Liam",Level 1
+"Spence, Hayley",Level 1
+"Trujillo, Bobby",Level 1
+"Wroblewski, Gabriella",Level 1
+"Alder, Ash",Level 1
+"Colaizzi, Sabrina",Level 1
+"Ellison, Aaron",Level 1
+"Ellison, Andrew",Level 1
+"Ellison, Ethan",Level 1
+"Farish, Scott",Level 1
+"Farish, Mackenzie",Level 1
+"Farish, Emma",Level 1
+"Figueroa, Alyssa",Level 1
+"Figueroa, Dylan",Level 1
+"Kimball, Amy",Level 1
+"Lewis, Laila",Level 1
+"Malish, Jayden",Level 1
+"Mansanares, Christopher",Level 1
+"Mix, Autumn",Level 1
+"Powis, Alex",Level 1
+"Roth, Hannah",Level 1
+"Spence, Hayley",Level 1
+"Sundberg, Michayla",Level 1
+"Trujillo, Bobby",Level 1
+"Wroblewski, Gabriella",Level 1
+"Bachicha, Dillon",Level 1
+"Cave, Alexa",Level 1
+"Clannin, Elise",Level 1
+"Clannin, Dani",Level 1
+"Cooper, Sarah",Level 1
+"Cooper, Tim",Level 1
+"Cooper, Nate",Level 1
+"Dreiling, Jake",Level 1
+"Duke, Brealynn",Level 1
+"Fike, Logan",Level 1
+"Gill, Austin",Level 1
+"Graves, Jackson",Level 1
+"Hill, Ashton",Level 1
+"Jensen, Caitlyn",Level 1
+"Luong, Chloe",Level 1
+"Luong, Ethan",Level 1
+"McNaughton, Vivian",Level 1
+"Mikawa, Wesley",Level 1
+"Moreno, Nicholas",Level 1
+"Perkins, Nick",Level 1
+"Pierce, Gunner",Level 1
+"Raine, Breydon",Level 1
+"Skillman, Liam",Level 1
+"Stebbins, Emma",Level 1
+"Stebbins, Evelyn",Level 1
+"Van Gelder, Peyton",Level 1
+"Beardsley, Ryder",Level 1/Level 2 Sparring
+"Borjas, Israel",Level 1/Level 2 Sparring
+"Borjas, Natalia",Level 1/Level 2 Sparring
+"Christensen, Jayden",Level 1/Level 2 Sparring
+"Colaizzi, Domenic",Level 1/Level 2 Sparring
+"Colaizzi, Sabrina",Level 1/Level 2 Sparring
+"Figueroa, Dylan",Level 1/Level 2 Sparring
+"Figueroa, Alyssa",Level 1/Level 2 Sparring
+"Massey, Armaan",Level 1/Level 2 Sparring
+"Parker, William",Level 1/Level 2 Sparring
+"Powis, Alex",Level 1/Level 2 Sparring
+"Powis, James",Level 1/Level 2 Sparring
+"Ronchetti, Callie",Level 1/Level 2 Sparring
+"Roth, Donathan",Level 1/Level 2 Sparring
+"Bachicha, Dillon",Level 1/Level 2 Sparring
+"Borjas, Natalia",Level 1/Level 2 Sparring
+"Borjas, Israel",Level 1/Level 2 Sparring
+"Christensen, Jayden",Level 1/Level 2 Sparring
+"Jensen, Jack",Level 1/Level 2 Sparring
+"Kimball, Amy",Level 1/Level 2 Sparring
+"Moreno, Nicholas",Level 1/Level 2 Sparring
+"Myers, Walker",Level 1/Level 2 Sparring
+"Roth, Donathan",Level 1/Level 2 Sparring
+"Stegner, Emma",Level 1/Level 2 Sparring
+"Alder, Ash",Level 1/Level 2 Sparring
+"Eaton, Hunter",Level 1/Level 2 Sparring
+"Green, Jace",Level 1/Level 2 Sparring
+"Lewis, Laila",Level 1/Level 2 Sparring
+"Massey, Armaan",Level 1/Level 2 Sparring
+"Myers, Walker",Level 1/Level 2 Sparring
+"Powis, Alex",Level 1/Level 2 Sparring
 "Schardt, Adele",Level 1/Level 2 Sparring
 "Schardt, Dawson",Level 1/Level 2 Sparring
+"Trujillo, Bobby",Level 1/Level 2 Sparring
+"Baughman, Gillian",Level 1/Level 2 Sparring
+"Christensen, Jayden",Level 1/Level 2 Sparring
+"Clannin, Dani",Level 1/Level 2 Sparring
+"Clannin, Elise",Level 1/Level 2 Sparring
+"Fike, Logan",Level 1/Level 2 Sparring
+"Forar, Alexander",Level 1/Level 2 Sparring
+"Jocelyn, Chance",Level 1/Level 2 Sparring
+"Manuello, Matteson",Level 1/Level 2 Sparring
+"Niosi, Cassidy",Level 1/Level 2 Sparring
+"Roth, Hannah",Level 1/Level 2 Sparring
+"Schardt, Adele",Level 1/Level 2 Sparring
+"Schardt, Dawson",Level 1/Level 2 Sparring
+"Baughman, Gillian",Level 1/Level 2 Sparring
+"Baughman, Audrey",Level 1/Level 2 Sparring
+"Baughman, Maggie",Level 1/Level 2 Sparring
+"Christensen, Jayden",Level 1/Level 2 Sparring
+"Figueroa, Dylan",Level 1/Level 2 Sparring
+"Figueroa, Alyssa",Level 1/Level 2 Sparring
+"Fike, Logan",Level 1/Level 2 Sparring
+"Kimball, Amy",Level 1/Level 2 Sparring
+"Luong, Ethan",Level 1/Level 2 Sparring
+"Luong, Chloe",Level 1/Level 2 Sparring
+"Niosi, Cassidy",Level 1/Level 2 Sparring
+"Ferguson, Dalton",Level 1/Level 2 Sparring
+"Ramos Arjona, Mateo",Level 1/Level 2 Sparring
+"Schardt, Adele",Level 1/Level 2 Sparring
+"Schardt, Dawson",Level 1/Level 2 Sparring
+"Alder, Ash",Level 2
+"Brehm, Logan",Level 2
+"Eaton, Hunter",Level 2
+"Fike, Logan",Level 2
 "Forar, Alexander",Level 2
-"Gomez, Carter",Level 2
+"Gomez, Cameron",Level 2
+"Graves, Jackson",Level 2
 "Maldonado, Taelynn",Level 2
-"Maldonado, Cabe",Level 2
-"McMillin, Lilly",Level 2
+"Mansanares, Christopher",Level 2
+"Myers, Walker",Level 2
+"Rivera-Briones, Ariyon",Level 2
 "Starns, William",Level 2
-"Stozek, Fahlon",Level 2
-"Suazo, Quinn",Level 2
-"Sundberg, Maddi",Level 2
-"Sundberg, Marina",Level 2
-"Alvarez, Elysia",Level 2
-"Alvarez, Xavier",Level 2
-"Bakes, Avery",Level 2
-"Binder, Hannah",Level 2
-"DeFeo, Ethan",Level 2
-"Kryscio, Christine",Level 2
-"Lehto, Sherry",Level 2
-"Lindahl, Hayden",Level 2
-"Lubbe, Brandi",Level 2
-"Manuello, Matteson",Level 2
-"Rivera-Briones, Ariyon",Level 2
-"Stebbins, Scott",Level 2
-"Stebbins, Ian",Level 2
-"Stebbins, Noah",Level 2
-"Steidley, Jennifer",Level 2
-"Trammell, Macy",Level 2
-"Zuver, Melanie",Level 2
-"Cooper, Everett",Level 2
-"DeFeo, Ethan",Level 2
-"Gomez, Carter",Level 2
-"Lindahl, Hayden",Level 2
-"Maldonado, Cabe",Level 2
-"Maldonado, Taelynn",Level 2
-"Manuello, Matteson",Level 2
+"Wroblewski, Gabriella",Level 2
+"Bachicha, Dillon",Level 2
 "McMillin, Lilly",Level 2
+"Raine, Breydon",Level 2
+"Silverthorn, Katie",Level 2
+"Smith, Mason",Level 2
+"Trammell, Macy",Level 2
+"Alder, Ash",Level 2
+"Eaton, Hunter",Level 2
+"Fike, Logan",Level 2
+"Forar, Alexander",Level 2
+"Lindahl, Hayden",Level 2
+"Maldonado, Taelynn",Level 2
+"Mansanares, Christopher",Level 2
+"Mclain, Evan",Level 2
+"McNaughton, Vivian",Level 2
 "Rivera-Briones, Ariyon",Level 2
-"Suazo, Quinn",Level 2
-"Sundberg, Maddi",Level 2
-"Sundberg, Marina",Level 2
-"Bakes, Avery",Level 2
-"Gomez, Carter",Level 2
-"Kryscio, Christine",Level 2
-"Lubbe, Brandi",Level 2
-"Lubbe, Brandi",Level 2
-"Lynch, Brayden",Level 2
-"Ramos Arjona, Mateo",Level 2
+"Roth, Hannah",Level 2
+"Silverthorn, Katie",Level 2
+"Smith, Mason",Level 2
+"Starns, William",Level 2
+"Williams, Emery",Level 2
+"Wroblewski, Gabriella",Level 2
+"Bachicha, Dillon",Level 2
+"Beardsley, Ryder",Level 2
+"Ferguson, Dalton",Level 2
+"Gomez, Cameron",Level 2
+"Graves, Jackson",Level 2
+"Hinrichsen, Sonny",Level 2
+"McMillin, Lilly",Level 2
+"Myers, Walker",Level 2
 "Schardt, Adele",Level 2
 "Schardt, Dawson",Level 2
+"Trammell, Macy",Level 2
+"Bachicha, Dillon",Level 2
+"Bakes, Avery",Level 2
+"Beardsley, Ryder",Level 2
+"Hinrichsen, Sonny",Level 2
+"Lindahl, Hayden",Level 2
+"McMillin, Lilly",Level 2
+"McNaughton, Vivian",Level 2
+"Myers, Walker",Level 2
+"Raine, Breydon",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Wroblewski, Gabriella",Level 2
+"Beardsley, Ryder",Level 2
+"Brehm, Logan",Level 2
+"Eaton, Hunter",Level 2
+"Forar, Alexander",Level 2
+"Graves, Jackson",Level 2
+"Hinrichsen, Sonny",Level 2
+"Lindahl, Hayden",Level 2
+"Mansanares, Christopher",Level 2
+"Mclain, Evan",Level 2
+"McMillin, Lilly",Level 2
+"McNaughton, Vivian",Level 2
+"Myers, Walker",Level 2
+"Sundberg, Marina",Level 2
+"Sundberg, Maddi",Level 2
+"Williams, Emery",Level 2
+"Alder, Ash",Level 2
+"Beardsley, Ryder",Level 2
+"Ferguson, Dalton",Level 2
+"Kimball, Amy",Level 2
+"Lindahl, Hayden",Level 2
+"Mclain, Evan",Level 2
+"Myers, Walker",Level 2
+"Raine, Breydon",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Trammell, Macy",Level 2
+"Alder, Ash",Level 2
+"Beardsley, Ryder",Level 2
+"Brehm, Logan",Level 2
+"Ferguson, Dalton",Level 2
+"Fike, Logan",Level 2
+"Forar, Alexander",Level 2
+"Graves, Jackson",Level 2
+"Maldonado, Taelynn",Level 2
+"Mansanares, Christopher",Level 2
+"Mclain, Evan",Level 2
+"McMillin, Lilly",Level 2
+"Raine, Breydon",Level 2
+"Rivera-Briones, Ariyon",Level 2
+"Roth, Hannah",Level 2
+"Smith, Mason",Level 2
+"Starns, William",Level 2
+"Williams, Emery",Level 2
+"Bachicha, Dillon",Level 2
+"Beardsley, Ryder",Level 2
+"Ferguson, Dalton",Level 2
+"Forar, Alexander",Level 2
+"Lindahl, Hayden",Level 2
+"Mclain, Evan",Level 2
+"McNaughton, Vivian",Level 2
+"Myers, Walker",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
+"Trammell, Macy",Level 2
+"Wroblewski, Gabriella",Level 2
+"Christensen, Jayden",Level 2
+"Lindahl, Hayden",Level 2
+"Ramos Arjona, Mateo",Level 2
+"Rivera-Briones, Ariyon",Level 2
+"Silverthorn, Katie",Level 2
+"Stebbins, Noah",Level 2
+"Trammell, Macy",Level 2
+"Williams, Emery",Level 2
+"Bakes, Avery",Level 2
+"Beardsley, Ryder",Level 2
+"Maldonado, Taelynn",Level 2
+"Manuello, Matteson",Level 2
+"McMillin, Lilly",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Starns, William",Level 2
+"Stebbins, Scott",Level 2
+"Stebbins, Ian",Level 2
+"Sundberg, Marina",Level 2
+"Sundberg, Maddi",Level 2
+"Beardsley, Ryder",Level 2
+"Christensen, Jayden",Level 2
+"Colaizzi, Domenic",Level 2
+"Lindahl, Hayden",Level 2
+"Maldonado, Taelynn",Level 2
+"McMillin, Lilly",Level 2
+"Rivera-Briones, Ariyon",Level 2
 "Stebbins, Ian",Level 2
 "Stebbins, Noah",Level 2
 "Stebbins, Scott",Level 2
-"Steidley, Jennifer",Level 2
+"Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
+"Bakes, Avery",Level 2
+"Beardsley, Ryder",Level 2
+"Lindahl, Hayden",Level 2
+"Lynch, Brayden",Level 2
+"Manuello, Matteson",Level 2
+"McMillin, Lilly",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Silverthorn, Katie",Level 2
+"Stebbins, Ian",Level 2
+"Stebbins, Noah",Level 2
 "Trammell, Macy",Level 2
-"Binder, Hannah",Level 2 sparring
-"DeFeo, Ethan",Level 2 sparring
-"Dobnak, Tara",Level 2 sparring
-"Lindahl, Hayden",Level 2 sparring
-"Lubbe, Brandi",Level 2 sparring
-"Manuello, Matteson",Level 2 sparring
+"Wachter, Olivia",Level 2
+"Beardsley, Ryder",Level 2
+"Christensen, Jayden",Level 2
+"Maldonado, Taelynn",Level 2
+"Ramos Arjona, Mateo",Level 2
+"Silverthorn, Katie",Level 2
+"Williams, Emery",Level 2
+"Bakes, Avery",Level 2
+"Beardsley, Ryder",Level 2
+"Lynch, Brayden",Level 2
+"Manuello, Matteson",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Silverthorn, Katie",Level 2
+"Smith, Mason",Level 2
+"Starns, William",Level 2
+"Stebbins, Noah",Level 2
+"Stebbins, Scott",Level 2
+"Stebbins, Ian",Level 2
+"Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
+"Trammell, Macy",Level 2
+"Christensen, Jayden",Level 2
+"Lindahl, Hayden",Level 2
+"Maldonado, Taelynn",Level 2
+"McMillin, Lilly",Level 2
+"Rivera-Briones, Ariyon",Level 2
+"Schardt, Adele",Level 2
+"Schardt, Dawson",Level 2
+"Smith, Mason",Level 2
+"Starns, William",Level 2
+"Stebbins, Scott",Level 2
+"Stebbins, Noah",Level 2
+"Stebbins, Ian",Level 2
+"Sundberg, Maddi",Level 2
+"Sundberg, Marina",Level 2
+"Williams, Emery",Level 2
+"Augat, Jake",Level 2 sparring
+"Bachicha, Dillon",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Brehm, Logan",Level 2 sparring
+"Ferguson, Dalton",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Hendrickson, Alex",Level 2 sparring
+"Maldonado, Taelynn",Level 2 sparring
+"Mclain, Evan",Level 2 sparring
+"Pratt, Emma",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Roth, Hannah",Level 2 sparring
 "Silverthorn, Katie",Level 2 sparring
-"Steidley, Jennifer",Level 2 sparring
-"Suazo, Quinn",Level 2 sparring
-"Sundberg, Marina",Level 2 sparring
+"Smith, Mason",Level 2 sparring
 "Trammell, Macy",Level 2 sparring
-"Alvarez, Xavier",Level 2 sparring
-"Alvarez, Elysia",Level 2 sparring
+"Williams, Emery",Level 2 sparring
+"Wroblewski, Gabriella",Level 2 sparring
+"Parker, William",Level 2 sparring
+"Pinkerton, Kyle",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Dobnak, Tara",Level 2 sparring
+"Gomez, Cameron",Level 2 sparring
+"Hinrichsen, Sonny",Level 2 sparring
+"Mansanares, Christopher",Level 2 sparring
+"McNaughton, Vivian",Level 2 sparring
+"Parker, William",Level 2 sparring
+"Pollock, Connor",Level 2 sparring
+"Raine, Breydon",Level 2 sparring
+"Skanderbeg, Tiana",Level 2 sparring
+"Starns, William",Level 2 sparring
+"Alder, Ash",Level 2 sparring
 "Anderson, Makiah",Level 2 sparring
 "Anderson, Max",Level 2 sparring
-"Binder, Hannah",Level 2 sparring
-"Christensen, Jayden",Level 2 sparring
-"Dobnak, Tara",Level 2 sparring
 "Forar, Alexander",Level 2 sparring
+"Gomez, Cameron",Level 2 sparring
+"Graves, Jackson",Level 2 sparring
+"Lindahl, Hayden",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
 "McMillin, Lilly",Level 2 sparring
-"Steidley, Jennifer",Level 2 sparring
-"Stozek, Fahlon",Level 2 sparring
-"Sundberg, Maddi",Level 2 sparring
-"Alvarez, Xavier",Level 2 sparring
-"Alvarez, Elysia",Level 2 sparring
-"Cooper, Everett",Level 2 sparring
-"DeFeo, Ethan",Level 2 sparring
+"McNaughton, Vivian",Level 2 sparring
+"Parker, William",Level 2 sparring
+"Schardt, Adele",Level 2 sparring
+"Schardt, Dawson",Level 2 sparring
+"Teff, Tanner",Level 2 sparring
+"Augat, Jake",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Brehm, Logan",Level 2 sparring
+"Ferguson, Dalton",Level 2 sparring
+"Gomez, Cameron",Level 2 sparring
+"Hinrichsen, Sonny",Level 2 sparring
+"Kimball, Amy",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"Maldonado, Taelynn",Level 2 sparring
+"McNaughton, Vivian",Level 2 sparring
+"Musich, Kylie",Level 2 sparring
+"Myers, Walker",Level 2 sparring
+"Raine, Breydon",Level 2 sparring
+"Smith, Mason",Level 2 sparring
+"Trammell, Macy",Level 2 sparring
+"Brehm, Logan",Level 2 sparring
+"Eaton, Hunter",Level 2 sparring
+"Ferguson, Dalton",Level 2 sparring
+"Fike, Logan",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Graves, Jackson",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"McMillin, Lilly",Level 2 sparring
+"Myers, Walker",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Skanderbeg, Tiana",Level 2 sparring
+"Starns, William",Level 2 sparring
+"Augat, Jake",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Ferguson, Dalton",Level 2 sparring
+"Gomez, Cameron",Level 2 sparring
+"Hinrichsen, Sonny",Level 2 sparring
+"Lindahl, Hayden",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"Mansanares, Christopher",Level 2 sparring
+"McNaughton, Vivian",Level 2 sparring
+"Myers, Walker",Level 2 sparring
+"Raine, Breydon",Level 2 sparring
+"Smith, Mason",Level 2 sparring
+"Trammell, Macy",Level 2 sparring
+"Wroblewski, Gabriella",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Brehm, Logan",Level 2 sparring
+"Colaizzi, Domenic",Level 2 sparring
+"Ferguson, Dalton",Level 2 sparring
+"Fike, Logan",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Hinrichsen, Sonny",Level 2 sparring
+"Kimball, Amy",Level 2 sparring
 "Lindahl, Hayden",Level 2 sparring
 "Maldonado, Taelynn",Level 2 sparring
-"Maldonado, Cabe",Level 2 sparring
-"Manuello, Matteson",Level 2 sparring
-"Sundberg, Maddi",Level 2 sparring
-"Sundberg, Marina",Level 2 sparring
+"Mansanares, Christopher",Level 2 sparring
+"McMillin, Lilly",Level 2 sparring
+"Myers, Walker",Level 2 sparring
+"Raine, Breydon",Level 2 sparring
+"Roth, Hannah",Level 2 sparring
+"Smith, Mason",Level 2 sparring
 "Trammell, Macy",Level 2 sparring
-"Baughman, Audrey",Level 3/Prep Belt
-"Baughman, Gillian",Level 3/Prep Belt
-"Baughman, Maggie",Level 3/Prep Belt
-"Berschling, Eli",Level 3/Prep Belt
-"Brasher, Jamison",Level 3/Prep Belt
-"Colaizzi, Domenic",Level 3/Prep Belt
-"Dobnak, Riane",Level 3/Prep Belt
-"Jocelyn, Chance",Level 3/Prep Belt
-"Manuello, Garrett",Level 3/Prep Belt
-"McPhee, Cedric",Level 3/Prep Belt
-"Ortega, Justice",Level 3/Prep Belt
-"Ortiz, Nicholas",Level 3/Prep Belt
-"Pollock, Connor",Level 3/Prep Belt
-"Socanski, Mia",Level 3/Prep Belt
-"Socanski, Luka",Level 3/Prep Belt
-"Spence, Ashlyn",Level 3/Prep Belt
-"Vigil, Adaya",Level 3/Prep Belt
-"Vigil, Analise",Level 3/Prep Belt
-"Vigil, Jaelynn",Level 3/Prep Belt
-"Wachter, Olivia",Level 3/Prep Belt
-"Wilcoxen, Connor",Level 3/Prep Belt
-"Young, Hayden",Level 3/Prep Belt
-"Young, Leah",Level 3/Prep Belt
-"Anderson, Makiah",Level 3/Prep Belt
-"Manuello, Garrett",Level 3/Prep Belt
-"McPhee, Cedric",Level 3/Prep Belt
-"Ortiz, Nicholas",Level 3/Prep Belt
-"Pollock, Connor",Level 3/Prep Belt
-"Schmitz, Tanner",Level 3/Prep Belt
-"Wilcoxen, Connor",Level 3/Prep Belt
-"Young, Hayden",Level 3/Prep Belt
-"Brasher, Jamison",Level 3/Prep Sparring
+"Wroblewski, Gabriella",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Lindahl, Hayden",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"Maldonado, Taelynn",Level 2 sparring
+"McMillin, Lilly",Level 2 sparring
+"Pollock, Connor",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Manuello, Matteson",Level 2 sparring
+"McMillin, Lilly",Level 2 sparring
+"Rivera-Briones, Ariyon",Level 2 sparring
+"Sundberg, Marina",Level 2 sparring
+"Sundberg, Maddi",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Forar, Alexander",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"McMillin, Lilly",Level 2 sparring
+"Trammell, Macy",Level 2 sparring
+"Williams, Emery",Level 2 sparring
+"Bakes, Avery",Level 2 sparring
+"Beardsley, Ryder",Level 2 sparring
+"Lynch, Brayden",Level 2 sparring
+"Maldonado, Taelynn",Level 2 sparring
+"Smith, Mason",Level 2 sparring
+"Williams, Emery",Level 2 sparring
+"Baughman, Audrey",Level 3
+"Baughman, Gillian",Level 3
+"Binder, Hannah",Level 3
+"Colaizzi, Domenic",Level 3
+"DeFeo, Ethan",Level 3
+"Gomez, Carter",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Maldonado, Cabe",Level 3
+"Parker, William",Level 3
+"Pollock, Connor",Level 3
+"Wilcoxen, Connor",Level 3
+"Young, Hayden",Level 3
+"Young, Leah",Level 3
+"Baughman, Maggie",Level 3
+"Baughman, Gillian",Level 3
+"Baughman, Audrey",Level 3
+"Berschling, Eli",Level 3
+"Binder, Hannah",Level 3
+"Brasher, Jamison",Level 3
+"Christensen, Jayden",Level 3
+"Colaizzi, Domenic",Level 3
+"Cooper, Everett",Level 3
+"DeFeo, Ethan",Level 3
+"Dobnak, Tara",Level 3
+"Dority, Brandi",Level 3
+"Gomez, Carter",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Lehto, Sherry",Level 3
+"Maldonado, Cabe",Level 3
+"Manuello, Matteson",Level 3
+"Manuello, Garrett",Level 3
+"Ortiz, Nicholas",Level 3
+"Pollock, Connor",Level 3
+"Socanski, Luka",Level 3
+"Socanski, Mia",Level 3
+"Stebbins, Ian",Level 3
+"Stebbins, Noah",Level 3
+"Stebbins, Scott",Level 3
+"Steidley, Jennifer",Level 3
+"Stozek, Fahlon",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Jaelynn",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Moniece",Level 3
+"Wilcoxen, Connor",Level 3
+"Young, Leah",Level 3
+"Young, Hayden",Level 3
+"Zuver, Melanie",Level 3
+"Baughman, Maggie",Level 3
+"Baughman, Audrey",Level 3
+"Baughman, Gillian",Level 3
+"Berschling, Eli",Level 3
+"Christensen, Jayden",Level 3
+"Colaizzi, Domenic",Level 3
+"Cooper, Everett",Level 3
+"Gomez, Carter",Level 3
+"Jocelyn, Chance",Level 3
+"Maldonado, Cabe",Level 3
+"Ortiz, Nicholas",Level 3
+"Pollock, Connor",Level 3
+"Stozek, Fahlon",Level 3
+"Vigil, Jaelynn",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Moniece",Level 3
+"Wilcoxen, Connor",Level 3
+"Young, Hayden",Level 3
+"Young, Leah",Level 3
+"Baughman, Maggie",Level 3
+"Baughman, Gillian",Level 3
+"Baughman, Audrey",Level 3
+"Christensen, Jayden",Level 3
+"Colaizzi, Domenic",Level 3
+"Cooper, Everett",Level 3
+"DeFeo, Ethan",Level 3
+"Dority, Brandi",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Pollock, Connor",Level 3
+"Steidley, Jennifer",Level 3
+"Stozek, Fahlon",Level 3
+"Vigil, Jaelynn",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Moniece",Level 3
+"Wilcoxen, Connor",Level 3
+"Young, Leah",Level 3
+"Young, Hayden",Level 3
+"Baughman, Audrey",Level 3
+"Baughman, Gillian",Level 3
+"Baughman, Maggie",Level 3
+"Berschling, Eli",Level 3
+"Binder, Hannah",Level 3
+"Brasher, Jamison",Level 3
+"Colaizzi, Domenic",Level 3
+"Dority, Brandi",Level 3
+"Gomez, Carter",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Maldonado, Cabe",Level 3
+"Spence, Ashlyn",Level 3
+"Stebbins, Scott",Level 3
+"Stebbins, Noah",Level 3
+"Stebbins, Ian",Level 3
+"Stozek, Fahlon",Level 3
+"Wachter, Olivia",Level 3
+"Wilcoxen, Connor",Level 3
+"Berschling, Eli",Level 3
+"Binder, Hannah",Level 3
+"Brasher, Jamison",Level 3
+"Christensen, Jayden",Level 3
+"Colaizzi, Domenic",Level 3
+"Cooper, Everett",Level 3
+"DeFeo, Ethan",Level 3
+"Dority, Brandi",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Maldonado, Cabe",Level 3
+"Pollock, Connor",Level 3
+"Vigil, Jaelynn",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Moniece",Level 3
+"Berschling, Eli",Level 3
+"Binder, Hannah",Level 3
+"Brasher, Jamison",Level 3
+"Colaizzi, Domenic",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Maldonado, Cabe",Level 3
+"Ortiz, Nicholas",Level 3
+"Pollock, Connor",Level 3
+"Stozek, Fahlon",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Moniece",Level 3
+"Wilcoxen, Connor",Level 3
+"Young, Leah",Level 3
+"Baughman, Maggie",Level 3
+"Baughman, Gillian",Level 3
+"Baughman, Audrey",Level 3
+"Berschling, Eli",Level 3
+"Binder, Hannah",Level 3
+"Brasher, Jamison",Level 3
+"Colaizzi, Domenic",Level 3
+"Cooper, Everett",Level 3
+"DeFeo, Ethan",Level 3
+"Dobnak, Tara",Level 3
+"Dority, Brandi",Level 3
+"Jocelyn, Chance",Level 3
+"Kryscio, Christine",Level 3
+"Lehto, Sherry",Level 3
+"Maldonado, Cabe",Level 3
+"Ortiz, Nicholas",Level 3
+"Pollock, Connor",Level 3
+"Steidley, Jennifer",Level 3
+"Stozek, Fahlon",Level 3
+"Vigil, Jaelynn",Level 3
+"Vigil, Analise",Level 3
+"Vigil, Adaya",Level 3
+"Vigil, Moniece",Level 3
+"Zuver, Melanie",Level 3
+"Augat, Jake",Level 3/Prep Sparring
 "Colaizzi, Domenic",Level 3/Prep Sparring
-"Dobnak, Riane",Level 3/Prep Sparring
-"Hendrickson, Mason",Level 3/Prep Sparring
 "Hendrickson, Alex",Level 3/Prep Sparring
 "Jocelyn, Chance",Level 3/Prep Sparring
-"Manuello, Garrett",Level 3/Prep Sparring
-"McPhee, Cedric",Level 3/Prep Sparring
-"Minnihan, Andrew",Level 3/Prep Sparring
+"Lynch, Brayden",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
 "Musich, Kylie",Level 3/Prep Sparring
-"Silverthorn, Makenzie",Level 3/Prep Sparring
+"Ortiz, Nicholas",Level 3/Prep Sparring
+"Socanski, Mia",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Stozek, Fahlon",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Binder, Hannah",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"Dobnak, Tara",Level 3/Prep Sparring
+"Gomez, Carter",Level 3/Prep Sparring
+"Pinkerton, Kyle",Level 3/Prep Sparring
+"Stebbins, Ian",Level 3/Prep Sparring
+"Stebbins, Noah",Level 3/Prep Sparring
 "Wachter, Olivia",Level 3/Prep Sparring
 "Augat, Jake",Level 3/Prep Sparring
-"Bowman, Madison",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"Cooper, Everett",Level 3/Prep Sparring
+"DeFeo, Ethan",Level 3/Prep Sparring
+"Dobnak, Riane",Level 3/Prep Sparring
+"Dobnak, Tara",Level 3/Prep Sparring
+"Jocelyn, Chance",Level 3/Prep Sparring
+"Lynch, Brayden",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
+"Musich, Kylie",Level 3/Prep Sparring
+"Ortiz, Nicholas",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Socanski, Mia",Level 3/Prep Sparring
+"Steidley, Jennifer",Level 3/Prep Sparring
+"Stozek, Fahlon",Level 3/Prep Sparring
+"Vigil, Jaelynn",Level 3/Prep Sparring
+"Vigil, Analise",Level 3/Prep Sparring
+"Vigil, Adaya",Level 3/Prep Sparring
+"Vigil, Moniece",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Wilcoxen, Connor",Level 3/Prep Sparring
+"Young, Hayden",Level 3/Prep Sparring
+"Young, Leah",Level 3/Prep Sparring
+"Zuver, Melanie",Level 3/Prep Sparring
+"Augat, Jake",Level 3/Prep Sparring
+"Baughman, Audrey",Level 3/Prep Sparring
+"Baughman, Gillian",Level 3/Prep Sparring
+"Baughman, Maggie",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"Cooper, Everett",Level 3/Prep Sparring
+"DeFeo, Ethan",Level 3/Prep Sparring
+"Dority, Brandi",Level 3/Prep Sparring
+"Gomez, Carter",Level 3/Prep Sparring
+"Jocelyn, Chance",Level 3/Prep Sparring
+"Lynch, Brayden",Level 3/Prep Sparring
+"Skanderbeg, Tiana",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Stebbins, Scott",Level 3/Prep Sparring
+"Stebbins, Noah",Level 3/Prep Sparring
+"Steidley, Jennifer",Level 3/Prep Sparring
+"Vigil, Analise",Level 3/Prep Sparring
+"Vigil, Jaelynn",Level 3/Prep Sparring
+"Vigil, Adaya",Level 3/Prep Sparring
+"Vigil, Moniece",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Young, Leah",Level 3/Prep Sparring
+"Young, Hayden",Level 3/Prep Sparring
+"Baughman, Maggie",Level 3/Prep Sparring
+"Baughman, Audrey",Level 3/Prep Sparring
+"Baughman, Gillian",Level 3/Prep Sparring
 "Brasher, Jamison",Level 3/Prep Sparring
 "Colaizzi, Domenic",Level 3/Prep Sparring
-"Jersey, Johnathan",Level 3/Prep Sparring
-"McPhee, Cedric",Level 3/Prep Sparring
-"Schmitz, Tanner",Level 3/Prep Sparring
-"Silverthorn, Makenzie",Level 3/Prep Sparring
+"Lehto, Sherry",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Socanski, Mia",Level 3/Prep Sparring
+"Stozek, Fahlon",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"Cooper, Everett",Level 3/Prep Sparring
+"DeFeo, Ethan",Level 3/Prep Sparring
+"Lehto, Sherry",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
+"Manuello, Garrett",Level 3/Prep Sparring
+"Pollock, Connor",Level 3/Prep Sparring
 "Socanski, Mia",Level 3/Prep Sparring
 "Socanski, Luka",Level 3/Prep Sparring
 "Spence, Ashlyn",Level 3/Prep Sparring
+"Vigil, Jaelynn",Level 3/Prep Sparring
+"Vigil, Analise",Level 3/Prep Sparring
+"Vigil, Adaya",Level 3/Prep Sparring
+"Vigil, Moniece",Level 3/Prep Sparring
 "Wachter, Olivia",Level 3/Prep Sparring
+"Young, Hayden",Level 3/Prep Sparring
+"Young, Leah",Level 3/Prep Sparring
+"Binder, Hannah",Level 3/Prep Sparring
+"Brasher, Jamison",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"Dobnak, Tara",Level 3/Prep Sparring
+"Lehto, Sherry",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Socanski, Mia",Level 3/Prep Sparring
+"Steidley, Jennifer",Level 3/Prep Sparring
+"Vigil, Analise",Level 3/Prep Sparring
+"Vigil, Jaelynn",Level 3/Prep Sparring
+"Vigil, Adaya",Level 3/Prep Sparring
+"Vigil, Moniece",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Zuver, Melanie",Level 3/Prep Sparring
+"Baughman, Maggie",Level 3/Prep Sparring
+"Baughman, Gillian",Level 3/Prep Sparring
+"Baughman, Audrey",Level 3/Prep Sparring
+"Binder, Hannah",Level 3/Prep Sparring
+"Colaizzi, Domenic",Level 3/Prep Sparring
+"DeFeo, Ethan",Level 3/Prep Sparring
+"Dobnak, Riane",Level 3/Prep Sparring
+"Dobnak, Tara",Level 3/Prep Sparring
+"Dority, Brandi",Level 3/Prep Sparring
+"Jocelyn, Chance",Level 3/Prep Sparring
+"Kryscio, Christine",Level 3/Prep Sparring
+"Lehto, Sherry",Level 3/Prep Sparring
+"Maldonado, Cabe",Level 3/Prep Sparring
+"McPhee, Cedric",Level 3/Prep Sparring
+"Socanski, Luka",Level 3/Prep Sparring
+"Socanski, Mia",Level 3/Prep Sparring
+"Steidley, Jennifer",Level 3/Prep Sparring
+"Vigil, Analise",Level 3/Prep Sparring
+"Vigil, Jaelynn",Level 3/Prep Sparring
+"Vigil, Adaya",Level 3/Prep Sparring
+"Vigil, Moniece",Level 3/Prep Sparring
+"Wachter, Olivia",Level 3/Prep Sparring
+"Wilcoxen, Connor",Level 3/Prep Sparring
+"Young, Leah",Level 3/Prep Sparring
+"Young, Hayden",Level 3/Prep Sparring
+"Zuver, Melanie",Level 3/Prep Sparring
+"Cooper, Everett",Level 3/Prep/Cond
+"DeFeo, Ethan",Level 3/Prep/Cond
+"Dobnak, Riane",Level 3/Prep/Cond
+"Dobnak, Tara",Level 3/Prep/Cond
+"Lehto, Sherry",Level 3/Prep/Cond
+"Manuello, Matteson",Level 3/Prep/Cond
+"Manuello, Garrett",Level 3/Prep/Cond
+"McPhee, Cedric",Level 3/Prep/Cond
+"Ortega, Justice",Level 3/Prep/Cond
+"Ortiz, Nicholas",Level 3/Prep/Cond
+"Socanski, Luka",Level 3/Prep/Cond
+"Socanski, Mia",Level 3/Prep/Cond
+"Spence, Ashlyn",Level 3/Prep/Cond
+"Stebbins, Scott",Level 3/Prep/Cond
+"Stebbins, Noah",Level 3/Prep/Cond
+"Stebbins, Ian",Level 3/Prep/Cond
+"Stozek, Fahlon",Level 3/Prep/Cond
+"Wachter, Olivia",Level 3/Prep/Cond
+"Zuver, Melanie",Level 3/Prep/Cond
+"DeFeo, Ethan",Level 3/Prep/Cond
+"Dobnak, Riane",Level 3/Prep/Cond
+"Kryscio, Christine",Level 3/Prep/Cond
+"Lehto, Sherry",Level 3/Prep/Cond
+"Lynch, Brayden",Level 3/Prep/Cond
+"Manuello, Garrett",Level 3/Prep/Cond
+"Manuello, Matteson",Level 3/Prep/Cond
+"McPhee, Cedric",Level 3/Prep/Cond
+"Ortega, Justice",Level 3/Prep/Cond
+"Ortiz, Nicholas",Level 3/Prep/Cond
+"Socanski, Mia",Level 3/Prep/Cond
+"Socanski, Luka",Level 3/Prep/Cond
+"Stebbins, Noah",Level 3/Prep/Cond
+"Stebbins, Scott",Level 3/Prep/Cond
+"Wachter, Olivia",Level 3/Prep/Cond
+"Christensen, Jayden",Level 3/Prep/Cond
+"DeFeo, Ethan",Level 3/Prep/Cond
+"Dobnak, Riane",Level 3/Prep/Cond
+"Dobnak, Tara",Level 3/Prep/Cond
+"Gomez, Carter",Level 3/Prep/Cond
+"Lehto, Sherry",Level 3/Prep/Cond
+"Manuello, Matteson",Level 3/Prep/Cond
+"Manuello, Garrett",Level 3/Prep/Cond
+"Ortiz, Nicholas",Level 3/Prep/Cond
+"Socanski, Luka",Level 3/Prep/Cond
+"Socanski, Mia",Level 3/Prep/Cond
+"Stebbins, Scott",Level 3/Prep/Cond
+"Stebbins, Noah",Level 3/Prep/Cond
+"Stebbins, Ian",Level 3/Prep/Cond
+"Wachter, Olivia",Level 3/Prep/Cond
+"Zuver, Melanie",Level 3/Prep/Cond
+"Baughman, Maggie",Level 3/Prep/Cond
+"Baughman, Audrey",Level 3/Prep/Cond
+"Baughman, Gillian",Level 3/Prep/Cond
+"Dobnak, Tara",Level 3/Prep/Cond
+"Dobnak, Riane",Level 3/Prep/Cond
+"Lehto, Sherry",Level 3/Prep/Cond
+"Manuello, Garrett",Level 3/Prep/Cond
+"McPhee, Cedric",Level 3/Prep/Cond
+"Ortega, Justice",Level 3/Prep/Cond
+"Socanski, Mia",Level 3/Prep/Cond
+"Socanski, Luka",Level 3/Prep/Cond
+"Spence, Ashlyn",Level 3/Prep/Cond
+"Steidley, Jennifer",Level 3/Prep/Cond
+"Stozek, Fahlon",Level 3/Prep/Cond
+"Wachter, Olivia",Level 3/Prep/Cond
+"Zuver, Melanie",Level 3/Prep/Cond
+"Baughman, Gillian",Level 3/Prep/Cond
+"Baughman, Audrey",Level 3/Prep/Cond
+"Baughman, Maggie",Level 3/Prep/Cond
+"DeFeo, Ethan",Level 3/Prep/Cond
+"Dobnak, Riane",Level 3/Prep/Cond
+"Dobnak, Tara",Level 3/Prep/Cond
+"Lehto, Sherry",Level 3/Prep/Cond
+"Manuello, Garrett",Level 3/Prep/Cond
+"McPhee, Cedric",Level 3/Prep/Cond
+"Ortega, Justice",Level 3/Prep/Cond
+"Ortiz, Nicholas",Level 3/Prep/Cond
+"Socanski, Luka",Level 3/Prep/Cond
+"Socanski, Mia",Level 3/Prep/Cond
+"Spence, Ashlyn",Level 3/Prep/Cond
+"Wachter, Olivia",Level 3/Prep/Cond
+"Bowman, Madison",Lvl 3/Prep/BB/2nd Sparring
+"Cooper, Everett",Lvl 3/Prep/BB/2nd Sparring
+"Cooper, Lucas",Lvl 3/Prep/BB/2nd Sparring
+"Dobnak, Tara",Lvl 3/Prep/BB/2nd Sparring
+"Harker, Carson",Lvl 3/Prep/BB/2nd Sparring
+"Jantz, Evan",Lvl 3/Prep/BB/2nd Sparring
+"Jocelyn, Chance",Lvl 3/Prep/BB/2nd Sparring
+"Lehto, Sherry",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Brayden",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Daniel",Lvl 3/Prep/BB/2nd Sparring
+"Manuello, Garrett",Lvl 3/Prep/BB/2nd Sparring
+"Manuello, Matteson",Lvl 3/Prep/BB/2nd Sparring
+"Ortega, Justice",Lvl 3/Prep/BB/2nd Sparring
+"Parker, William",Lvl 3/Prep/BB/2nd Sparring
+"Pidek, Hayley",Lvl 3/Prep/BB/2nd Sparring
+"Pidek, Seanna",Lvl 3/Prep/BB/2nd Sparring
+"Pidek, Aaron",Lvl 3/Prep/BB/2nd Sparring
+"Pinkerton, Kyle",Lvl 3/Prep/BB/2nd Sparring
+"Rosene, Seth",Lvl 3/Prep/BB/2nd Sparring
+"Schmitz, Tanner",Lvl 3/Prep/BB/2nd Sparring
+"Silverthorn, Makenzie",Lvl 3/Prep/BB/2nd Sparring
+"Skanderbeg, Tiana",Lvl 3/Prep/BB/2nd Sparring
+"Stozek, Fahlon",Lvl 3/Prep/BB/2nd Sparring
+"Teff, Tanner",Lvl 3/Prep/BB/2nd Sparring
+"Vigil, Jaelynn",Lvl 3/Prep/BB/2nd Sparring
+"Vigil, Analise",Lvl 3/Prep/BB/2nd Sparring
+"Vigil, Adaya",Lvl 3/Prep/BB/2nd Sparring
+"Vigil, Moniece",Lvl 3/Prep/BB/2nd Sparring
+"Zuver, Melanie",Lvl 3/Prep/BB/2nd Sparring
 "Anderson, Max",Lvl 3/Prep/BB/2nd Sparring
 "Anderson, Makiah",Lvl 3/Prep/BB/2nd Sparring
 "Augat, Jake",Lvl 3/Prep/BB/2nd Sparring
-"Berg, Noah",Lvl 3/Prep/BB/2nd Sparring
+"Berschling, Eli",Lvl 3/Prep/BB/2nd Sparring
+"Bowman, Madison",Lvl 3/Prep/BB/2nd Sparring
+"Cooper, Everett",Lvl 3/Prep/BB/2nd Sparring
+"Cooper, Lucas",Lvl 3/Prep/BB/2nd Sparring
 "De Spirlet, Andre",Lvl 3/Prep/BB/2nd Sparring
-"Dobnak, Riane",Lvl 3/Prep/BB/2nd Sparring
-"Hoffmann, Dave",Lvl 3/Prep/BB/2nd Sparring
-"Jocelyn, Chance",Lvl 3/Prep/BB/2nd Sparring
+"Gomez, Carter",Lvl 3/Prep/BB/2nd Sparring
+"Harker, Carson",Lvl 3/Prep/BB/2nd Sparring
+"Harmon, James",Lvl 3/Prep/BB/2nd Sparring
+"Harmon, Sierra",Lvl 3/Prep/BB/2nd Sparring
+"Jantz, Evan",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Brayden",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Daniel",Lvl 3/Prep/BB/2nd Sparring
+"Manuello, Matteson",Lvl 3/Prep/BB/2nd Sparring
 "Manuello, Garrett",Lvl 3/Prep/BB/2nd Sparring
 "Masche, Will",Lvl 3/Prep/BB/2nd Sparring
 "Ortega, Justice",Lvl 3/Prep/BB/2nd Sparring
 "Parker, William",Lvl 3/Prep/BB/2nd Sparring
-"Pidek, Seanna",Lvl 3/Prep/BB/2nd Sparring
 "Pollock, Connor",Lvl 3/Prep/BB/2nd Sparring
-"Rosene, Seth",Lvl 3/Prep/BB/2nd Sparring
-"Rosene, Robert",Lvl 3/Prep/BB/2nd Sparring
+"Skanderbeg, Tiana",Lvl 3/Prep/BB/2nd Sparring
+"Spence, Ashlyn",Lvl 3/Prep/BB/2nd Sparring
 "Teff, Tanner",Lvl 3/Prep/BB/2nd Sparring
-"Young, Hayden",Lvl 3/Prep/BB/2nd Sparring
-"Young, Leah",Lvl 3/Prep/BB/2nd Sparring
-"Anderson, Max",Prep Belt
-"Arjona, Genoveva",Prep Belt
-"Bowman, Madison",Prep Belt
+"Cooper, Lucas",Lvl 3/Prep/BB/2nd Sparring
+"Cooper, Everett",Lvl 3/Prep/BB/2nd Sparring
+"De Spirlet, Andre",Lvl 3/Prep/BB/2nd Sparring
+"Harker, Carson",Lvl 3/Prep/BB/2nd Sparring
+"Harmon, James",Lvl 3/Prep/BB/2nd Sparring
+"Harmon, Sierra",Lvl 3/Prep/BB/2nd Sparring
+"Hawley, Lauren",Lvl 3/Prep/BB/2nd Sparring
+"Jantz, Evan",Lvl 3/Prep/BB/2nd Sparring
+"Jocelyn, Chance",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Daniel",Lvl 3/Prep/BB/2nd Sparring
+"Manuello, Garrett",Lvl 3/Prep/BB/2nd Sparring
+"Manuello, Matteson",Lvl 3/Prep/BB/2nd Sparring
+"Masche, Will",Lvl 3/Prep/BB/2nd Sparring
+"Ortega, Justice",Lvl 3/Prep/BB/2nd Sparring
+"Panning, Jennifer",Lvl 3/Prep/BB/2nd Sparring
+"Parker, William",Lvl 3/Prep/BB/2nd Sparring
+"Pidek, Seanna",Lvl 3/Prep/BB/2nd Sparring
+"Pinsky, Eli",Lvl 3/Prep/BB/2nd Sparring
+"Pollock, Connor",Lvl 3/Prep/BB/2nd Sparring
+"Skanderbeg, Tiana",Lvl 3/Prep/BB/2nd Sparring
+"Spence, Ashlyn",Lvl 3/Prep/BB/2nd Sparring
+"Stozek, Fahlon",Lvl 3/Prep/BB/2nd Sparring
+"Aasheim, Patrick",Lvl 3/Prep/BB/2nd Sparring
+"Bowman, Madison",Lvl 3/Prep/BB/2nd Sparring
+"Flythe, Kaylee",Lvl 3/Prep/BB/2nd Sparring
+"Grant, Lexi",Lvl 3/Prep/BB/2nd Sparring
+"Hendrickson, Alex",Lvl 3/Prep/BB/2nd Sparring
+"Hendrickson, Mason",Lvl 3/Prep/BB/2nd Sparring
+"Jantz, Evan",Lvl 3/Prep/BB/2nd Sparring
+"Masche, Will",Lvl 3/Prep/BB/2nd Sparring
+"Mestas, Jessica",Lvl 3/Prep/BB/2nd Sparring
+"Pidek, Aaron",Lvl 3/Prep/BB/2nd Sparring
+"Pinsky, Eli",Lvl 3/Prep/BB/2nd Sparring
+"Rosene, Kimberly",Lvl 3/Prep/BB/2nd Sparring
+"Rosene, Robert",Lvl 3/Prep/BB/2nd Sparring
+"Rosene, Seth",Lvl 3/Prep/BB/2nd Sparring
+"Schmitz, Tanner",Lvl 3/Prep/BB/2nd Sparring
+"Skanderbeg, Tiana",Lvl 3/Prep/BB/2nd Sparring
+"Teff, Tanner",Lvl 3/Prep/BB/2nd Sparring
+"Bowman, Madison",Lvl 3/Prep/BB/2nd Sparring
+"Hendrickson, Mason",Lvl 3/Prep/BB/2nd Sparring
+"Jantz, Evan",Lvl 3/Prep/BB/2nd Sparring
+"Lynch, Daniel",Lvl 3/Prep/BB/2nd Sparring
+"Masche, Will",Lvl 3/Prep/BB/2nd Sparring
+"Minnihan, Andrew",Lvl 3/Prep/BB/2nd Sparring
+"Pas-Flythe, Bethany",Lvl 3/Prep/BB/2nd Sparring
+"Pinkerton, Kyle",Lvl 3/Prep/BB/2nd Sparring
+"Pinsky, Eli",Lvl 3/Prep/BB/2nd Sparring
+"Schmitz, Tanner",Lvl 3/Prep/BB/2nd Sparring
+"Steyn, Heather",Lvl 3/Prep/BB/2nd Sparring
 "Dobnak, Riane",Prep Belt
-"Jersey, Johnathan",Prep Belt
+"Manuello, Garrett",Prep Belt
 "McPhee, Cedric",Prep Belt
-"Minnihan, Andrew",Prep Belt
-"Musich, Kylie",Prep Belt
 "Ortega, Justice",Prep Belt
-"Ramos Arjona, Santiago",Prep Belt
 "Spence, Ashlyn",Prep Belt
 "Wachter, Olivia",Prep Belt
+"Anderson, Max",Women's Sparring Clinic
+"Anderson, Makiah",Women's Sparring Clinic
+"Colaizzi, Domenic",Women's Sparring Clinic
+"Dobnak, Tara",Women's Sparring Clinic
+"Dority, Brandi",Women's Sparring Clinic
+"Kimball, Amy",Women's Sparring Clinic
+"Kryscio, Christine",Women's Sparring Clinic
+"Panning, Jennifer",Women's Sparring Clinic
+"Pas-Flythe, Bethany",Women's Sparring Clinic
+"Pidek, Aaron",Women's Sparring Clinic
+"Zuver, Melanie",Women's Sparring Clinic
+"Braun, Kathi",Women's Sparring Clinic
+"Braun, Gil",Women's Sparring Clinic
+"Kryscio, Christine",Women's Sparring Clinic
+"Panning, Jennifer",Women's Sparring Clinic
+"Pas-Flythe, Bethany",Women's Sparring Clinic
+"Steyn, Heather",Women's Sparring Clinic
+"Wachter, Olivia",Women's Sparring Clinic
+"Anderson, Makiah",Women's Sparring Clinic
+"Anderson, Max",Women's Sparring Clinic
+"Bowman, Madison",Women's Sparring Clinic
+"Hoffman, Robert",Women's Sparring Clinic
+"Lehto, Sherry",Women's Sparring Clinic
+"Panning, Jennifer",Women's Sparring Clinic
+"Pas-Flythe, Bethany",Women's Sparring Clinic
+"Pidek, Aaron",Women's Sparring Clinic
+"Steyn, Heather",Women's Sparring Clinic
+"Anderson, Max",Women's Sparring Clinic
+"Anderson, Makiah",Women's Sparring Clinic
+"Braun, Kathi",Women's Sparring Clinic
+"Dobnak, Tara",Women's Sparring Clinic
+"Dobnak, Riane",Women's Sparring Clinic
+"Kimball, Amy",Women's Sparring Clinic
+"Kryscio, Christine",Women's Sparring Clinic
+"Pas-Flythe, Bethany",Women's Sparring Clinic
+"Schmitz, Tanner",Women's Sparring Clinic
+"Steyn, Heather",Women's Sparring Clinic
+"Anderson, Makiah",Women's Sparring Clinic
+"Anderson, Max",Women's Sparring Clinic
+"Bowman, Madison",Women's Sparring Clinic
+"Braun, Kathi",Women's Sparring Clinic
+"Braun, Gil",Women's Sparring Clinic
+"Dobnak, Tara",Women's Sparring Clinic
+"Pas-Flythe, Bethany",Women's Sparring Clinic
+"Steyn, Heather",Women's Sparring Clinic
+"Augat, Jake",Camp Swat
+"Bowman, Madison",Camp Swat
+"Bowman, Madison",Camp Swat
+"Cooper, Lucas",Camp Swat
+"Cooper, Lucas",Camp Swat
+"Cooper, Lucas",Camp Swat
+"Cooper, Lucas",Camp Swat
+"Cooper, Lucas",Camp Swat
+"Jantz, Evan",Camp Swat
+"Jantz, Evan",Camp Swat
+"Jantz, Evan",Camp Swat
+"Jantz, Evan",Camp Swat
+"Jantz, Evan",Camp Swat
+"Lynch, Daniel",Camp Swat
+"Lynch, Daniel",Camp Swat
+"Lynch, Daniel",Camp Swat
+"Lynch, Daniel",Camp Swat
+"Lynch, Daniel",Camp Swat
+"Manuello, Garrett",Camp Swat
+"Manuello, Garrett",Camp Swat
+"Manuello, Garrett",Camp Swat
+"Manuello, Garrett",Camp Swat
+"Manuello, Garrett",Camp Swat
+"Masche, Will",Camp Swat
+"Masche, Will",Camp Swat
+"Masche, Will",Camp Swat
+"Ortega, Justice",Camp Swat
+"Ortega, Justice",Camp Swat
+"Ortega, Justice",Camp Swat
+"Ortega, Justice",Camp Swat
+"Ortega, Justice",Camp Swat
+"Pinsky, Eli",Camp Swat
+"Pratt, Emma",Camp Swat
+"Pratt, Emma",Camp Swat
+"Pratt, Emma",Camp Swat
+"Rosene, Seth",Camp Swat
+"Rosene, Seth",Camp Swat
+"Rosene, Seth",Camp Swat
+"Rosene, Seth",Camp Swat
+"Schmitz, Tanner",Camp Swat
+"Schmitz, Tanner",Camp Swat
+"Schmitz, Tanner",Camp Swat
+"Schmitz, Tanner",Camp Swat
+"Schmitz, Tanner",Camp Swat
+"Skanderbeg, Tiana",Camp Swat
+"Skanderbeg, Tiana",Camp Swat
+"Skanderbeg, Tiana",Camp Swat
+"Skanderbeg, Tiana",Camp Swat
+"Teff, Tanner",Camp Swat
+"Wachter, Olivia",Camp Swat
+"Zuver, Hunter",Camp Swat
+"Zuver, Hunter",Camp Swat
+"Zuver, Hunter",Camp Swat
+"Zuver, Hunter",Camp Swat
 ,
 ,

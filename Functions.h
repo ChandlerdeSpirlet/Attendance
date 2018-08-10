@@ -28,9 +28,9 @@ struct Student {//Create struct object for each student
 };
 
 
-string version = "1.8.1";
-string releaseNotes = "Introduces an option to change the amount of required classes.";
-string releaseDate = "16 February 2018";
+string version = "1.9.0";
+string releaseNotes = "Added Camp Swat class";
+string releaseDate = "10 Aug 2018";
 string userName = "admin";
 
 int swatNum = 16;
@@ -90,11 +90,9 @@ void initStudent(Student &student, const string &name) {
     student.shortOnSwat = true;
 }
 
-void addBBToArr(){//Input for list of black belts. Works as expected.
-    //cout<<"Enter the filename with the black belt names including the file type: ";
-    string bbFileName = "bbList.txt";
-    //string bbFileName;
-    //getline(cin, bbFileName);
+void addBBToArr(string fileName){//Update for V.2 (no parameter in original)
+    string bbFileName = fileName;
+    //string bbFileName = "bbList.txt";
     string studentName;
     string line;
     ifstream inFile;
@@ -133,6 +131,10 @@ void addClassHelper(Student &student, string &classType){//Checks to see what cl
         //cout << "Add Class: " << classType << " to " << student.name << endl;
         student.swatCount++;//increment class count by one
     }
+    else if (classType == "CampSwat"){
+        student.swatCount = student.swatCount + 6;
+        //adds 6 to the swat count for camps
+    }
     else if ((classType == "Lvl3/Prep/BB/2ndSparring") ||
              (classType == "BlackBelt/2ndDegreeSparring") ||
              (classType == "Lvl3/PrepSparring") ||
@@ -154,7 +156,8 @@ void addClassHelper(Student &student, string &classType){//Checks to see what cl
              (classType == "Level2Exclusive") ||
              (classType == "Exclusive2/3") ||
              (classType == "Basic") ||
-             (classType == "Exclusive1"))
+             (classType == "Exclusive1") ||
+             (classType == "Level3/Prep/Cond"))
     {
         //cout << "Add Class: " << classType << " to " << student.name << endl;
         student.regularClassCount++;
@@ -173,11 +176,9 @@ string constructName(string first, string last){//Changes name to allow for comp
     return final;
 }
 
-void populateClasses(){//Processing file with names and class types
-    //cout<<"Enter the filename with the black belt visits including the class type: ";
-    string classFileName = "report.csv";
-    //string classFileName;
-    //getline(cin, classFileName);
+void populateClasses(string fileName){//Updated for V.2 (no parameter in original)
+    string classFileName = fileName;
+    //string classFileName = "report.csv";
     string line;
     string studentNameFirst;
     string studentNameLast;
@@ -320,10 +321,11 @@ void getSecondaryMenu(){
     cout<<"3. Quit."<<endl;
 }
 
-void printBugLog(){
+void printBugLog(string fileName){//Updated for V.2 (no parameter in original)
     cout<<"ID - Status - Description"<<endl;
     cout<<"========================="<<endl;
-    string bugList = "buglog.txt";
+    //string bugList = "buglog.txt";
+    string bugList = fileName;
     string ID;
     string status;
     string description;
@@ -349,7 +351,8 @@ void getInfo(){
     cout<<"Version: "<<version<<endl;
     cout<<"Release notes: "<<releaseNotes<<endl;
     cout<<"Release date: "<<releaseDate<<endl;
-    printBugLog();
+    //printBugLog();
+    //printBugLog - removed
 }
 
 Student* updateStudent(Student *temp){

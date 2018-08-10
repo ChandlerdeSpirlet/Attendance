@@ -11,8 +11,16 @@
 
 
 int main(int argc, const char * argv[]) {
-    addBBToArr();
-    populateClasses();
+    /*
+    if (argc == 4){
+        cout<<argv[0]<<" "<<argv[1]<<" "<<argv[2]<<" "<<argv[3]<<endl;
+    }
+    else{
+        cout<<argc<<endl;
+    }
+     */
+    addBBToArr("bbList.txt");
+    populateClasses("report.csv");
     bool quit = false;
     while (!quit){
         printMenu();
@@ -36,11 +44,11 @@ int main(int argc, const char * argv[]) {
                 printDeficientClasses();
             }
                 break;
-            case 4:{
+            case 4:{//Show those with enough classes
                 printEnoughClasses();
             }
                 break;
-            case 5:{
+            case 5:{//Update class counts
                 int spar, reg, swat;
                 string temp;
                 cout<<"New number of SWATs: ";
@@ -55,12 +63,12 @@ int main(int argc, const char * argv[]) {
                 updateClassReq(swat, reg, spar);
             }
                 break;
-            case 6:{
+            case 6:{//Exit
                 quit = true;
                 cout<<"Goodbye!"<<endl;
             }
                 break;
-            case 7:{
+            case 7:{//Admin access
                 cout<<"Username: ";
                 string userInput;
                 getline(cin, userInput);
@@ -75,7 +83,7 @@ int main(int argc, const char * argv[]) {
                 bool correctPass = false;
                 int passAttempt = 0;
                 while (!correctPass){
-                    const char *correct_password = "rootUser";
+                    const char *correct_password = "password";
                     string password = getpass("Password: ",true); // Show asterisks
                     if (password == correct_password){
                         correctPass = true;
@@ -99,12 +107,13 @@ int main(int argc, const char * argv[]) {
                     getline(cin, userin);
                     int intuserin = stoi(userin);
                     switch (intuserin) {
-                        case 1:{
+                        case 1:{//Bug log
                             getInfo();
+                            printBugLog("buglog.txt");
                         }
                             break;
                         case 2:{//b1143 - RESOLVED
-                            bool going;
+                            bool going;//Update to correct counts
                             cout<<"Enter the student's name: ";
                             string newName;
                             getline(cin, newName);
@@ -117,7 +126,7 @@ int main(int argc, const char * argv[]) {
                             }
                         }
                             break;
-                        case 3:{
+                        case 3:{//Exit Admin Access
                             worked = false;
                             cout<<"Exiting."<<endl;
                         }
@@ -137,4 +146,3 @@ int main(int argc, const char * argv[]) {
         }
     }
 }
-
